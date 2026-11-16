@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Repositori Tugas Akhir — DKV ITEBA</title>
+<meta name="description" content="Repositori karya Tugas Akhir mahasiswa Program Studi Desain Komunikasi Visual, Institut Teknologi Batam.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{--ink:#14110f;--paper:#f6f3ee;--muted:#6b645c;--line:#ddd6cc;--acc:#e8462b}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:Inter,system-ui,sans-serif;background:var(--paper);color:var(--ink);line-height:1.5}
+a{color:inherit}
+header{padding:28px 6vw;display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid var(--line)}
+.logo{font-family:'Space Grotesk';font-weight:700;letter-spacing:.02em}
+.logo span{color:var(--acc)}
+nav a{margin-left:24px;text-decoration:none;font-size:14px;color:var(--muted)}
+nav a:hover{color:var(--ink)}
+.hero{padding:9vh 6vw 6vh;display:grid;grid-template-columns:2fr 1fr;gap:40px;align-items:end}
+.hero h1{font-family:'Space Grotesk';font-size:clamp(40px,7vw,96px);line-height:.95;letter-spacing:-.03em}
+.hero h1 em{font-style:normal;color:var(--acc)}
+.hero p{color:var(--muted);max-width:42ch}
+.stats{display:flex;gap:40px;padding:0 6vw 40px}
+.stats b{display:block;font-family:'Space Grotesk';font-size:40px}
+.stats small{color:var(--muted);font-size:13px}
+.toolbar{position:sticky;top:0;z-index:5;background:var(--paper);padding:16px 6vw;border-top:1px solid var(--line);border-bottom:1px solid var(--line);display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+.toolbar input,.toolbar select{font:inherit;font-size:14px;padding:10px 14px;border:1px solid var(--line);background:#fff;border-radius:999px}
+.toolbar input{flex:1;min-width:220px}
+.chips{display:flex;flex-wrap:wrap;gap:6px;padding:16px 6vw 0}
+.chip{font-size:13px;padding:6px 14px;border:1px solid var(--line);border-radius:999px;cursor:pointer;background:transparent}
+.chip.on{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.count{padding:14px 6vw 0;font-size:13px;color:var(--muted)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:28px;padding:20px 6vw 80px}
+.card{cursor:pointer;display:flex;flex-direction:column}
+.cover{aspect-ratio:16/9;border-radius:6px;overflow:hidden;position:relative;display:flex;align-items:flex-end;padding:16px;color:#fff}
+.cover img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transition:transform .4s}
+.cover .tag{position:relative;font-size:11px;letter-spacing:.08em;text-transform:uppercase;background:rgba(0,0,0,.35);padding:4px 8px;border-radius:3px;backdrop-filter:blur(4px)}
+.cover .big{position:absolute;top:12px;right:16px;font-family:'Space Grotesk';font-size:64px;font-weight:700;opacity:.25;line-height:1}
+.card:hover img{transform:scale(1.04)}
+.card:hover .cover{outline:2px solid var(--ink);outline-offset:3px}
+.card h3{font-size:15px;font-weight:600;margin-top:12px;line-height:1.35;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.card p{font-size:13px;color:var(--muted);margin-top:4px}
+.modal{position:fixed;inset:0;background:rgba(20,17,15,.6);display:none;align-items:center;justify-content:center;padding:20px;z-index:20}
+.modal.open{display:flex}
+.box{background:var(--paper);max-width:720px;width:100%;border-radius:10px;overflow:hidden;max-height:90vh;overflow-y:auto}
+.box .cover{aspect-ratio:16/9;border-radius:0}
+.box .in{padding:28px}
+.box h2{font-family:'Space Grotesk';font-size:24px;line-height:1.2;margin-bottom:16px}
+.meta{display:grid;grid-template-columns:130px 1fr;gap:6px 12px;font-size:14px;margin-bottom:20px}
+.meta dt{color:var(--muted)}
+.btn{display:inline-block;background:var(--ink);color:var(--paper);padding:11px 20px;border-radius:999px;text-decoration:none;font-size:14px;margin-right:8px}
+.btn.ghost{background:transparent;color:var(--ink);border:1px solid var(--ink);cursor:pointer;font:inherit;font-size:14px}
+.about{padding:60px 6vw;border-top:1px solid var(--line);display:grid;grid-template-columns:1fr 2fr;gap:40px}
+.about h2{font-family:'Space Grotesk';font-size:28px}
+.about p{color:var(--muted);margin-bottom:12px}
+footer{padding:30px 6vw;font-size:13px;color:var(--muted);border-top:1px solid var(--line)}
+.empty{grid-column:1/-1;text-align:center;color:var(--muted);padding:60px}
+@media(max-width:760px){.hero,.about{grid-template-columns:1fr}nav{display:none}.stats{gap:24px;flex-wrap:wrap}}
+</style>
+</head>
+<body>
+<header>
+  <div class="logo">DKV <span>ITEBA</span> · Repositori TA</div>
+  <nav><a href="#karya">Karya</a><a href="#tentang">Tentang</a></nav>
+</header>
+
+<section class="hero">
+  <h1>Karya <em>Tugas Akhir</em> Mahasiswa DKV</h1>
+  <p>Arsip karya Tugas Akhir mahasiswa Program Studi Desain Komunikasi Visual, Fakultas Teknologi Informasi, Institut Teknologi Batam.</p>
+</section>
+<div class="stats" id="stats"></div>
+
+<div class="toolbar" id="karya">
+  <input id="q" type="search" placeholder="Cari judul, nama, NIM, pembimbing, kata kunci…">
+  <select id="sem"><option value="">Semua semester</option></select>
+</div>
+<div class="chips" id="chips"></div>
+<div class="count" id="count"></div>
+<main class="grid" id="grid"></main>
+
+<section class="about" id="tentang">
+  <h2>Tentang Repositori</h2>
+  <div>
+    <p>Repositori ini mendokumentasikan luaran Tugas Akhir mahasiswa DKV ITEBA sebagai bukti capaian pembelajaran lulusan dan rekam jejak karya prodi.</p>
+    <p>Karya dikelompokkan berdasarkan semester kelulusan dan bidang perancangan. Tautan karya mengarah ke berkas resolusi tinggi yang disimpan oleh mahasiswa.</p>
+  </div>
+</section>
+
+<footer>© <span id="yr"></span> Program Studi Desain Komunikasi Visual · Institut Teknologi Batam</footer>
+
+<div class="modal" id="modal"><div class="box" id="box"></div></div>
+
+<script src="data/karya.js"></script>
+<script>
+const palette={'Branding & Identitas':['#e8462b','#f29e4c'],'Ilustrasi & Buku':['#3b6ea5','#8ec5e8'],'Game & Interaktif':['#4b2e83','#c86dd7'],'UI/UX & Aplikasi':['#1f7a6b','#7fd1ae'],'Animasi & Motion':['#d9a400','#f5df4d'],'Video & Film':['#222','#666'],'Lainnya':['#8a6f55','#cbb79c']};
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const cap=s=>s.toLowerCase().replace(/(^|[\s(“"])(\p{L})/gu,(m,a,b)=>a+b.toUpperCase()).replace(/\b(Ui|Ux|Umkm|Dkv|Iteba)\b/g,w=>w.toUpperCase());
+const initials=n=>n.split(' ').slice(0,2).map(w=>w[0]).join('');
+let kat='';
+const sems=[...new Set(KARYA.map(k=>k.semester))];
+sems.forEach(s=>$('#sem').insertAdjacentHTML('beforeend',`<option>${esc(s)}</option>`));
+const kats=[...new Set(KARYA.map(k=>k.kategori))].sort((a,b)=>a==='Lainnya'?1:b==='Lainnya'?-1:a.localeCompare(b));
+$('#stats').innerHTML=`<div><b>${KARYA.length}</b><small>Karya TA</small></div><div><b>${sems.length}</b><small>Semester</small></div><div><b>${kats.length}</b><small>Bidang karya</small></div>`;
+function chips(){$('#chips').innerHTML=['',...kats].map(k=>`<button class="chip ${k===kat?'on':''}" data-k="${esc(k)}">${k||'Semua bidang'}</button>`).join('')}
+function cover(k,big){const [a,b]=palette[k.kategori]||palette.Lainnya;
+  return `<div class="cover" style="background:linear-gradient(135deg,${a},${b})">${k.thumbnail?`<img src="${esc(k.thumbnail)}" alt="" loading="lazy">`:`<span class="big">${esc(initials(k.nama))}</span>`}<span class="tag">${esc(k.kategori)}</span></div>`}
+function render(){
+  const q=$('#q').value.toLowerCase().trim(),s=$('#sem').value;
+  const list=KARYA.filter(k=>(!s||k.semester===s)&&(!kat||k.kategori===kat)&&(!q||(k.judul+' '+k.nama+' '+k.nim+' '+k.pembimbing+' '+k.penguji+' '+k.kata_kunci).toLowerCase().includes(q)));
+  $('#count').textContent=`Menampilkan ${list.length} dari ${KARYA.length} karya`;
+  $('#grid').innerHTML=list.length?list.map(k=>`<article class="card" data-id="${k.id}">${cover(k)}<h3>${esc(cap(k.judul))}</h3><p>${esc(k.nama)} · ${esc(k.semester)}</p></article>`).join(''):'<div class="empty">Tidak ada karya yang cocok.</div>';
+}
+function open(id){const k=KARYA.find(x=>x.id==id);
+  $('#box').innerHTML=`${cover(k)}<div class="in"><h2>${esc(cap(k.judul))}</h2><dl class="meta"><dt>Mahasiswa</dt><dd>${esc(k.nama)}</dd><dt>NIM</dt><dd>${esc(k.nim)}</dd><dt>Semester lulus</dt><dd>${esc(k.semester)}</dd><dt>Bidang</dt><dd>${esc(k.kategori)}</dd>${k.pembimbing?`<dt>Pembimbing</dt><dd>${esc(k.pembimbing).replace(' &amp; ','<br>')}${k.sk_pembimbing?`<br><small style="color:var(--muted)">SK Dekan No. ${esc(k.sk_pembimbing)}</small>`:''}</dd>`:''}${k.penguji?`<dt>Penguji</dt><dd>${esc(k.penguji).replace(' &amp; ','<br>')}${k.sk_penguji?`<br><small style="color:var(--muted)">SK Dekan No. ${esc(k.sk_penguji)}</small>`:''}</dd>`:''}</dl>${k.abstrak?`<h4 style="font-family:Space Grotesk;margin-bottom:6px">Abstrak</h4><p style="margin-bottom:10px;font-size:14px;text-align:justify">${esc(k.abstrak)}</p>`:''}${k.kata_kunci?`<p style="font-size:13px;color:var(--muted);margin-bottom:20px"><b>Kata kunci:</b> ${esc(k.kata_kunci)}</p>`:''}${/^https?:\/\//.test(k.karya)?`<a class="btn" href="${esc(k.karya)}" target="_blank" rel="noopener">Lihat Karya ↗</a>`:''}<button class="btn ghost" onclick="closeM()">Tutup</button></div>`;
+  $('#modal').classList.add('open')}
+function closeM(){$('#modal').classList.remove('open')}
+$('#grid').onclick=e=>{const c=e.target.closest('.card');if(c)open(c.dataset.id)};
+$('#chips').onclick=e=>{if(e.target.dataset.k!==undefined){kat=e.target.dataset.k;chips();render()}};
+$('#modal').onclick=e=>{if(e.target.id==='modal')closeM()};
+document.onkeydown=e=>{if(e.key==='Escape')closeM()};
+$('#q').oninput=render;$('#sem').onchange=render;
+$('#yr').textContent=new Date().getFullYear();
+chips();render();
+</script>
+</body>
+</html>
