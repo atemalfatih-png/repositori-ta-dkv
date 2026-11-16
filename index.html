@@ -50,6 +50,10 @@ nav a:hover{color:var(--ink)}
 .meta{display:grid;grid-template-columns:130px 1fr;gap:6px 12px;font-size:14px;margin-bottom:20px}
 .meta dt{color:var(--muted)}
 .btn{display:inline-block;background:var(--ink);color:var(--paper);padding:11px 20px;border-radius:999px;text-decoration:none;font-size:14px;margin-right:8px}
+.nolink{display:inline-block;font-size:13px;color:var(--muted);margin-right:8px;font-style:italic}
+.report{margin-top:18px;padding-top:14px;border-top:1px dashed var(--line);font-size:13px;color:var(--muted)}
+.report a{color:var(--acc);font-weight:600;text-decoration:none}
+.report a:hover{text-decoration:underline}
 .btn.ghost{background:transparent;color:var(--ink);border:1px solid var(--ink);cursor:pointer;font:inherit;font-size:14px}
 .about{padding:60px 6vw;border-top:1px solid var(--line);display:grid;grid-template-columns:1fr 2fr;gap:40px}
 .about h2{font-family:'Space Grotesk';font-size:28px}
@@ -93,6 +97,17 @@ footer{padding:30px 6vw;font-size:13px;color:var(--muted);border-top:1px solid v
 
 <script src="karya.js"></script>
 <script>
+// === Pengaturan tombol lapor ===
+// Isi REPORT_EMAIL dengan email prodi agar laporan dikirim via email.
+// Jika dikosongkan, laporan dibuat sebagai Issue di GitHub (pelapor perlu akun GitHub).
+const REPORT_EMAIL='';
+const REPO='atemalfatih-png/repositori-ta-dkv';
+function reportUrl(k,jenis){
+  const subj=`[Lapor] ${jenis} — ${k.nama} (${k.nim})`;
+  const body=`Karya: ${k.judul}\nMahasiswa: ${k.nama} (${k.nim})\nSemester: ${k.semester}\nTautan karya: ${k.karya||'(tidak ada)'}\nMasalah: ${jenis}\n\nKeterangan tambahan:\n`;
+  return REPORT_EMAIL?`mailto:${REPORT_EMAIL}?subject=${encodeURIComponent(subj)}&body=${encodeURIComponent(body)}`
+    :`https://github.com/${REPO}/issues/new?title=${encodeURIComponent(subj)}&body=${encodeURIComponent(body)}&labels=laporan`;
+}
 const palette={'Branding & Identitas':['#e8462b','#f29e4c'],'Ilustrasi & Buku':['#3b6ea5','#8ec5e8'],'Game & Interaktif':['#4b2e83','#c86dd7'],'UI/UX & Aplikasi':['#1f7a6b','#7fd1ae'],'Animasi & Motion':['#d9a400','#f5df4d'],'Video & Film':['#222','#666'],'Lainnya':['#8a6f55','#cbb79c']};
 const $=s=>document.querySelector(s);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -113,7 +128,7 @@ function render(){
   $('#grid').innerHTML=list.length?list.map(k=>`<article class="card" data-id="${k.id}">${cover(k)}<h3>${esc(cap(k.judul))}</h3><p>${esc(k.nama)} · ${esc(k.semester)}</p></article>`).join(''):'<div class="empty">Tidak ada karya yang cocok.</div>';
 }
 function open(id){const k=KARYA.find(x=>x.id==id);
-  $('#box').innerHTML=`${cover(k)}<div class="in"><h2>${esc(cap(k.judul))}</h2><dl class="meta"><dt>Mahasiswa</dt><dd>${esc(k.nama)}</dd><dt>NIM</dt><dd>${esc(k.nim)}</dd><dt>Semester lulus</dt><dd>${esc(k.semester)}</dd><dt>Bidang</dt><dd>${esc(k.kategori)}</dd>${k.pembimbing?`<dt>Pembimbing</dt><dd>${esc(k.pembimbing).replace(' &amp; ','<br>')}${k.sk_pembimbing?`<br><small style="color:var(--muted)">SK Dekan No. ${esc(k.sk_pembimbing)}</small>`:''}</dd>`:''}${k.penguji?`<dt>Penguji</dt><dd>${esc(k.penguji).replace(' &amp; ','<br>')}${k.sk_penguji?`<br><small style="color:var(--muted)">SK Dekan No. ${esc(k.sk_penguji)}</small>`:''}</dd>`:''}</dl>${k.abstrak?`<h4 style="font-family:Space Grotesk;margin-bottom:6px">Abstrak</h4><p style="margin-bottom:10px;font-size:14px;text-align:justify">${esc(k.abstrak)}</p>`:''}${k.kata_kunci?`<p style="font-size:13px;color:var(--muted);margin-bottom:20px"><b>Kata kunci:</b> ${esc(k.kata_kunci)}</p>`:''}${/^https?:\/\//.test(k.karya)?`<a class="btn" href="${esc(k.karya)}" target="_blank" rel="noopener">Lihat Karya ↗</a>`:''}<button class="btn ghost" onclick="closeM()">Tutup</button></div>`;
+  $('#box').innerHTML=`${cover(k)}<div class="in"><h2>${esc(cap(k.judul))}</h2><dl class="meta"><dt>Mahasiswa</dt><dd>${esc(k.nama)}</dd><dt>NIM</dt><dd>${esc(k.nim)}</dd><dt>Semester lulus</dt><dd>${esc(k.semester)}</dd><dt>Bidang</dt><dd>${esc(k.kategori)}</dd>${k.pembimbing?`<dt>Pembimbing</dt><dd>${esc(k.pembimbing).replace(' &amp; ','<br>')}${k.sk_pembimbing?`<br><small style="color:var(--muted)">SK Dekan No. ${esc(k.sk_pembimbing)}</small>`:''}</dd>`:''}${k.penguji?`<dt>Penguji</dt><dd>${esc(k.penguji).replace(' &amp; ','<br>')}${k.sk_penguji?`<br><small style="color:var(--muted)">SK Dekan No. ${esc(k.sk_penguji)}</small>`:''}</dd>`:''}</dl>${k.abstrak?`<h4 style="font-family:Space Grotesk;margin-bottom:6px">Abstrak</h4><p style="margin-bottom:10px;font-size:14px;text-align:justify">${esc(k.abstrak)}</p>`:''}${k.kata_kunci?`<p style="font-size:13px;color:var(--muted);margin-bottom:20px"><b>Kata kunci:</b> ${esc(k.kata_kunci)}</p>`:''}${/^https?:\/\//.test(k.karya)?`<a class="btn" href="${esc(k.karya)}" target="_blank" rel="noopener">Lihat Karya ↗</a>`:`<span class="nolink">Tautan karya belum tersedia</span>`}<button class="btn ghost" onclick="closeM()">Tutup</button><div class="report"><span>Folder kosong atau tautan tidak bisa dibuka?</span> <a href="${reportUrl(k,/^https?:\/\//.test(k.karya)?'Folder karya kosong / tidak bisa diakses':'Tautan karya belum tersedia')}" target="_blank" rel="noopener">⚑ Laporkan</a></div></div>`;
   $('#modal').classList.add('open')}
 function closeM(){$('#modal').classList.remove('open')}
 $('#grid').onclick=e=>{const c=e.target.closest('.card');if(c)open(c.dataset.id)};
