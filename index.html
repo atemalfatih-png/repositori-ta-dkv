@@ -91,7 +91,7 @@ footer{padding:30px 6vw;font-size:13px;color:var(--muted);border-top:1px solid v
 
 <div class="modal" id="modal"><div class="box" id="box"></div></div>
 
-<script src="data/karya.js"></script>
+<script src="karya.js"></script>
 <script>
 const palette={'Branding & Identitas':['#e8462b','#f29e4c'],'Ilustrasi & Buku':['#3b6ea5','#8ec5e8'],'Game & Interaktif':['#4b2e83','#c86dd7'],'UI/UX & Aplikasi':['#1f7a6b','#7fd1ae'],'Animasi & Motion':['#d9a400','#f5df4d'],'Video & Film':['#222','#666'],'Lainnya':['#8a6f55','#cbb79c']};
 const $=s=>document.querySelector(s);
@@ -105,7 +105,7 @@ const kats=[...new Set(KARYA.map(k=>k.kategori))].sort((a,b)=>a==='Lainnya'?1:b=
 $('#stats').innerHTML=`<div><b>${KARYA.length}</b><small>Karya TA</small></div><div><b>${sems.length}</b><small>Semester</small></div><div><b>${kats.length}</b><small>Bidang karya</small></div>`;
 function chips(){$('#chips').innerHTML=['',...kats].map(k=>`<button class="chip ${k===kat?'on':''}" data-k="${esc(k)}">${k||'Semua bidang'}</button>`).join('')}
 function cover(k,big){const [a,b]=palette[k.kategori]||palette.Lainnya;
-  return `<div class="cover" style="background:linear-gradient(135deg,${a},${b})">${k.thumbnail?`<img src="${esc(k.thumbnail)}" alt="" loading="lazy">`:`<span class="big">${esc(initials(k.nama))}</span>`}<span class="tag">${esc(k.kategori)}</span></div>`}
+  return `<div class="cover" style="background:linear-gradient(135deg,${a},${b})">${k.thumbnail?`<img src="${esc(k.thumbnail.split('/').pop())}" alt="" loading="lazy">`:`<span class="big">${esc(initials(k.nama))}</span>`}<span class="tag">${esc(k.kategori)}</span></div>`}
 function render(){
   const q=$('#q').value.toLowerCase().trim(),s=$('#sem').value;
   const list=KARYA.filter(k=>(!s||k.semester===s)&&(!kat||k.kategori===kat)&&(!q||(k.judul+' '+k.nama+' '+k.nim+' '+k.pembimbing+' '+k.penguji+' '+k.kata_kunci).toLowerCase().includes(q)));
