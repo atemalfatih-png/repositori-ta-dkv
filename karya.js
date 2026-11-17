@@ -16,7 +16,7 @@ const KARYA = [
   "abstrak": "Prokrastinasi akademik merupakan perilaku menunda pekerjaan akademik meskipun individu mengetahui adanya konsekuensi dari penundaan tersebut. Fenomena ini dekat dengan kehidupan mahasiswa dan dapat dipengaruhi oleh berbagai faktor, seperti distraksi digital, kesulitan mengatur waktu, serta faktor internal berupa tekanan terhadap diri sendiri, overthinking, perfeksionisme, keraguan, dan rasa kewalahan. Kondisi tersebut dapat membuat mahasiswa kesulitan memulai tugas dan terjebak dalam siklus penundaan. Perancangan ini bertujuan menghasilkan buku ilustrasi naratif sebagai media refleksi diri bagi mahasiswa agar dapat mengenali dan memahami pengalaman prokrastinasi melalui cerita yang dekat dengan kehidupan sehari-hari. Metode yang digunakan adalah pendekatan kualitatif deskriptif dengan pengumpulan data melalui wawancara, observasi, kuesioner, dan studi literatur. Data yang diperoleh digunakan sebagai dasar dalam menentukan konsep cerita, karakter, konflik, serta pendekatan visual storytelling. Hasil perancangan berupa buku ilustrasi naratif berjudul “Sampai Kapan ‘Nanti?’” yang menggambarkan pengalaman seorang mahasiswa yang terjebak dalam kebiasaan menunda akibat tekanan internal, keraguan, dan kesulitan memulai. Evaluasi pasca pameran menunjukkan respons positif terhadap aspek visual, storytelling, dan pesan yang disampaikan. Buku dinilai mudah dipahami, relevan dengan pengalaman mahasiswa, serta mampu memberikan pemahaman dan refleksi mengenai kebiasaan menunda beserta dampaknya.",
   "kata_kunci": "Prokrastinasi Akademik, Buku Ilustrasi Naratif, Visual Storytelling, Mahasiswa, Refleksi Diri",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223038.pdf"
+  "jurnal": "https://drive.google.com/file/d/1FBzLSgK14C6Rjt-PrDvYhiQKClkmzGqi/view"
  },
  {
   "id": 2,
@@ -33,7 +33,7 @@ const KARYA = [
   "abstrak": "Perkembangan industri kreatif menuntut mahasiswa Desain Komunikasi Visual memiliki portofolio digital yang kredibel sebagai bukti kompetensi profesional. Portofolio digital kini menjadi representasi profesional dan akademik yang dapat diakses publik. Namun, mahasiswa DKV Institut Teknologi Batam belum memiliki wadah resmi yang dikelola secara institusional. Karya mereka tersebar di penyimpanan pribadi dan media sosial sehingga sulit diakses, rentan menjadi \"file mati\", dan lemah secara kredibilitas.Penelitian perancangan ini bertujuan menghasilkan rancangan antarmuka dan pengalaman pengguna website repositori portofolio digital yang mampu meningkatkan kredibilitas mahasiswa DKV ITEBA. Perancangan menggunakan pendekatan Design Thinking yaitu Empathize, Define, Ideate, Prototype, Test dengan metode mixed method. Data dikumpulkan melalui studi banding tiga platform utama yaitu Behance, Dribbble, dan website OCAD University, kuesioner diisi oleh 91 responden pada tahap validasi kebutuhan dan 36 responden pada tahap preferensi desain, wawancara mendalam terhadap lima mahasiswa, dan studi literatur, kemudian divalidasi melalui triangulasi. Hasil analisis menjadi dasar konsep dual-function platform yang memisahkan Showcase dan Archive dengan kontrol akses berbasis peran Role Base Acces Control dan fitur Request Access. Rancangan diwujudkan dari low-fidelity hingga high-fidelity prototype beserta design system, lalu dievaluasi pada pameran Tugas Akhir. Pengujian System Usability Scale, memperoleh skor 68,5 (kategori acceptable, di atas rata-rata), sedangkan persepsi kredibilitas memperoleh rata-rata 4,56 dari 5 lintas responden termasuk kalangan industri. Dengan demikian, rancangan ini dinilai mampu meningkatkan persepsi kredibilitas mahasiswa DKV ITEBA, serta dapat menjadi acuan bagi institusi dalam mengembangkan sistem repositori portofolio digital yang mendukung dokumentasi karya dan visibilitas akademik mahasiswa.",
   "kata_kunci": "Design Thinking; kredibilitas akademik; portfolio; repositori digital; UI/UX",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223025.pdf"
+  "jurnal": "https://drive.google.com/file/d/17rO9EUYWhiJAlOA6av8uq96Jh9RzuI8U/view"
  },
  {
   "id": 3,
@@ -50,7 +50,7 @@ const KARYA = [
   "abstrak": "Pertolongan pertama adalah penanganan atau perawatan awal dari terjadinya suatu penyakit atau kecelakaan, penanganan ini bisa dilakukan oleh orang awam sebab cedera kecil tidak harus mendapatkan perawatan lebih lanjut setelah diberi tindakan pertolongan pertama. Cedera merupakan kerusakan pada tubuh seperti memar, diskolasi otot, luka, diskolasi sendi, dan diskolasi tulang yang disebabkan oleh benturan atau gerakan yang berlebihan sehingga otot, sendi, dan tulang tidak dapat menahan beban ataupun menjalankan fungsinya dengan baik. PMR sebagai salah satu ekstrakulikuler yang berkaitan dengan kesehatan siswa yang tergabung dalam ektrakulikuler PMR bisa dibekali ilmu mengenai penanganan pertama di sekolah sehingga jika terjadi cedera atau kecelakaan di sekolah anggota PMR bisa melakukan penangan pertama sebelum korban dibawa ke rumah sakit untuk diberikan tindakan lebih lanjut. Tujuan dari perancangan ini adalah terancangnya video edukasi pertolongan pertama sebagai materi pembelajaran ekstrakulikuler PMR untuk SMA/SMK di batam. Metode pengumpulan data menggunakan wawancara, kuisioner kepada 50 responden dengan target usia 15-19 tahun, observasi, dan studi literatur. Hasil dari perancangan ini untuk menyediakan media edukasi yang membantu anggota PMR dalam memahami teknik pertolongan pertama.",
   "kata_kunci": "Cedera, Pertolongan pertama, PMR, Video Edukasi",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223012.pdf"
+  "jurnal": "https://drive.google.com/file/d/1QGU1imqXuVF6B8RZs_-YtRNYiHZkDpFY/view"
  },
  {
   "id": 4,
@@ -67,7 +67,7 @@ const KARYA = [
   "abstrak": "Kurangnya kepedulian generasi Z etnis Tionghoa di Kota Batam terhadap pelestarian tradisi festival budaya Tionghoa menjadi permasalahan yang dapat berdampak pada keberlangsungan budaya di masa depan. Generasi muda umumnya telah mengenal berbagai festival budaya Tionghoa, namun belum memiliki pemahaman dan keterlibatan yang mendalam terhadap makna serta nilai tradisi tersebut. Oleh karena itu, diperlukan media komunikasi visual yang mampu memberikan awareness dan mendorong partisipasi generasi muda dalam pelestarian budaya. Penelitian ini bertujuan merancang kampanye sosial tentang pentingnya pelestarian tradisi festival budaya Tionghoa terhadap generasi Z di Batam. Metodologi yang digunakan mengacu pada pendekatan research-based design melalui pengumpulan data berupa kuesioner, wawancara, observasi, survei lokasi, dan studi literatur. Data yang diperoleh dianalisis untuk menentukan strategi komunikasi visual, konsep kreatif, dan media kampanye yang sesuai dengan karakteristik target audiens. Hasil akhir perancangan berupa kampanye sosial dengan media utama video animasi berbasis Instagram Reels dan TikTok, yang didukung oleh media pendukung digital dan cetak. Kampanye menggunakan pendekatan visual yang fun, witty, dan relevan dengan budaya digital generasi Z agar pesan pelestarian budaya dapat diterima secara lebih efektif.",
   "kata_kunci": "Budaya Tionghoa, Festival Budaya, Generasi Z, Kampanye Sosial, Kota Batam",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223065.pdf"
+  "jurnal": "https://drive.google.com/file/d/1tAWDE92JkPWQ7_rkECNaWsORN9Smt66y/view"
  },
  {
   "id": 5,
@@ -84,7 +84,7 @@ const KARYA = [
   "abstrak": "Pelecehan seksual terhadap anak masih menjadi persoalan yang memerlukan perhatian. Anak usia dini membutuhkan pendampingan untuk mengenali batas tubuh, memahami situasi tidak nyaman, dan menyampaikan pengalaman kepada orang dewasa terpercaya. Perancangan ini bertujuan menghasilkan buku ilustrasi interaktif sebagai media pendukung edukasi perlindungan diri bagi anak usia 3-6 tahun di Kota Batam. Perancangan menggunakan pendekatan metode campuran (mixed methods). Data kuantitatif diperoleh melalui kuesioner terhadap 50 responden, sedangkan data kualitatif dikumpulkan melalui wawancara dengan satu psikolog anak, dua tenaga pengajar taman kanak-kanak, dan dua orang tua, observasi, serta studi literatur. Temuan menjadi dasar pengembangan konsep cerita, karakter, ilustrasi, warna, tipografi, tata letak, dan elemen interaktif. Produk yang dihasilkan adalah buku “Rino dan Rini Berani Jaga Diri” berukuran 21 × 21 cm, dengan ilustrasi kartun flat/semi-flat, narasi sederhana, dan elemen Lift-the-Flap yang digunakan secara selektif. Cerita mengenalkan anggota tubuh, bagian tubuh pribadi, batas tubuh, sentuhan aman dan tidak aman, hak berkata “tidak”, serta cara meminta bantuan kepada orang dewasa terpercaya melalui situasi sehari-hari. Buku dilengkapi Pojok Parenting untuk mendukung pendampingan orang tua. Evaluasi pada pameran melibatkan 33 responden dan uji coba terbatas kepada tiga anak. Tanggapan terhadap visual dan cerita secara umum positif, dengan masukan mengenai keterbacaan teks, konteks materi tertentu, dan kualitas cetak. Uji coba menunjukkan keterlibatan anak yang bervariasi sesuai usia dan kemampuan. Buku ini menjadi media pendukung edukasi yang tetap memerlukan pendampingan orang dewasa.",
   "kata_kunci": "Buku ilustrasi interaktif, perlindungan diri anak, edukasi anak usia dini, ilustrasi anak, Kota Batam",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223013.pdf"
+  "jurnal": "https://drive.google.com/file/d/1iOerHREwUc2IVRrXc3Wm0yC2szt7iBOJ/view"
  },
  {
   "id": 6,
@@ -101,7 +101,7 @@ const KARYA = [
   "abstrak": "Standar kecantikan yang mengaitkan kulit terang dengan kecantikan masih ditemukan dalam lingkungan sosial dan representasi media, sementara komentar serta penilaian tentang warna kulit turut memengaruhi pandangan remaja perempuan terhadap dirinya. Kondisi tersebut bisa memicu rasa insecure terhadap warna kulit, terutama saat warna kulit yang dimiliki dipandang tidak memenuhi standar kecantikan yang ada. Perancangan ini bertujuan untuk mengatasi rasa insecure atas warna kulit pada remaja perempuan berusia 13-18 tahun di Batam melalui perubahan cara pandang menjadi lebih positif dan meningkatkan kepercayaan diri terhadap warna kulit yang dimiliki. Metode perancangan menggunakan pendekatan komunikasi persuasif sebagai dasar pembuatan pesan, Fogg Behavior Model sebagai fondasi dalam mendorong perubahan perilaku, serta AISAS sebagai strategi media untuk mencapai dan membangun keterlibatan audiens. Kampanye sosial \"warnakulitKu\" dirancang dengan media utama video pendek yang berbasis storytelling, menggunakan role model untuk mengungkapkan pengalaman insecure, menyampaikan informasi, dan mengajak secara dekat dengan kehidupan remaja. Pesan kampanye diperkuat melalui media pendukung seperti konten media sosial, poster, media luar ruang, dan merchandise yang memiliki fungsi conditioning, informing, dan reminding. Desain ini menciptakan serangkaian media yang mendorong dan mengajak audiens untuk melihat warna kulit dengan cara yang lebih positif dan tidak menjadikan standar serta penilaian sosial sebagai tolok ukur dalam menilai diri mereka.",
   "kata_kunci": "Insecure, Kampanye Sosial, Remaja Perempuan, Standar Kecantikan, Warna Kulit",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223042.pdf"
+  "jurnal": "https://drive.google.com/file/d/1xK8WD7CiUSCRH9xoblpyzFjrRo3dbOe0/view"
  },
  {
   "id": 7,
@@ -118,7 +118,7 @@ const KARYA = [
   "abstrak": "Meningkatnya populasi lansia di Indonesia tidak selalu diikuti dengan dukungan emosional yang memadai. Gaya hidup generasi muda yang serba cepat, keterbatasan waktu, serta berkurangnya interaksi antargenerasi dapat membuat lansia mengalami kesepian dan merasa terabaikan. Permasalahan tersebut menjadi dasar pertanyaan perancangan, yaitu bagaimana merancang kampanye media interaktif yang informatif dan empatik untuk meningkatkan kepedulian generasi muda terhadap kesepian lansia serta mendorong tindakan sederhana dalam kehidupan sehari-hari. Perancangan ini bertujuan meningkatkan pemahaman dan kepedulian generasi muda terhadap kondisi emosional lansia. Metode pengumpulan data meliputi studi pustaka, wawancara dan observasi pada tiga panti jompo, serta dua kuesioner dengan masing-masing 53 dan 50 responden. Hasil pengumpulan data menunjukkan adanya kesenjangan antara kepedulian generasi muda terhadap lansia dan penerapannya dalam interaksi sehari-hari, terutama karena kesibukan dan keterbatasan komunikasi. Berdasarkan temuan tersebut, dirancang kampanye BeThere melalui media interaktif berupa video, media sosial, zine, postcard, serta media pendukung lainnya yang mengedukasi, membangun empati, dan mendorong tindakan sederhana untuk menciptakan interaksi yang lebih bermakna dengan lansia.",
   "kata_kunci": "Kampanye Sosial, Kepedulian, Kesepian, Lansia, Media Interaktif",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223062.pdf"
+  "jurnal": "https://drive.google.com/file/d/1vTHZfz1ZwtbFRvpefsRBZdDBsi18SByt/view"
  },
  {
   "id": 8,
@@ -135,7 +135,7 @@ const KARYA = [
   "abstrak": "Meningkatnya minat masyarakat dalam memelihara kucing di lingkungan perumahan perkotaan menimbulkan permasalahan dalam pengelolaan kotoran kucing. Sebagian pemilik kucing masih membuang kotoran secara tidak tepat karena mengutamakan kepraktisan, seperti membuangnya ke got atau parit, sehingga berpotensi menimbulkan dampak terhadap lingkungan dan risiko kesehatan seperti toksoplasmosis. Kondisi ini menunjukkan perlunya edukasi untuk meningkatkan kesadaran dan kepedulian pemilik kucing. Tugas akhir ini bertujuan merancang kampanye sosial sebagai media edukasi pengelolaan kotoran kucing bagi pemilik kucing, khususnya perempuan usia 21–23 tahun di lingkungan perumahan. Metode yang digunakan adalah pendekatan kualitatif melalui wawancara, observasi, kuesioner, dan studi literatur, dengan analisis perilaku audiens menggunakan Fogg Behavior Model. Hasil perancangan berupa kampanye sosial berbasis komunikasi visual edukatif melalui media digital dan cetak, dengan Instagram Reels sebagai media utama dan pesan “Terlihat Aman, Belum Tentu Aman”. Kampanye ini dirancang untuk meningkatkan kesadaran dan kepedulian serta mendorong perubahan perilaku pemilik kucing dalam mengelola dan membuang kotoran kucing secara lebih tepat dan bertanggung jawab.",
   "kata_kunci": "Edukasi, Kampanye Sosial, Pemilik Kucing, Pengelolaan Kotoran Kucing, Komunikasi Visual",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223077.pdf"
+  "jurnal": "https://drive.google.com/file/d/1oywC5S1_fNaL4Sohvb5UgqSlbICIO4QB/view"
  },
  {
   "id": 9,
@@ -152,7 +152,7 @@ const KARYA = [
   "abstrak": "Sampah plastik telah menjadi permasalahan lingkungan yang serius di Kota Batam dengan tingkat produksi yang tinggi setiap harinya. Permasalahan ini diperparah oleh tingkat ketidakpedulian masyarakat terhadap pengelolaan sampah plastik yang tergolong tinggi, rendahnya pemahaman tentang potensi nilai guna limbah plastik, serta belum optimalnya pemanfaatan desain sebagai media edukasi dan solusi kreatif. Kelompok usia 17-25 tahun tercatat sebagai segmen dengan tingkat konsumsi plastik tertinggi di Indonesia, namun mereka juga merupakan pasar dominan dalam industri merchandising karakter global yang menunjukkan potensi besar untuk menerima pendekatan edukasi melalui media visual yang relevan. Perancangan ini bertujuan menciptakan karakter 3D berbahan limbah botol plastik PET melalui teknologi 3D printing sebagai media komunikasi visual yang edukatif dan inspiratif. Dengan menerapkan prinsip Sustainable design, perancangan ini menunjukkan bahwa limbah plastik bukanlah akhir dari siklus material, melainkan dapat dikembangkan menjadi produk baru yang bernilai. Karakter 3D ini diharapkan dapat mengubah persepsi masyarakat terhadap sampah plastik dari material tidak bernilai menjadi produk bermakna, sekaligus mengomunikasikan pentingnya pengelolaan sampah plastik yang berkelanjutan. Karakter ini dapat dikembangkan menjadi Intellectual Property (IP) untuk berbagai aplikasi seperti merchandise, konten digital, dan kampanye edukasi lingkungan yang sejalan dengan Tujuan Pembangunan Berkelanjutan (SDGs), khususnya tujuan ke-12 tentang konsumsi dan produksi yang bertanggung jawab.",
   "kata_kunci": "3D Printing, Karakter 3D, Desain Berkelanjutan, Sampah Plastik, SDGs",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223104.pdf"
+  "jurnal": "https://drive.google.com/file/d/1Nq5f0v4rxxhidyH3fOiSdhrj0UxCUsGb/view"
  },
  {
   "id": 10,
@@ -169,7 +169,7 @@ const KARYA = [
   "abstrak": "Perancangan Visual Brand Identity ini bertujuan untuk membangun identitas visual yang konsisten serta memperkuat citra merek UMKM kuliner “RM Bude Longbud” di kalangan pekerja Kota Batam. RM Bude Longbud telah berdiri sejak tahun 1997 dan dikenal memiliki cita rasa khas, tetapi hingga saat ini belum memiliki logo serta penerapan identitas visual yang konsisten dan profesional. Perancangan ini menggunakan pendekatan mixed methods dengan pengumpulan data melalui wawancara, kuesioner, observasi, dan studi literatur. Data kuesioner dianalisis secara kuantitatif, sedangkan hasil wawancara dan observasi dianalisis secara kualitatif untuk mengetahui kebutuhan dan pandangan konsumen terhadap identitas visual RM Bude Longbud. Hasil penelitian menunjukkan bahwa elemen identitas visual, seperti logo, warna, kemasan, dan media promosi, berperan penting dalam membangun kepercayaan serta meningkatkan minat konsumen untuk melakukan kunjungan ulang. Berdasarkan temuan tersebut, perancangan difokuskan pada pengembangan elemen visual yang saling menyatu dan sesuai dengan karakter RM Bude Longbud. Hasil perancangan meliputi logo, warna, tipografi, maskot, dan supergrafis yang diterapkan pada berbagai media, seperti kemasan, peralatan makan, seragam, stationery, merchandise, dan booth pameran. Perancangan ini diharapkan dapat meningkatkan daya kenal, kepercayaan, dan citra profesional RM Bude Longbud di kalangan konsumen Kota Batam.",
   "kata_kunci": "Citra Merek, RM Bude Longbud, UMKM Kuliner, Visual Brand Identity",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223053.pdf"
+  "jurnal": "https://drive.google.com/file/d/1fHa3aS65f34-asIF7PFC0tasvytrDNQu/view"
  },
  {
   "id": 11,
@@ -186,7 +186,7 @@ const KARYA = [
   "abstrak": "Perancangan buku cerita ilustrasi sebagai media edukasi bagi calon pemilik kucing jalanan dilatarbelakangi oleh masih kurangnya pengetahuan mengenai cara memperlakukan, merawat, dan memenuhi kebutuhan dasar kucing jalanan sebelum dipelihara. Calon pemilik membutuhkan informasi yang mudah dipahami mengenai langkah awal dalam mendekati kucing, persiapan memelihara, kebutuhan dasar, serta perawatan kesehatan. Permasalahan tersebut menjadi dasar perancangan media edukasi yang mampu menyampaikan informasi secara ringan, menarik, dan dekat dengan kehidupan sehari-hari. Metode yang digunakan dalam perancangan ini adalah metode campuran (mixed method) melalui observasi, wawancara, dan kuesioner untuk memperoleh data mengenai pengetahuan dan kebutuhan informasi calon pemilik kucing. Data yang diperoleh kemudian dianalisis sebagai dasar dalam menentukan konsep cerita, materi edukasi, karakter, ilustrasi, warna, dan tata letak buku. Hasil akhir perancangan berupa buku cerita ilustrasi berukuran 21 × 21 cm yang menggabungkan alur cerita dengan materi edukasi mengenai pendekatan terhadap kucing jalanan, persiapan sebelum memelihara, pemberian makanan dan air, kebersihan, pemeriksaan kesehatan, serta tanggung jawab dalam memelihara kucing. Buku ini diharapkan dapat menjadi media edukasi yang informatif dan menarik bagi calon pemilik sehingga dapat membantu memahami langkah awal dan tanggung jawab dalam memelihara kucing jalanan.",
   "kata_kunci": "Kucing Jalanan, Buku Ilustrasi, Edukasi, Perawatan Kucing, Calon Pemilik",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223007.pdf"
+  "jurnal": "https://drive.google.com/file/d/1Nlq3Z-wtmZsJ-W00Fn_cG25kc2UtEMRC/view"
  },
  {
   "id": 12,
@@ -203,7 +203,7 @@ const KARYA = [
   "abstrak": "Fenomena parental time poverty semakin meningkat di Indonesia seiring dengan bertambahnya jumlah orang tua yang bekerja. Termasuk di Kota Batam yang memiliki biaya hidup yang tinggi sehingga menuntut kedua orang tua bekerja. Keterbatasan waktu ini berdampak pada kualitas interaksi antara anak dan orang tua, khususnya anak di usia 3-7 tahun yang berada pada masa golden age bagi tumbuh kembang. Permasalahan ini melatarbelakangi perancangan board game sebagai media untuk meningkatkan bonding dan quality time antara anak dan orang tua yang bekerja. Penelitian ini menggunakan mixed method untuk pengumpulan dan analisis data, serta design thinking sebagai metode perancangan. Hasil dari perancangan ini berupa board game berjudul Petualangan Keluarga Beruang: Misi Madu Ajaib yang menampilkan sebuah keluarga beruang yang terdiri dari Papa Bara, Mama Rara, dan Bima. Berdasarkan hasil uji coba, permainan ini mampu meningkatkan interaksi dan memberikan edukasi kepada anak dan orang tua, serta memberikan makna bonding melalui interaksi langsung. Dengan demikian, Petualangan Keluarga Beruang: Misi Madu Ajaib dapat menjadi salah satu alternatif media edukasi serta meningkatkan bonding dan quality time antara anak dan orang tua yang bekerja melalui aktivitas bermain bersama.",
   "kata_kunci": "Board Game, Bonding dan Quality Time, Design Thinking, Media Edukasi, Orang Tua dan Anak",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223078.pdf"
+  "jurnal": "https://drive.google.com/file/d/1A6lmu6DAjDBeCx1W4Q4Z0zCMu5KKkepm/view"
  },
  {
   "id": 13,
@@ -220,7 +220,7 @@ const KARYA = [
   "abstrak": "Penyakit mental seperti depresi, kecemasan, bipolar, dan skizofrenia mengalami peningkatan kasus secara global, terutama akibat pandemi COVID-19 yang menyebabkan isolasi sosial dan tekanan psikologis. Di Indonesia, sekitar 20% populasi berpotensi mengalami gangguan jiwa, namun akses pengobatan profesional masih sangat terbatas, dengan hanya 8-10% penderita yang mendapatkan penanganan. Batam sebagai salah satu wilayah juga mencatat jumlah penderita gangguan jiwa yang signifikan, disertai stigma sosial yang menghambat kesadaran dan penanganan dini. ADHD sebagai salah satu jenis gangguan mental kian meningkat, dengan prevalensi pada anak sekolah dasar yang bertambah sekitar 2,4% per tahun. Untuk mengatasi masalah stigma dan meningkatkan kesadaran, media animasi dipilih sebagai pendekatan edukasi yang efektif, karena pasar animasi global dan nasional sedang berkembang pesat dengan peminat yang luas. Studi menunjukkan animasi 2D memiliki efektivitas tinggi dalam promosi dan edukasi, dengan persentase mencapai 83-97%, sehingga diharapkan dapat membantu orang tua mengenali gejala ADHD lebih awal dan mendorong tindakan tepat. Penelitian ini menggunakan metode perancangan media animasi edukatif untuk meningkatkan pemahaman dan kesadaran masyarakat, khususnya orang tua, tentang pentingnya deteksi dini gangguan ADHD pada anak. Hasil dari perancangan ini diharapkan dapat memberikan kontribusi nyata dalam upaya pencegahan dan penanganan gangguan mental secara lebih baik.",
   "kata_kunci": "ADHD, animasi edukasi, deteksi dini, penyakit mental, stigma sosial",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223032.pdf"
+  "jurnal": "https://drive.google.com/file/d/1RktJbzREnmhdDqxGIqm4TQS3y3XKEnmv/view"
  },
  {
   "id": 14,
@@ -237,7 +237,7 @@ const KARYA = [
   "abstrak": "Perkembangan teknologi digital mendorong peningkatan signifikan penggunaan layanan pinjaman online di Indonesia, termasuk maraknya pinjaman online ilegal yang menimbulkan kerugian finansial, kebocoran data, dan tekanan psikologis bagi korbannya. Mahasiswa menjadi kelompok paling rentan akibat rendahnya literasi keuangan, gaya hidup konsumtif, serta meningkatnya pembelanjaan barang tidak penting yang mendorong kebutuhan dana cepat. Kota Batam, dengan karakteristik masyarakat digital dan budaya urban yang kuat, menjadi lokasi strategis untuk mengkaji fenomena ini. Penelitian ini menyoroti urgensi pengembangan kampanye visual edukatif berbasis Desain Komunikasi Visual (DKV) untuk meningkatkan kesadaran mahasiswa terhadap bahaya pinjaman online ilegal. Melalui pendekatan integratif yang menggabungkan faktor konsumtif, aktivitas hedonisme, dan literasi keuangan digital, perancangan kampanye ini diharapkan mampu menjadi solusi praktis dalam mengubah perilaku mahasiswa sekaligus menekan angka keterlibatan pada pinjaman online ilegal.",
   "kata_kunci": "Kampanye Visual, Pinjaman Ilegal, Hedonisme, Literasi Finansial, Mahasiswa",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2023055.pdf"
+  "jurnal": "https://drive.google.com/file/d/1qd00WrcZJfsflP22Qq_I_lMWmDok5ayq/view"
  },
  {
   "id": 15,
@@ -254,7 +254,7 @@ const KARYA = [
   "abstrak": ". Penilitian ini dilatar belakangi oleh masih rendahnya etika berkomentar di media sosial, khususnya di kalangan dewasa muda, yang disebabkan oleh belum terbentuknya kebiasaan untuk berkomentar secara santun. Kebiasaan berkomentar negatif yang terus dibiarkan dan dianggap wajar berpotensi memicu tindakan cyberbullying yang berdampak serius terhadap kesehatan mental korban. Oleh karena itu, perancangan ini bertujuan untuk merancang kampanye sosial yang mampu membangun kebiasaan berhenti sejenak dan berpikir sebelum berkomentar pada dewasa muda berusia 18–25 tahun sebagai upaya mengurangi potensi tindakan cyberbullying. Perancangan ini menggunakan metode campuran (mixed methods), dengan data kualitatif yang diperoleh melalui wawancara, observasi, dan studi literatur sebagai data utama, serta data kuantitatif yang diperoleh melalui kuesioner. Konsep kampanye disusun berdasarkan Fogg Behavior Model, teori pembentukan kebiasaan (habit formation), dan model AISAS. Hasil perancangan berupa kampanye sosial “Pause. Think. Post.” dengan big idea “Berpikir Sebelum Berkomentar”, yang divisualisasikan melalui ikon kura-kura dengan tiga fase pada cangkangnya, yaitu Pause, Think, dan Post. Video kampanye berdurasi pendek digunakan sebagai media utama, didukung oleh unggahan Instagram, poster, serta merchandise. Hasil yang diharapkan dari kampanye sosial ini dapat membangun sebuah kebiasaan untuk selalu berhenti sejanak, berpikir, baru berkomentar. Sehingga dapat mendorong perubahan sikap dan perilaku yang lebih berempati dan keterampilan komunikasi yang bijak. Penilitian juga diharapakan bisa memberi kontribusi dalam upaya mengurangi potensi tindakan cyberbullying serta mengajak para pengguna media sosial, khususnya generasi muda, untuk lebih bertanggung jawab.",
   "kata_kunci": "Cyberbullying, Desain Komunikasi Visual, Etika Berkomentar, Kampanye Visual, Kesejahteraan Mental, Literasi Digital, Membangun Kebiasaan",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223048.pdf"
+  "jurnal": "https://drive.google.com/file/d/1oXdzUzjT_t0jxqnUa84rhdg495BsONZ-/view"
  },
  {
   "id": 16,
@@ -271,7 +271,7 @@ const KARYA = [
   "abstrak": "Tugas akhir ini dilatarbelakangi oleh fenomena meningkatnya gangguan kecemasan di berbagai kelompok usia, khususnya remaja dan dewasa muda. Rendahnya tingkat kesadaran masyarakat terhadap gejala kecemasan mengakibatkan banyak individu tidak mampu mengenali kondisi emosionalnya, sehingga stigma dan salah persepsi masih sering ditemukan. Perancangan ini bertujuan untuk menghadirkan media edukatif yang dapat membantu masyarakat memahami tanda-tanda kecemasan melalui pengalaman interaktif. Metode yang digunakan meliputi observasi perilaku pemain di platform Roblox, wawancara dengan mahasiswa dan pengguna game digital, kuesioner, serta studi literatur mengenai kesehatan mental dan desain game edukatif. Data yang diperoleh dianalisis menggunakan metode deskriptif untuk merumuskan kebutuhan visual dan pengalaman pengguna. Hasil perancangan berupa game edukatif dengan tiga tahap utama: mengenali tandatanda kecemasan, menunjukkan empati terhadap penderita, serta memahami pentingnya kesehatan mental sebagai bagian dari keseimbangan hidup. Game ini diharapkan dapat awareness masyarakat secara terukur melalui interaksi visual dan narasi simbolik..",
   "kata_kunci": "Anxiety, Empati, Game Edukatif, Kesehatan Mental, Roblox",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223003.pdf"
+  "jurnal": "https://drive.google.com/file/d/1Kb0NgesW07ARMuhRmocDyvwaZ9V5fQWy/view"
  },
  {
   "id": 17,
@@ -288,7 +288,7 @@ const KARYA = [
   "abstrak": "Perayaan Tri Suci Waisak merupakan hari besar umat Buddha yang diperingati melalui berbagai rangkaian acara, salah satunya adalah Sannipata Waisak Kota Batam, yaitu acara puncak penutupan bersama seluruh vihara dan majelis Buddha di Kota Batam. Menjadi wadah kebersamaan umat Buddha sekaligus memperkuat nilai toleransi, harmoni, dan persatuan di tengah keberagaman masyarakat Acara ini telah menggunakan identitas visual logo yang sama sejak tahun 2017 hingga 2026, sehingga tampilannya dinilai kurang relevan dengan tren desain masa kini dan belum optimal dalam mendukung fungsi promosi acara, khususnya bagi target audiens generasi muda. Permasalahan tersebut mendasari perlunya perancangan rebranding identitas visual Sannipata Waisak Kota Batam agar tampil lebih minimalis, modern, dan komunikatif sebagai media promosi acara. Perancangan ini menggunakan metode penelitian campuran (mixed methods) dengan pendekatan exploratory sequential design, yang diawali dengan pengumpulan data kualitatif melalui wawancara kepada pengurus dan pengunjung acara, dilanjutkan dengan pengumpulan data kuantitatif melalui kuesioner daring kepada 74 responden masyarakat Kota Batam, serta didukung studi literatur. Data yang diperoleh dianalisis menggunakan metode deskriptif kualitatif dan kuantitatif, kemudian dilanjutkan dengan strategi segmenting, targeting, positioning (STP) dan analisis SWOT untuk merumuskan konsep visual. Hasil perancangan berupa identitas visual baru yang mengombinasikan elemen simbolis seperti rupang buddha, daun bodhi, jembatan barelang dengan gaya visual minimalis dan modern, lengkap dengan sistem warna, tipografi, serta pedoman penggunaannya. Identitas visual tersebut diimplementasikan pada berbagai media publikasi, kelengkapan acara, informasi acara, dekorasi, seragam, dan suvenir untuk meningkatkan efektivitas promosi dan daya tarik masyarakat terhadap acara Sannipata Waisak Kota Batam.",
   "kata_kunci": "Re-branding, identitas visual, Tri suci waisak, media promosi, Sannipata waisak ix",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223009.pdf"
+  "jurnal": "https://drive.google.com/file/d/11vrUXaZ5U75CdEl88LAA3F-caUXDRbAw/view"
  },
  {
   "id": 18,
@@ -305,7 +305,7 @@ const KARYA = [
   "abstrak": "Museum Batam Raja Ali Haji menghadapi rendahnya minat kunjungan, terutama dari wisatawan muda usia 18–25 tahun, yang berdampak pada penurunan jumlah pengunjung secara signifikan pada 2025. Mayoritas pengunjung saat ini adalah lansia dan anak sekolah, sementara kalangan remaja masih minim. Kondisi ini dipicu oleh promosi yang kurang optimal, minimnya pemanfaatan teknologi, serta cara penyampaian sejarah yang masih konvensional dan kurang menarik bagi generasi muda. Penelitian sebelumnya menunjukkan bahwa pendekatan storytelling, penguatan identitas visual, dan strategi promosi yang tepat dapat membantu membangun citra museum sebagai pusat edukasi dan pelestarian budaya. Berdasarkan hal tersebut, dirancang sebuah video iklan naratif bergaya sinematik yang mengusung pendekatan storytelling untuk memperkuat identitas museum, menarik minat generasi muda, dan mendorong kunjungan wisata. Proses perancangan menggunakan metode kualitatif, meliputi wawancara dengan remaja, observasi lapangan, kuesioner, dan studi literatur, yang kemudian dianalisis secara deskriptif-analitis untuk menentukan konsep kreatif, pesan utama, dan strategi komunikasi. Perancangan dilakukan melalui tiga tahap: pra-produksi (konsep, creative brief, naskah, storyboard), produksi (pengambilan gambar dan audio), dan pasca-produksi (editing, color grading, musik, serta judul). Hasil akhirnya berupa video iklan naratif Museum Batam Raja Ali Haji beserta media pendukung lainnya.",
   "kata_kunci": "Museum, Promosi, Storytelling, Video Iklan Naratif, dan Wisata Edukatif",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223026.pdf"
+  "jurnal": "https://drive.google.com/file/d/1-bhBrk6mSmpZ6DAOuCufk9m5VTzE9gO2/view"
  },
  {
   "id": 19,
@@ -322,7 +322,7 @@ const KARYA = [
   "abstrak": "Perancangan ini dilatarbelakangi oleh kondisi Indra Batik Batam, usaha batik khas Batam yang telah beroperasi sejak tahun 2010 namun belum memiliki sistem identitas visual yang dirancang secara terstruktur. Ketergantungan tinggi terhadap segmen pasar pemerintah membuat usaha ini rentan terhadap perubahan kebijakan, ditandai penurunan pesanan sekitar 50 persen pada periode 2024-2025, sementara pasar instansi swasta belum tergarap optimal akibat tampilan merek yang tidak konsisten. Observasi menemukan tiga varian logo berbeda dengan warna, tipografi, dan tata letak yang tidak seragam, sehingga permasalahan yang diangkat adalah bagaimana merancang rebranding identitas visual Indra Batik Batam yang sesuai karakter dan nilai merek serta dapat diterapkan konsisten pada segmen instansi di Kota Batam. Data dikumpulkan melalui wawancara, observasi, kuesioner, dan studi literatur, lalu diproses menggunakan kerangka Branding Process milik Wheeler yang meliputi riset, klarifikasi strategi, perancangan identitas, penciptaan titik sentuh, dan pengelolaan aset. Nilai kualitas dan keautentikan diterjemahkan menjadi dimensi brand personality competence dan sophistication yang membentuk logomark bertema ukiran Melayu, Jembatan Barelang, dan gonggong. Hasil akhir berupa sistem identitas visual baru yang dirangkum dalam Graphic Standard Manual berjudul Pedoman Identitas Visual Indra Batik Batam, diterapkan pada lima belas media touchpoints dalam empat kategori fungsi untuk mendukung komunikasi merek yang konsisten dan profesional bagi segmen instansi.",
   "kata_kunci": "Batik Batam, Graphic Standard Manual, Identitas Visual, Rebranding, Segmen Instansi",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223055.pdf"
+  "jurnal": "https://drive.google.com/file/d/14zDP7DTDq0jNt5VApbpUDvnxRR5F-Lcu/view"
  },
  {
   "id": 20,
@@ -339,7 +339,7 @@ const KARYA = [
   "abstrak": "Semakin banyaknya anak yang mengonsumsi konten digital berdurasi pendek setiap harinya membawa risiko nyata berupa overstimulasi visual, sebuah kondisi di mana otak anak menerima terlalu banyak rangsangan dari layar hingga berdampak pada perhatian dan perilaku mereka sehari-hari. Di sisi lain, banyak orang tua belum sepenuhnya memahami bahaya dari paparan visual yang cepat dan terus berulang ini, sehingga tanpa disadari anak semakin mudah bergantung pada stimulasi instan dari gadget. Berangkat dari kondisi tersebut, perancangan ini dilakukan melalui studi literatur tentang perkembangan anak, teori desain komunikasi visual, serta analisis pola konsumsi media digital secara deskriptif untuk menentukan pendekatan visual yang tepat sasaran. Hasilnya berupa sebuah Motion Graphic edukatif yang membantu orang tua memahami dampak overstimulasi visual, mengenali peran penting mereka dalam mendampingi anak, serta memberikan langkah-langkah sederhana yang bisa langsung diterapkan untuk membentuk kebiasaan digital yang lebih sehat bagi tumbuh kembang anak.",
   "kata_kunci": "Motion Graphic, Overstimulasi Visual, Anak, Orang Tua",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223052.pdf"
+  "jurnal": "https://drive.google.com/file/d/1b_HtofhoztvtFZ-BfTW6-QQ-KUTEjiG2/view"
  },
  {
   "id": 21,
@@ -373,7 +373,7 @@ const KARYA = [
   "abstrak": "Usaha Mikro, Kecil, dan Menengah (UMKM) memiliki peranan penting dalam mendukung aktivitas perekonomian masyarakat, termasuk di Kabupaten Bintan, Provinsi Kepulauan Riau. Penelitian ini berfokus pada perancangan visual branding untuk Seblak Endul, sebuah UMKM kuliner yang berdiri pada tahun 2024 dengan konsep seblak prasmanan. Permasalahan yang dihadapi adalah belum optimalnya penerapan identitas visual yang kuat, terstruktur, dan konsisten serta pemanfaatan media digital sebagai sarana komunikasi brand. Perancangan ini bertujuan menghasilkan visual brand identity yang sesuai dengan karakter Seblak Endul dan kebutuhan target audiens serta mendukung upaya peningkatan brand awareness. Hasil perancangan menghasilkan sistem identitas visual yang meliputi logo, warna, tipografi, kemasan, media sosial, dan media pendukung lainnya yang diselaraskan dengan karakter Seblak Endul. Penerapan identitas visual tersebut diharapkan dapat membantu memperkuat karakter brand, memudahkan konsumen dalam mengenali dan mengingat Seblak Endul, serta mendukung peningkatan brand awareness. Karena tahap pengujian terhadap hasil perancangan belum dilakukan, dampak penerapan identitas visual terhadap daya tarik, kepercayaan, kepuasan, dan brand awareness konsumen belum dapat dinyatakan sebagai hasil yang telah terukur..",
   "kata_kunci": "Brand Awareness, Identitas Merek, Seblak Endul, UMKM, Visual Branding ",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2123033.pdf"
+  "jurnal": "https://drive.google.com/file/d/1YUcVJwoLX_AHMBwxHVa57oe6PEnZ64iP/view"
  },
  {
   "id": 23,
@@ -390,7 +390,7 @@ const KARYA = [
   "abstrak": "Perancangan buku ilustrasi tentang pencegahan asam lambung untuk remaja sebagai upaya membantu kesadaran hidup sehat dilakukan dengan tujuan meningkatkan pemahaman serta kesadaran remaja usia 15–18 tahun dalam menjaga kesehatan lambung. Pada masa remaja, terdapat berbagai kebiasaan yang dapat memengaruhi kondisi lambung, seperti pola makan yang tidak teratur, melewatkan waktu makan, mengonsumsi makanan pedas dan makanan cepat saji, minuman bersoda, serta kurangnya waktu istirahat. Oleh karena itu, buku ilustrasi dirancang sebagai media edukasi dengan menggabungkan unsur visual dan cerita yang menarik sehingga informasi mengenai pencegahan asam lambung dapat disampaikan secara sederhana dan mudah dipahami. Metode perancangan menggunakan pengumpulan data melalui wawancara, observasi, kuesioner, dan studi literatur untuk memperoleh informasi yang sesuai dengan kebutuhan target audiens. Materi yang disampaikan dalam buku meliputi kebiasaan makan secara teratur, pemilihan makanan yang lebih sehat, pembatasan makanan pemicu, pemenuhan kebutuhan air putih, serta istirahat yang cukup. Penyampaian informasi dikemas melalui cerita Edo dan karakter Kapten Liquid dalam dunia imajinatif “Kerajaan Lambung” sebagai pendekatan untuk menyampaikan pesan edukasi secara komunikatif. Buku menggunakan gaya ilustrasi Vibrant Flat Design dan kartun untuk menciptakan tampilan visual yang menarik bagi remaja. Perancangan ini diharapkan dapat menjadi media edukasi visual yang membantu remaja memahami pentingnya menjaga kesehatan lambung sekaligus mendorong penerapan pola hidup sehat dalam kehidupan sehari-hari.",
   "kata_kunci": "Asam Lambung, Buku Ilustrasi, Edukasi Kesehatan, Pola Hidup Sehat, Remaja",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223043.pdf"
+  "jurnal": "https://drive.google.com/file/d/1s4MQJqKednTywpEe7w_Zo19XdEk1Bjfx/view"
  },
  {
   "id": 24,
@@ -407,7 +407,7 @@ const KARYA = [
   "abstrak": "Perkembangan industri kreatif turut mendorong pertumbuhan agensi kreatif di Kota Batam yang membutuhkan identitas visual konsisten untuk membangun citra profesional. Z Studio Agency merupakan creative agency dengan konsep One Stop Advertising yang menyediakan layanan fotografi, videografi, desain grafis, periklanan, dan manajemen influencer. Berdasarkan hasil observasi, wawancara, kuesioner, dan studi literatur, Z Studio Agency belum memiliki brand guidelines sebagai pedoman resmi dalam penerapan identitas visual, sehingga penggunaan elemen visual pada berbagai media belum memiliki standar yang konsisten. Perancangan ini bertujuan menghasilkan brand guidelines sebagai pedoman internal dalam menerapkan identitas visual Z Studio Agency secara konsisten dan terarah. Metode perancangan mengacu pada brand identity Wheeler (2024), yaitu conducting research, clarifying strategy, designing identity, creating touchpoints, dan managing assets. Hasil perancangan berupa brand guidelines yang memuat brand identity, verbal identity, dan visual identity, serta aturan penggunaan elemen visual dan penerapannya pada media pendukung. Perancangan mempertahankan identitas yang telah dimiliki Z Studio Agency dengan melakukan standardisasi agar penerapannya lebih konsisten pada berbagai kebutuhan komunikasi.",
   "kata_kunci": "Brand Guideline, Branding, Creative Agency, Identitas Visual, Konsistensi Visual",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223018.pdf"
+  "jurnal": "https://drive.google.com/file/d/1PTRwrlxHoXwxJtmlfcyL_f8heVhAOX2y/view"
  },
  {
   "id": 25,
@@ -424,7 +424,7 @@ const KARYA = [
   "abstrak": "Media sosial telah menjadi bagian yang tidak terpisahkan dari kehidupan Generasi Z, dengan 94% di antaranya menggunakan minimal satu platform media sosial secara aktif. Namun dibalik kemudahan yang ditawarkan, media sosial membentuk ilusi kesempurnaan melalui konten-konten yang terkurasi dan diperkuat oleh algoritma platform yang memprioritaskan konten dengan engagement tinggi. Ilusi ini memicu perbandingan sosial, FOMO (Fear of Missing Out), dan terbentuknya ekspektasi hidup yang tidak realistis yang berdampak pada kesehatan mental Generasi Z. Bahkan dokumen internal Facebook yang bocor pada tahun 2021 mengungkap bahwa perusahaan tersebut telah mengetahui Instagram memperburuk masalah body image pada 1 dari 3 remaja perempuan akibat perbandingan sosial. Penelitian ini bertujuan untuk merancang sebuah video dokumenter berjudul \"Digital Mask\" dengan pendekatan reflektif-edukatif dan gaya visual dark sinematik sebagai media edukasi literasi digital bagi Generasi Z. Video dokumenter ini menggabungkan perspektif dari influencer lifestyle dan konselor psikologi yang didukung oleh data kuantitatif dari 40 responden Generasi Z. Hasil perancangan menunjukkan bahwa video dokumenter dapat menjadi media yang efektif dalam meningkatkan kesadaran Generasi Z tentang dampak ilusi media sosial serta mendorong mereka untuk lebih kritis dan bijak dalam mengkonsumsi konten di media sosial.",
   "kata_kunci": "Ilusi Media Sosial, Generasi Z, Video Dokumenter",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2123034.pdf"
+  "jurnal": "https://drive.google.com/file/d/1jZCgTfbAsTLCBllv9UIUaQ42PPtvEH9R/view"
  },
  {
   "id": 26,
@@ -441,7 +441,7 @@ const KARYA = [
   "abstrak": "Down Syndrome merupakan kondisi genetik yang dapat memengaruhi perkembangan fisik, intelektual, dan sosial individu. Di Kota Batam, masih ditemukan kesalahpahaman mengenai Down Syndrome yang berpotensi menimbulkan stigma, diskriminasi, serta rendahnya penerimaan dan inklusi sosial. Permasalahan tersebut menunjukkan perlunya media komunikasi visual yang informatif, menarik, dan mudah dipahami untuk meningkatkan pemahaman serta membangun sikap yang lebih inklusif terhadap individu dengan Down Syndrome. Perancangan ini bertujuan menghasilkan motion graphic infografis tentang Down Syndrome sebagai media edukasi dan persuasi untuk mendorong penerimaan dan inklusi di lingkungan masyarakat Kota Batam. Metode pengumpulan data yang digunakan meliputi studi literatur, wawancara, kuesioner, dan observasi. Data dianalisis secara kualitatif dengan metode deskriptif melalui tahapan identifikasi, klasifikasi, deskripsi, dan interpretasi data. Proses perancangan dilakukan melalui tahap pra-produksi, produksi, dan pasca-produksi dengan menggabungkan ilustrasi, animasi, tipografi, warna, narasi, dan audio. Hasil perancangan berupa motion graphic infografis yang menyampaikan informasi mengenai Down Syndrome secara sederhana dan komunikatif. Berdasarkan tanggapan audiens, media yang dirancang dinilai informatif, menarik, mudah dipahami, dan mampu menambah wawasan mengenai Down Syndrome. Dengan demikian, motion graphic yang dirancang dapat menjadi media edukasi dan persuasi untuk membangun pemahaman, empati, serta sikap yang lebih inklusif terhadap individu dengan Down Syndrome di Kota Batam.",
   "kata_kunci": "Down Syndrome, Inklusi Sosial, Kota Batam, Motion Graphic, Stigma",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223050.pdf"
+  "jurnal": "https://drive.google.com/file/d/1fZdoSfgcjch9_9fefq4-qPg7jNXdUKad/view"
  },
  {
   "id": 27,
@@ -458,7 +458,7 @@ const KARYA = [
   "abstrak": "Kabupaten Natuna memiliki potensi wisata alam dan budaya yang besar, seperti wisata bahari, pantai berbatu granit, geopark, dan budaya masyarakat pesisir. Namun, potensi tersebut belum membentuk citra dan daya tarik yang kuat di benak masyarakat. Data kunjungan wisatawan menunjukkan penurunan signifikan pada tahun 2025 menjadi 17.453 orang, dengan kunjungan yang masih didominasi perjalanan dinas. Promosi yang tersedia juga cenderung informatif dan dokumentatif sehingga belum mampu membangun kedekatan emosional dengan audiens. Penelitian ini merancang video promosi berbasis storytelling berjudul “Song Gi Natuna: The Beauty of Northern Paradise” sebagai media komunikasi visual untuk meningkatkan daya tarik dan citra pariwisata Kabupaten Natuna, khususnya bagi Generasi Z dan wisatawan muda. Penulis menggunakan metode kualitatif dengan pendekatan desain komunikasi visual. Data diperoleh melalui wawancara, kuesioner, observasi, studi dokumentasi, dan studi literatur. Hasil perancangan berupa video dengan pendekatan cinematic storytelling yang mengangkat konsep Nature, Journey, dan Storytelling. Video menampilkan keindahan alam, budaya lokal, aktivitas wisata, dan suasana perjalanan di Natuna, serta didukung billboard, videotron, brosur, media sosial, dan merchandise. Hasil testing melalui pameran menunjukkan respons positif dan peningkatan ketertarikan audiens terhadap Natuna sebagai destinasi wisata.",
   "kata_kunci": "Citra Destinasi, Natuna, Pariwisata, Storytelling, Video Pormosi",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223080.pdf"
+  "jurnal": "https://drive.google.com/file/d/1KiSDIK9TiZhs7r4lP_GR2vKBBgNRYSci/view"
  },
  {
   "id": 28,
@@ -475,7 +475,7 @@ const KARYA = [
   "abstrak": "Industri ekonomi kreatif di Indonesia terus menunjukkan perkembangan yang signifikan, terutama pada subsektor fashion yang memiliki peran besar dalam membentuk gaya hidup dan preferensi visual masyarakat. Di Kota Batam, perkembangan sektor ini semakin terlihat seiring dengan karakter masyarakat yang modern, dinamis, serta cepat mengikuti tren global. Kedekatan Batam dengan Singapura dan Malaysia turut mendorong tingginya arus produk fashion luar negeri, sehingga menimbulkan persaingan yang ketat antara brand lokal dan brand internasional. Situasi ini membuat konsumen muda, khususnya Generasi Z, menjadi lebih selektif dalam memilih produk fashion yang tidak hanya terjangkau, tetapi juga memiliki nilai estetika, konsep visual, dan identitas yang kuat. Salah satu brand lokal yang mencoba memenuhi kebutuhan tersebut adalah Hitsuraku. Namun, brand ini masih menghadapi masalah berupa kurangnya identitas visual yang konsisten dan menonjol, sehingga belum mampu membangun citra profesional maupun meningkatkan daya tarik di mata target audiens. Penelitian dan perancangan ini dilakukan untuk menciptakan identitas visual yang mampu merepresentasikan karakter brand, sekaligus relevan dengan perkembangan subculture yang mempengaruhi gaya hidup generasi muda Batam. Metode yang digunakan meliputi studi literatur, observasi tren fashion lokal, serta wawancara dengan target konsumen untuk memahami preferensi visual. Hasil akhir perancangan berupa sistem identitas visual mencakup logo, tipografi, palet warna, elemen grafis, serta penerapan pada media digital dan fisik. Dengan identitas visual yang terancang secara optimal, Hitsuraku diharapkan mampu bersaing di tengah industri fashion yang kompetitif dan memperkuat posisinya sebagai brand lokal yang dekat dengan karakter Gen Z di Kota Batam.",
   "kata_kunci": "Batam, Branding, Fashion Lokal, Generasi Z, Identitas Visual",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223072.pdf"
+  "jurnal": "https://drive.google.com/file/d/1lnu63mdCxt4Os0Kz8mA3jdJVQNwOK18f/view"
  },
  {
   "id": 29,
@@ -492,7 +492,7 @@ const KARYA = [
   "abstrak": "Nutrisi adalah salah satu hal yang sangat penting dalam kehidupan kita, lebih khususnya pada anak-anak di Indonesia yang masih berkembang. Memiliki nutrisi yang baik berarti tubuh mendapatkan asupan yang tepat dari makanan sehat. Akan tetapi, pola makan anak-anak di Indonesia masih jauh dari rekomendasi Pedoman Gizi Seimbang. Statistika menunjukkan sarapan yang diberikan kepada anak sekolah belum mencapai kebutuhan energi minimal saat sarapan, dan mayoritas memiliki kualitas sarapan yang rendah, terutama dalam kandungan vitamin dan mineral. Penelitian juga menemukan mayoritas anak di Indonesia mengonsumsi karbohidrat yang berlebihan, sedangkan anak-anak yang mengonsumsi buah dan sayur-sayuran tergolong rendah. Oleh karena itu, perancangan buku ilustrasi dilakukan sebagai salah satu upaya pencegahan malnutrisi, dimana memudahkan anak untuk mempelajari tentang tubuh sendiri, dan mengajurkan orang tua untuk memberikan makanan yang seimbang. Metodologi penelitian dalam perancangan ini menggunakan metode penelitian kualitatif yang berupa wawancara kepada orangtua dan ahli gizi, melakukan observasi kepada kebiasaan anak, survei toko buku, kuesioner, serta studi literatur mengenai teori terkait perancangan buku ilustrasi anak. Perancangan yang dilakukan meliputi proses perencanaan, pra roduksi, produksi, dan pasca produksi.",
   "kata_kunci": "Ilustrasi, Buku Ilustrasi, Buku Anak, Makanan Seimbang",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2123020.pdf"
+  "jurnal": "https://drive.google.com/file/d/1eKNtuFop9Is5bTvTrVujhPoKO3XBLhoF/view"
  },
  {
   "id": 30,
@@ -509,7 +509,7 @@ const KARYA = [
   "abstrak": "Bermain game merupakan aktivitas yang dapat memberikan hiburan sekaligus menjadi sarana untuk melepaskan stres, terutama bagi mahasiswa. Meski demikian, kebiasaan bermain yang dilakukan secara berlebihan tanpa adanya pengaturan waktu dan prioritas yang jelas dapat menimbulkan konsekuensi yang merugikan. Bagi mahasiswa, salah satu kerugian yang dalam aspek akademik adalah menggagalkan mata kuliah. Kondisi ini semakin relevan karena salah satu jenis game online yang berpotensi mendorong perilaku adiktif adalah game dengan model bisnis “gacha”. Mekanisme gacha sering memanfaatkan aspek fear of missing out melalui berbagai aktivitas dalam game, seperti tugas harian dan event karakter dengan waktu terbatas, sehingga pemain terdorong untuk terus melakukan aktivitas demi memperoleh kesempatan yang dianggap tidak boleh terlewatkan. Perancangan ini bertujuan untuk merancang animasi yang dapat mengingatkan dan persuasi untuk meningkatkan kesadaran mahasiswa mengenai masalah yang dapat dialami ketika bermain game secara berlebihan. Data penelitian dikumpulkan melalui metode kuantitatif dan kualitatif, yaitu wawancara, kuesioner, serta observasi partisipatif dan non partisipatif. Data kemudian dianalisis menggunakan analisis frekuensi kata dan analisis deskriptif untuk memahami sikap, perilaku, serta harapan mahasiswa tentang kebiasaan bermain game. Media utama dalam perancangan ini adalah animasi berdurasi enam menit yang menggabungkan animasi 2D dengan background 3D, yang menceritakan tentang konsekuensi yang dapat terjadi pada mahasiswa jika bermain game dengan berlebihan.",
   "kata_kunci": "Animasi, Game Gacha, Kecanduan Game, Manajemen Waktu, Perilaku Mahasiswa",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223005.pdf"
+  "jurnal": "https://drive.google.com/file/d/12hhD0vnCY2mi0F6duGc7IGqEqBzSvGJ5/view"
  },
  {
   "id": 31,
@@ -526,7 +526,7 @@ const KARYA = [
   "abstrak": "Infeksi kecacingan masih menjadi permasalahan kesehatan yang cukup tinggi di Indonesia, termasuk di Kota Batam, dengan anak usia 3-6 tahun sebagai kelompok yang paling rentan terpapar akibat perilaku hidup bersih dan sehat (PHBS) yang belum optimal. Upaya pencegahan yang dilakukan pemerintah selama ini berfokus pada penyampaian informasi satu arah, sementara aspek edukatif yang melibatkan anak secara aktif dan berkelanjutan belum banyak dikembangkan. Perancangan ini bertujuan menghasilkan buku cerita interaktif yang mampu mengedukasi anak usia 3-6 tahun mengenai penerapan PHBS sebagai upaya pencegahan kecacingan melalui pendekatan visual dan naratif yang sesuai dengan tahap perkembangan kognitif anak. Metode yang digunakan dalam perancangan ini adalah metode kualitatif deskriptif, meliputi wawancara terhadap guru PAUD/TK dan Sekolah Dasar, observasi terhadap anak dan lingkungan belajar, studi literatur. Data yang diperoleh dianalisisi menggunakan pendekatan 5W + 1H untuk merumuskan konsep perancangan yang sesuai dengan kebutuhan target audiens. Hasil perancangan berupa buku cerita interaktif yang berjudul “Petualangan Miko: Menjadi Anak Sehat” dengan tokoh utama Miko dan Bubu Sabun, yang menyampaikan kebiasaan PHBS seperti mencuci tangan, menjaga kebersihan kuku, penggunaan alas kaki, mandi dua kali sehari, serta memastikan makanan yang masuk kedalam tubuh adalah makanan yang bersih dan sehat. Perancangan ini dilengkapi pula dengan media pendukung dan media promosi sebagai satu kesatuan konsep visual.",
   "kata_kunci": "Buku Cerita Interaktif, Kecacingan, Media Edukasi, Perilaku Hidup Bersih dan Sehat Anak Usia Dini",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223089.pdf"
+  "jurnal": "https://drive.google.com/file/d/1MsNgu0k_mrpSYMVOuXjvU8pl_tGieid7/view"
  },
  {
   "id": 32,
@@ -543,7 +543,7 @@ const KARYA = [
   "abstrak": "Sektor pariwisata dan ekonomi kreatif memiliki peran penting bagi perekonomian Indonesia. Salah satu potensi wisata budaya lokal di Kota Batam adalah Kampung Seni Batam di Perumahan Bida Kharisma, kelurahan Belian, yang didirikan pada tahun 2020. Tempat ini berfungsi sebagai ruang kreatif, wadah edukasi, pameran seni rupa, dan produksi kerajinan tangan. Namun, tingkat pengenalan masyarakat lokal terhadap destinasi ini masih sangat rendah karena belum adanya identitas visual yang kuat dan promosi media sosial yang konsisten. Penelitian ini bertujuan merancang identitas visual berupa logo dan aktivasi media sosial Kampung Seni Batam untuk meningkatkan kesadaran publik serta daya tarik wisatawan lokal. Metode perancangan yang digunakan adalah pendekatan campuran (kualitatif dan kuantitatif), meliputi wawancara tidak terstruktur dengan pemilik, kuesioner kepada 35 responden eksternal berusia 18–30 tahun, dan survei langsung pada 11 April 2025. Data dianalisis menggunakan deskriptif kuantitatif, analisis STP, SWOT, dan USP. Hasil perancangan menghasilkan logo final berupa dua orang bergandengan tangan, bercak cat warna mint teal, dan tiga jalan berwarna pink. Perancangan visual ini menggunakan display font Vito Bold serta palet warna Tropical Mint, Tuscan Sun, Blue, dan Deep Pink. Seluruh aturan elemen dibakukan dalam panduan Graphic Standard Manual (GSM). Identitas diterapkan pada Instagram, TikTok, penunjuk arah, serta merchandise (kaus, lanyard, mug), brosur, dan denah lokasi. Perancangan ini berhasil memberikan solusi pencitraan yang konsisten untuk menarik minat wisatawan lokal.",
   "kata_kunci": "Branding, Desain Logo, Graphic Standard Manual, Identitas Visual, Kampung Seni Batam, Wisata Edukasi",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2023054.pdf"
+  "jurnal": "https://drive.google.com/file/d/120_ZMOVPDdyZYv8jkIZCQYVFdpqvl87B/view"
  },
  {
   "id": 33,
@@ -560,7 +560,7 @@ const KARYA = [
   "abstrak": "Industri kuliner di Kota Batam berkembang dengan persaingan yang semakin kompetitif sehingga setiap usaha perlu memiliki identitas yang mampu membedakan diri dengan kompetitornya. Budi Siang Malam merupakan usaha kuliner nasi ayam yang telah beroperasi sejak 2009 dan dikenal masyarakat Batam, tetapi popularitas tersebut belum didukung identitas visual yang mampu merepresentasikan karakter, produk, dan posisi merek secara jelas. Hasil kuesioner terhadap 41 responden menunjukkan bahwa 82.5% responden mengetahui Budi Siang Malam, namun 46.3% responden menyatakan tampilan visual yang ada belum merepresentasikan popularitas merek. Hasil wawancara terhadap 5 narasumber juga menyatakan bahwa identitas visual yang ada belum merepresentasikan identitas restoran secara eksplisit. Perancangan ini menggunakan metode mixed methods dengan pendekatan convergent parallel design melalui wawancara, kuesioner, dan observasi. Data dianalisis menggunakan pendekatan kuantitatif dan kualitatif, lalu dijadikan dasar proses perancangan yang meliputi riset, pengolahan data, pembuatan identitas visual, dan implementasi pada media. Hasil perancangan menghasilkan sistem identitas visual yang terdiri atas logo, warna, tipografi, ilustrasi, dan supergrafis. Logo menggunakan simbol siluet ayam sebagai representasi produk yang dibingkain dengan ornamen empat kelopak daun untuk mendukung identitas merek. Nama merek dan aksara mandarin ditambahkan sebagai keterangan produk untuk memperjelas representasi merek. Identitas visual tersebut lalu diterapkan pada signage, menu, nomor meja, piring, mangkuk, kemasan, struk, dan media lainnya. Seluruh elemen kemudian disusun dalam Graphic Standard Manual (GSM) sebagai panduan penggunaan identitas visual secara profesional dan konsisten pada berbagai media dan cabang.",
   "kata_kunci": ", Budi Siang Malam, Branding, Graphic Standard Manual, Popularitas Merek",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223001.pdf"
+  "jurnal": "https://drive.google.com/file/d/1_V7tVR9Uxh40VI18_Pfv-AJ2HZ7JQeZd/view"
  },
  {
   "id": 34,
@@ -577,7 +577,7 @@ const KARYA = [
   "abstrak": "Gangguan Spektrum Autisme (ASD) merupakan kondisi gangguan perkembangan saraf yang tidak hanya memengaruhi individu dengan ASD, tetapi juga berdampak pada kehidupan keluarganya. Kurangnya pemahaman masyarakat mengenai ASD dapat menimbulkan stigma. Kondisi tersebut dapat memberikan tekanan sosial dan emosional bagi keluarga. Berdasarkan permasalahan tersebut, perancangan ini bertujuan untuk merancang komik sebagai media yang dapat merepresentasikan perspektif keluarga anak ASD secara empatik serta menyampaikan pentingnya dukungan terhadap anak ASD kepada masyarakat terutama remaja. Metode pengumpulan data yang digunakan adalah wawancara dan observasi. Wawancara dilakukan dengan ahli terapis okupasi dan anggota keluarga anak ASD untuk memperoleh informasi mengenai karakteristik ASD, pengalaman keluarga, serta stigma yang terjadi di lingkungan masyarakat. Observasi dilakukan untuk memahami perilaku dan kebutuhan anak ASD dalam proses interaksi dan terapi. Data tersebut menjadi dasar dalam penyusunan cerita, karakter, dan visual komik. Hasil perancangan berupa komik digital berjudul Love & Kindness dengan genre slice of life yang menampilkan pengalaman anak ASD, saudara, dan keluarga dalam menghadapi kehidupan sehari-hari serta stigma. Evaluasi pasca pameran menunjukkan respons positif terhadap cerita, storytelling, ilustrasi, dan pesan yang disampaikan. Pembaca juga memperoleh pemahaman baru mengenai ASD dan terdorong untuk lebih berempati terhadap anak dan keluarganya. Dengan demikian, Love & Kindness berhasil menjadi media representasi yang menyampaikan pengalaman keluarga anak ASD secara ringan, emosional, dan mudah dipahami.",
   "kata_kunci": "ASD, empati, komik, representasi, stigma",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223030.pdf"
+  "jurnal": "https://drive.google.com/file/d/1YPbPxL1E7IHHsz_5Uw3XFH7wfHC2k4Ob/view"
  },
  {
   "id": 35,
@@ -594,7 +594,7 @@ const KARYA = [
   "abstrak": "Keselamatan kerja merupakan salah satu permasalahan penting dalam aktivitas bongkar muat di Pelabuhan XYZ Batam. Tingginya risiko pekerjaan tidak hanya dipengaruhi oleh kondisi lingkungan dan penggunaan peralatan kerja, tetapi juga oleh perilaku pekerja, terutama ketika terdapat tekanan untuk menyelesaikan target pekerjaan. Kondisi tersebut menjadi dasar perancangan kampanye sosial sebagai media komunikasi visual untuk meningkatkan kesadaran pekerja terhadap pentingnya keselamatan kerja. Perancangan ini menggunakan pendekatan Design Thinking yang terdiri dari tahap empathize, define, ideate, prototype, dan test. Pengumpulan data dilakukan melalui wawancara, kuesioner, observasi, dan studi literatur. Data tersebut digunakan untuk mengidentifikasi karakteristik target audiens, permasalahan, kebutuhan komunikasi, serta menentukan konsep pesan dan strategi media. Hasil perancangan menghasilkan kampanye sosial SAFELOAD dengan tagline “Kejar Target, Pulang Selamat”, yang mengangkat hubungan antara pencapaian target pekerjaan dan keselamatan pekerja. Media utama berupa video kampanye dengan pendekatan visual storytelling, sedangkan media pendukung terdiri atas media digital, media cetak, dan ambient media. Pengujian melalui pameran terhadap 55 responden menunjukkan respons positif, dengan rata-rata penilaian kemudahan memahami kampanye sebesar 4,60, daya tarik visual 4,64, penyampaian pesan melalui video 4,51, kesadaran terhadap pentingnya keselamatan kerja 4,71, dan keteringatan tagline 4,62 dari skala 5. Hasil tersebut menunjukkan bahwa perancangan dapat menyampaikan pesan keselamatan secara komunikatif dan membangun keterkaitan emosional dengan audiens.",
   "kata_kunci": "Kampanye Sosial, Keselamatan Kerja, Buruh Pelabuhan, Desain Komunikasi Visual",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223020.pdf"
+  "jurnal": "https://drive.google.com/file/d/1NgbjBY6K-1y2LiqA3qLYQCQbi6odxC1F/view"
  },
  {
   "id": 36,
@@ -611,7 +611,7 @@ const KARYA = [
   "abstrak": "Penelitian ini bertujuan merancang Visual Brand Identity yang strategis untuk Paws N Chill, sebuah pet cafe yang unik karena menyediakan kucing dan anjing sebagai penghuni kafe untuk interaksi pengunjung. Latar belakang masalah didasarkan pada meningkatnya minat pecinta hewan terhadap ruang publik interaktif. Paws N Chill memerlukan Visual Brand Identity yang kuat untuk mengomunikasikan nilai jual intinya secara visual, membangun citra merek yang bersahabat, terpercaya, dan profesional, serta secara efektif menarik segmen konsumen pecinta kucing dan anjing.Metode yang digunakan adalah kualitatif dan kuantitatif dengan pendekatan studi kasus. Proses penelitian melibatkan analisis mendalam terhadap keunggulan kompetitif kafe sebagai pet cafe , analisis pesaing, dan studi komprehensif mengenai target audiens. Seluruh proses perancangan mengacu pada tahapan sistematis Desain Komunikasi Visual, meliputi identifikasi masalah, analisis, sintesis konsep desain, hingga finalisasi implementasi.Hasil perancangan ini adalah elemen visual merek yang terintegrasi (logo, warna, tipografi, gaya visual) yang dirancang untuk secara konsisten memancarkan citra interaktif, hangat, dan penuh kasih sayang. Strategi komunikasi visual yang ditekankan berfokus pada pengalaman interaksi yang menyenangkan, sekaligus menggarisbawahi kesejahteraan hewan dan standar kebersihan kafe.Kesimpulan menunjukkan bahwa perancangan Visual Brand Identity yang secara eksplisit menonjolkan fungsi kafe sebagai tempat interaksi dengan hewan merupakan kunci diferensiasi dan kesuksesan merek.",
   "kata_kunci": "Interaksi Hewan, Kucing dan Anjing, Pet Café, Strategi Komunikasi Visual, Visual Brand Identity",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223016.pdf"
+  "jurnal": "https://drive.google.com/file/d/1A4teD7k59eypiJHYv7aNs4UGsRGA19Bh/view"
  },
  {
   "id": 37,
@@ -628,7 +628,7 @@ const KARYA = [
   "abstrak": "Perkembangan ritel modern di Indonesia menuntut supermarket lokal untuk memiliki citra merek yang kuat agar mampu bersaing dengan jaringan besar yang lebih mapan. Primart Batam sebagai salah satu supermarket lokal menghadapi tantangan berupa identitas visual yang belum optimal, sehingga citra merek kurang menonjol di tengah persaingan ritel modern. Penelitian ini bertujuan merancang strategi rebranding Primart Batam untuk memperkuat citra sebagai supermarket lokal premium yang modern, bersih, dan nyaman. Metode penelitian yang digunakan adalah kualitatif dengan teknik wawancara, kuesioner, observasi, dan studi literatur, sehingga diperoleh data mengenai persepsi konsumen terhadap kondisi aktual Primart. Analisis menunjukkan bahwa meskipun produk yang ditawarkan cukup lengkap dan lingkungan belanja dinilai nyaman, identitas visual yang ada belum mampu memberikan kesan konsisten dan profesional. Oleh karena itu, solusi perancangan difokuskan pada pembaruan logo, pemilihan warna, tipografi, supergrafis, serta penyusunan Graphic Standard Manual (GSM) sebagai panduan konsistensi penerapan identitas visual. Hasil perancangan diharapkan dapat memperkuat positioning Primart sebagai supermarket lokal premium yang relevan dengan kebutuhan masyarakat Batam, sekaligus menciptakan pengalaman belanja yang lebih kohesif, terorganisir, dan sesuai dengan ekspektasi konsumen masa kini.",
   "kata_kunci": "Identitas Visual, Panduan Standar Grafis, Primart Batam, Rebranding, Supermarket Lokal",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223049.pdf"
+  "jurnal": "https://drive.google.com/file/d/1GQAWehuXbW03y9JRQBu40NoX5XfmArh0/view"
  },
  {
   "id": 38,
@@ -645,7 +645,7 @@ const KARYA = [
   "abstrak": "Perancangan Ekosistem Desain Terpadu Agensi Haluan Digital Network untuk Meningkatkan Konsistensi Merek dilatarbelakangi oleh krisis identitas visual dan inefisiensi alur kerja kreatif pada agensi Haluan Digital Network (HDN). Sebagai agensi Multi Channel Network yang menaungi lima sub divisi aktif, HDN menghadapi kendala fragmentasi aset digital, alur kerja tanpa standardisasi, serta inkonsistensi output visual yang dinilai acak acakan oleh publik. Permasalahan ini memicu penurunan kepercayaan merek (brand trust) konsumen serta pemborosan waktu produktif desainer berkisar satu hingga empat jam setiap minggunya hanya untuk mencari berkas. Untuk mengatasi persoalan tersebut, perancangan ini menggunakan metodologi Design Thinking yang terdiri dari 5 tahapan utama yaitu empathize, define, ideate, prototype, dan test. Pengumpulan data primer dilakukan melalui wawancara mendalam terhadap pihak internal agensi, observasi lapangan, serta penyebaran kuesioner daring kepada 89 responden. Hasil akhir dari perancangan ini adalah sebuah Ekosistem Desain Terpadu yang bertindak sebagai satu acuan kebenaran tunggal (single source of truth) melalui penggabungan dua pilar utama, yaitu sistem tata kelola manajemen desain (Design Management) berbasis platform Lark dan buku pedoman Graphic Standard Manual (GSM) sebagai media utama. Implementasi manajemen desain berhasil memotong hambatan operasional, memusatkan aset, dan meningkatkan produktivitas tim. Sementara itu, standarisasi GSM sukses membakukan aturan visual dasar mulai dari konstruksi logo, rupa huruf, palet warna, tataletak, hingga supergrafis.",
   "kata_kunci": "Design Thinking, Ekosistem Desain Terpadu, Konsistensi Merek, Manajemen Desain, Panduan Manual Grafis",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223019.pdf"
+  "jurnal": "https://drive.google.com/file/d/1XEdqWt7TCIIHbNZfUy-vcgFrsbKuWeLS/view"
  },
  {
   "id": 39,
@@ -662,7 +662,7 @@ const KARYA = [
   "abstrak": "Pulau Penyengat merupakan salah satu kawasan bersejarah di Provinsi Kepulauan Riau yang memiliki kekayaan budaya Melayu, nilai sejarah, serta berbagai bentuk kearifan lokal yang masih dilestarikan oleh masyarakat hingga saat ini. Namun, perkembangan teknologi informasi dan perubahan pola konsumsi media menyebabkan penyampaian informasi mengenai budaya lokal masih didominasi oleh media konvensional yang kurang menarik bagi generasi muda. Oleh karena itu, diperlukan media edukasi berbasis audio visual yang mampu memperkenalkan nilai-nilai budaya secara lebih komunikatif dan mudah dipahami. Perancangan ini bertujuan menghasilkan Video Learning berbentuk film dokumenter yang mengangkat kearifan lokal masyarakat Pulau Penyengat sebagai media edukasi sekaligus pendukung penguatan pariwisata daerah. Metode penelitian yang digunakan adalah metode kualitatif dengan pendekatan deskriptif melalui observasi, wawancara, dan studi literatur. Data yang diperoleh dianalisis sebagai dasar penyusunan konsep komunikasi, konsep visual, struktur narasi, serta penerapan prinsip sinematografi dalam proses produksi video. Hasil perancangan berupa Video Learning berdurasi sekitar 8–10 menit yang menyajikan sejarah Pulau Penyengat, kehidupan masyarakat, nilai religius, bahasa Melayu, sistem mata pencaharian, tradisi, serta berbagai bentuk kearifan lokal yang masih dipertahankan. Melalui pendekatan dokumenter, video ini diharapkan mampu menjadi media edukasi yang informatif, menarik, serta berkontribusi dalam pelestarian budaya Melayu dan penguatan pariwisata budaya di Pulau Penyengat.",
   "kata_kunci": "Film Dokumenter, Kearifan Lokal, Pariwisata Budaya, Pulau Penyengat, Video Learning",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223090.pdf"
+  "jurnal": "https://drive.google.com/file/d/1sXBC0Z_z7-MtMR73TW5wxJJ4j5ZwbauD/view"
  },
  {
   "id": 40,
@@ -679,7 +679,7 @@ const KARYA = [
   "abstrak": "Cendol merupakan salah satu kuliner tradisional Indonesia yang memiliki nilai budaya dan potensi untuk diperkenalkan kepada wisatawan mancanegara. Namun, cendol masih menghadapi keterbatasan promosi dan pemanfaatan media digital sehingga pengenalannya sebagai kuliner Indonesia belum optimal. Perancangan ini bertujuan menghasilkan video iklan cendol sebagai kuliner nasional untuk memperkenalkan cendol kepada wisatawan mancanegara sekaligus mendukung ekonomi masyarakat Kota Batam. Metode yang digunakan adalah kualitatif deskriptif dengan pengumpulan data melalui wawancara, observasi, studi literatur, dan kuesioner sebagai data pendukung. Data yang diperoleh menjadi dasar dalam menentukan konsep dan visual video iklan dengan pendekatan visual storytelling. Hasil perancangan berupa video iklan cendol yang memadukan visual produk, aktivitas UMKM, pengalaman menikmati cendol, dan identitas Kota Batam. Video dirancang untuk media digital seperti Instagram, TikTok, dan YouTube dengan perpaduan unsur tradisional dan gaya visual modern. Perancangan ini diharapkan dapat meningkatkan pengenalan cendol sebagai kuliner nasional Indonesia serta mendukung promosi usaha kuliner masyarakat Kota Batam.",
   "kata_kunci": "Cendol, Kuliner Nasional, Media Digital, Video Iklan, Wisatawan Mancanegara",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223076.pdf"
+  "jurnal": "https://drive.google.com/file/d/1BGS8H2_92riTW_JjiIq0rMumB2LCPRRB/view"
  },
  {
   "id": 41,
@@ -696,7 +696,7 @@ const KARYA = [
   "abstrak": "Fenomena burnout pada mahasiswa yang menjalani kuliah sambil bekerja menjadi persoalan yang semakin mendesak, khususnya di Kota Batam. Berdasarkan data yang dihimpun penulis, sebanyak 57,4% mahasiswa bekerja di Kota Batam mengalami tingkat burnout tinggi hingga sangat tinggi, dan kondisi ini diperparah oleh kebiasaan menunda pekerjaan (prokrastinasi) yang membentuk siklus sulit diputus antara burnout dan penundaan. Permasalahannya, mayoritas mahasiswa sebenarnya sudah memahami cara mencegah burnout, namun belum memiliki motivasi dan dorongan yang cukup untuk menerapkannya secara konsisten. Berdasarkan permasalahan tersebut, perancangan ini bertujuan merancang kampanye sosial berbasis media komunikasi visual untuk menumbuhkan motivasi dan dorongan bagi mahasiswa bekerja di Kota Batam, sekaligus memutus siklus burnout dan prokrastinasi melalui pendekatan yang relevan dan relatable. Metode pengumpulan data yang digunakan meliputi wawancara terhadap lima narasumber, kuesioner terhadap 30 responden, dan studi literatur, dengan Fogg Behavior Model (Motivation, Ability, Prompt) sebagai kerangka analisis perilaku. Hasil perancangan melahirkan kampanye sosial \"Bara\", yang menghadirkan maskot mahasiswa bekerja yang mengalami burnout sebagai medium identifikasi diri audiens, dengan big idea \"Kerja dan Kuliah itu Berat. Menunda, Bikin Lebih Berat\". Kampanye diimplementasikan melalui video pendek dan poster sebagai media utama, didukung oleh sembilan belas media pendukung lainnya. Uji coba pada pameran karya menunjukkan respons audiens yang positif terhadap identitas visual, pesan, dan interaktivitas kampanye, sekaligus mengonfirmasi bahwa pendekatan ini mampu menumbuhkan motivasi audiens untuk tidak menunda-nunda pekerjaan dan tugas kuliah mereka.",
   "kata_kunci": "Burnout, kampanye sosial, desain komunikasi visual, mahasiswa bekerja",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223066.pdf"
+  "jurnal": "https://drive.google.com/file/d/1_RBZx7Bh39TsqGwvc6QgpQ9dzcdDfbiN/view"
  },
  {
   "id": 42,
@@ -713,7 +713,7 @@ const KARYA = [
   "abstrak": "Perancangan artbook mengenai Legenda Hang Tuah ini bertujuan untuk merancang dan menyajikan aset visual dasar sebagai alternatif referensi bagi industri kreatif lokal. Pada saat ini, kreator seperti animator atau pengembang gim sering kali membutuhkan acuan visual yang terarah ketika ingin mengadaptasi cerita legenda maupun mitologi ke dalam bentuk media modern. Karya ini dirancang menggunakan gaya ilustrasi semi-realistis agar rancangan visual yang dihasilkan mampu menampilkan proporsi, pakaian, dan budaya yang relevan dengan audiens masa kini. Metode pengumpulan data yang digunakan dalam perancangan ini meliputi studi literatur, observasi artefak budaya di museum, wawancara dengan praktisi, serta kuesioner kepada target audiens usia 18-30 tahun untuk memahami preferensi gaya gambar. Isi artbook ini secara khusus merangkum eksplorasi aset visual yang terdiri dari desain karakter lima ksatria utama (Hang Tuah, Jebat, Kasturi, Lekir, dan Lekiu), perancangan persenjataan tradisional, serta elemen lingkungan maritim kebudayaan Melayu. Melalui penyajian visual yang terstruktur, artbook ini tidak hanya berfungsi sebagai kumpulan ilustrasi yang menarik, tetapi juga sebagai dokumentasi aset awal yang diharapkan dapat mempermudah proses pengembangan Intellectual Property (IP) dan perancangan karya-karya kreatif selanjutnya.",
   "kata_kunci": "artbook, Aset Visual, Concept Art, Intellectual Property, Legenda Hang Tuah",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223040.pdf"
+  "jurnal": "https://drive.google.com/file/d/12N96FSiHzesYE2xf0E-5PjSO9Pi7GT1j/view"
  },
  {
   "id": 43,
@@ -730,7 +730,7 @@ const KARYA = [
   "abstrak": "Kekerasan terhadap anak dalam rumah tangga merupakan permasalahan sosial yang dapat memberikan dampak terhadap kondisi emosional dan psikologis anak. Kondisi tersebut dapat mendorong anak untuk memendam emosi, menarik diri, serta melakukan pengalihan atau pelarian sebagai bentuk respons terhadap tekanan yang dialami. Perancangan ini bertujuan menghasilkan animasi 2D sebagai media edukasi masyarakat mengenai bahaya dan dampak kekerasan terhadap anak dalam rumah tangga melalui sudut pandang anak, narasi visual empatik, metafora, dan simbolisme. Pendekatan yang digunakan dalam perancangan adalah pendekatan kualitatif. Pengumpulan data dilakukan melalui kuesioner, wawancara, observasi, dan studi literatur. Data dianalisis dengan mengidentifikasi pola, kesamaan pengalaman, respons emosional, serta permasalahan yang muncul dari berbagai sumber data untuk menghasilkan insight sebagai dasar perancangan. Proses perancangan menggunakan metode Design Thinking yang meliputi tahap Empathize, Define, Ideate, Prototype, dan Test. Hasil perancangan berupa animasi 2D yang menggambarkan pengalaman emosional seorang anak bernama Rion dalam menghadapi konflik dan kekerasan dalam keluarga melalui sudut pandang orang pertama serta penggunaan metafora visual. Evaluasi pasca pameran terhadap 58 responden memperoleh rata-rata penilaian keseluruhan sebesar 4,41 dari skala 5, dengan 87,93% penilaian berada pada skor 4 dan 5. Aspek empati terhadap korban memperoleh rata-rata 4,36, sedangkan aspek penyampaian dampak kekerasan terhadap anak memperoleh rata-rata 4,43. Hasil tersebut menunjukkan bahwa animasi memperoleh respons positif dalam menyampaikan pengalaman emosional korban dan membantu meningkatkan pemahaman penonton terhadap dampak kekerasan terhadap anak. Perancangan ini diharapkan dapat menjadi salah satu upaya edukatif dan reflektif untuk meningkatkan kesadaran masyarakat terhadap dampak kekerasan dalam rumah tangga.",
   "kata_kunci": "Animasi 2D, Design Thinking, Empati, Kekerasan terhadap Anak, Kekerasan Dalam Rumah Tangga, Narasi Visual",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223102.pdf"
+  "jurnal": "https://drive.google.com/file/d/1nkr3YIcq8R6raaur-Gw4A8kUNixaJmdG/view"
  },
  {
   "id": 44,
@@ -747,7 +747,7 @@ const KARYA = [
   "abstrak": "Perkembangan tren fashion preloved di kalangan anak muda menjadikan identitas visual sebagai aspek penting dalam membangun citra merek. PeaceLoveQuiet merupakan brand preloved asal Batam yang memiliki karakter vintage dan klasik. Namun, identitas visual yang digunakan sebelumnya belum mampu merepresentasikan karakter brand secara konsisten, sehingga diperlukan pembaruan identitas visual melalui proses rebranding. Perancangan ini bertujuan menghasilkan identitas visual baru PeaceLoveQuiet yang mampu merepresentasikan karakter brand melalui pendekatan visual vintage, klasik, collectible, historis, dan eksklusif. Penelitian ini menggunakan pendekatan mixed methods dengan menggabungkan data kualitatif dan kuantitatif. Data kualitatif diperoleh melalui wawancara, observasi, dan studi literatur untuk memahami karakter brand serta permasalahan identitas visual, sedangkan data kuantitatif diperoleh melalui kuesioner untuk mengetahui persepsi dan preferensi target audiens terhadap identitas visual PeaceLoveQuiet. Hasil perancangan menghasilkan identitas visual baru yang meliputi logo, warna, tipografi, elemen grafis, serta penerapannya pada berbagai media pendukung seperti packaging, hanging tag, totebag, poster, dan media sosial. Identitas visual baru tersebut dirancang untuk memperkuat representasi karakter PeaceLoveQuiet yang vintage dan klasik serta memberikan kesan collectible, historis, dan eksklusif.",
   "kata_kunci": "Rebranding, Identitas Visual, Vintage, Preloved",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223006.pdf"
+  "jurnal": "https://drive.google.com/file/d/1ivLJVCMsLW-r9PtpmQBxyBjUucc6vS3F/view"
  },
  {
   "id": 45,
@@ -764,7 +764,7 @@ const KARYA = [
   "abstrak": "Pertumbuhan industri kreatif digital di Indonesia, khususnya sektor animasi dan gim, mendorong kebutuhan terhadap sumber pembelajaran yang membantu mahasiswa memahami prinsip dasar character design humanoid. Hasil pengumpulan data melalui wawancara dan kuesioner terhadap 57 responden yang didominasi mahasiswa Desain Komunikasi Visual (DKV) menunjukkan bahwa referensi character design masih didominasi sumber berbahasa asing dan belum tersusun secara sistematis. Perancangan ini bertujuan menghasilkan buku panduan visual digital mengenai fundamental character design humanoid dengan pendekatan visual yang terinspirasi budaya Indonesia bagi mahasiswa DKV di Kota Batam. Metode yang digunakan adalah pendekatan deskriptif melalui wawancara, kuesioner, observasi, dan studi literatur sebagai dasar penyusunan materi dan konsep visual. Hasil perancangan berupa buku digital Fundamental Desain Karakter Humanoid yang membahas prinsip dasar seperti shape language, siluet, gesture, warna, dan komunikasi visual karakter secara terstruktur. Evaluasi pascapameran yang melibatkan 148 responden menunjukkan bahwa mayoritas responden memberikan penilaian positif terhadap materi, visual, dan penggunaan bahasa Indonesia, serta menilai buku yang dirancang membantu mereka memahami konsep dasar character design humanoid. Temuan tersebut menunjukkan bahwa media yang dirancang memiliki potensi sebagai alternatif sumber pembelajaran visual berbahasa Indonesia bagi mahasiswa DKV dalam mempelajari fundamental character design humanoid.",
   "kata_kunci": "desain karakter humanoid, panduan visual, literatur pembelajaran, budaya Indonesia, mahasiswa DKV",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223046.pdf"
+  "jurnal": "https://drive.google.com/file/d/1DPQUubHDpWyR4yR36b0yif-bECouqRrx/view"
  },
  {
   "id": 46,
@@ -781,7 +781,7 @@ const KARYA = [
   "abstrak": "Permasalahan yang terjadi di Kota Batam berkaitan dengan meningkatnya jumlah pemilik kucing, khususnya di kalangan masyarakat berusia produktif antara 20 hingga 34 tahun yang sibuk bekerja. Banyak kucing yang mengalami stres Aplikasi ini diharapkan dapat menjadi sarana interaktif yang membantu pemilik kucing di Kota Batam memahami perilaku hewan peliharaannya, mengatur jadwal perawatan, serta memberikan rekomendasi aktivitas yang menstimulasi kenyamanan kucing. Metode perancangan yang digunakan dalam penelititan ini merupakan metode Design Thinking. Hasil akhir perancangan berupa prototipe UI/UX aplikasi Cat Care yang menggambarkan alur interaksi dan penggunaan aplikasi dalam membantu pemilik kucing melakukan perawatan secara lebih teratur. aplikasi Cat Care yang didasarkan pada hasil penelitian, analisis kebutuhan, dan karakteristik target pengguna. Perancangan ini juga telah memenuhi tujuan dan manfaat yang ditetapkan dengan menghasilkan media utama berupa prototype aplikasi serta media pendukung yang dapat digunakan untuk memperkenalkan dan mendukung penggunaan Cat Care sebagai media pendamping perawatan kucing bagi pemilik kucing di Kota Batam.",
   "kata_kunci": "Cat Care, Kota Batam, Prototype,UI/UX Application",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223010.pdf"
+  "jurnal": "https://drive.google.com/file/d/1ZDAUkQxWgZ2lAjcEBSukh_I1i2N_MXnE/view"
  },
  {
   "id": 47,
@@ -798,7 +798,7 @@ const KARYA = [
   "abstrak": "Penggunaan sunscreen merupakan salah satu upaya untuk melindungi kulit dari paparan sinar ultraviolet (UV). Sebagai negara tropis, Indonesia memiliki paparan sinar matahari yang tinggi, sementara pria usia 15–25 tahun cenderung aktif melakukan berbagai kegiatan di luar ruangan. Namun, berdasarkan hasil penelitian, masih ditemukan rendahnya kebiasaan penggunaan sunscreen pada pria meskipun sebagian besar telah mengetahui manfaatnya. Permasalahan tersebut disebabkan oleh anggapan bahwa penggunaan sunscreen terasa merepotkan, belum menjadi bagian dari rutinitas, serta kurangnya pengingat untuk menggunakannya sebelum beraktivitas. Oleh karena itu, diperlukan perancangan kampanye sosial yang mampu menyampaikan informasi sekaligus mendorong terbentuknya kebiasaan penggunaan sunscreen pada pria. Perancangan ini menggunakan metode deskriptif kualitatif dengan pengumpulan data melalui studi pustaka, wawancara, kuesioner, observasi, serta evaluasi melalui pameran. Strategi perancangan mengacu pada Theory of Planned Behavior (TPB), Fogg Behavior Model (FBM), dan AISAS sebagai dasar dalam menentukan pesan, strategi komunikasi, dan media. Konsep kampanye yang dihasilkan adalah “Biar Jadi Hal Biasa” dengan tagline “bro, sunscreen dulu”. Media utama berupa video kampanye digital yang didukung oleh media cetak, media luar ruang, media sosial, ambient media, dan merchandise. Hasil evaluasi melalui pameran Olympus 5.0 menunjukkan respons positif terhadap visual, maskot, warna, konsep, serta penyampaian pesan kampanye. Kampanye dinilai edukatif, menarik, dan mampu menjadi pengingat bagi audiens untuk mulai membiasakan penggunaan sunscreen sebelum beraktivitas.",
   "kata_kunci": "Batam, Kampanye sosial, Kulit Sehat, Pria, Sunscreen",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223083.pdf"
+  "jurnal": "https://drive.google.com/file/d/1P5miCVcBfi9GpN2OLWaf3OdkpJOL0-VJ/view"
  },
  {
   "id": 48,
@@ -815,7 +815,7 @@ const KARYA = [
   "abstrak": "Perancangan ini dilatarbelakangi oleh Bubur Ayam Pak Sholeh yang telah memiliki karakter personal kuat melalui sosok Pak Sholeh yang dikenal ramah, baik, interaktif, komunikatif, dan tidak membeda-bedakan pelanggan. Namun, karakter tersebut belum diterjemahkan ke dalam identitas visual yang terstruktur dan konsisten. Pengenalan terhadap usaha selama ini lebih banyak terbentuk melalui nama, pengalaman berkunjung, serta interaksi langsung dengan Pak Sholeh, sehingga diperlukan identitas visual yang mampu merepresentasikan karakter tersebut sebagai karakter merek. Perancangan ini bertujuan untuk merancang branding melalui penguatan identitas visual sebagai upaya pembentukan karakter merek Bubur Ayam Pak Sholeh di Kota Batam. Proses perancangan dilakukan melalui penelitian, observasi, wawancara, kuesioner, studi literatur, analisis data, brainstorming, mind mapping, penentuan keyword, moodboard, sketsa, eksplorasi digital, hingga finalisasi identitas visual. Hasil perancangan menghasilkan logo, maskot, warna, tipografi, supergraphic, tagline “Teman Pagi, Teman Sarapan”, serta penerapan identitas visual pada berbagai media yang digunakan dalam aktivitas usaha. Seluruh elemen tersebut dirancang sebagai satu sistem visual untuk menerjemahkan karakter personal Pak Sholeh ke dalam bentuk identitas merek. Hasil perancangan menunjukkan terbentuknya identitas visual yang memiliki ciri khas dan konsisten dalam merepresentasikan karakter Bubur Ayam Pak Sholeh sebagai merek yang ramah, baik, interaktif, komunikatif, dan dekat dengan pelanggan.",
   "kata_kunci": "branding, identitas visual, karakter merek, Bubur Ayam Pak Sholeh, Kota Batam",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223079.pdf"
+  "jurnal": "https://drive.google.com/file/d/11BhqtYnZT2vBtOiscSiWyfcmT1NOOuKo/view"
  },
  {
   "id": 49,
@@ -832,7 +832,7 @@ const KARYA = [
   "abstrak": "Barbershop Prima merupakan salah satu usaha mikro, kecil, dan menengah (UMKM) di bidang jasa potong dan perawatan rambut pria yang berlokasi di Kota Batam. Meskipun menawarkan sejumlah keunggulan layanan seperti konsultasi personal, sistem reservasi, dan home service, tingkat pengenalan atau brand awareness Barbershop Prima di tengah masyarakat masih tergolong rendah. Sebagian besar pelanggan mengenal usaha ini hanya melalui komunikasi word of mouth, bukan melalui identitas visual yang kuat dan konsisten, sehingga Barbershop Prima kesulitan membedakan dirinya dari kompetitor sejenis yang semakin banyak bermunculan di kawasan Tiban Koperasi, Batam. Permasalahan tersebut mendasari perancangan ini, yaitu bagaimana merancang brand identity Barbershop Prima guna meningkatkan brand awareness di Kota Batam. Metode yang digunakan meliputi pengumpulan data melalui wawancara, kuesioner, observasi, dan studi literatur, yang kemudian dianalisis secara deskriptif kualitatif dan kuantitatif sebagai dasar penyusunan strategi merek dengan pendekatan segmenting, targeting, dan positioning (STP). Proses perancangan dilanjutkan dengan tahap memperjelas strategi, merancang identitas, mengimplementasikan identitas, hingga mengelola aset merek. Hasil perancangan berupa identitas visual dengan konsep Masculine, Neat, dan Comfortable, yang diwujudkan melalui logo, warna, tipografi, serta elemen grafis pendukung. Seluruh elemen identitas tersebut disusun dalam Graphic Standard Manual (GSM) sebagai pedoman penerapan pada berbagai media, seperti papan nama, interior, atribut kru, media sosial, dan materi promosi, guna membangun pengenalan merek yang konsisten dan profesional bagi Barbershop Prima",
   "kata_kunci": "Barbershop, Brand Awareness, Brand Identity, Logo, UMKM",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223023.pdf"
+  "jurnal": "https://drive.google.com/file/d/13hjHpE4dJhrS95ksU-XA68ZqhaxBSHbp/view"
  },
  {
   "id": 50,
@@ -849,7 +849,7 @@ const KARYA = [
   "abstrak": "Villa Bambu Batam merupakan akomodasi yang menawarkan konsep private staycation dengan suasana alami, nyaman, dan tenang. Berdasarkan hasil observasi, wawancara, dan dokumentasi, ditemukan permasalahan berupa identitas visual yang belum diterapkan secara konsisten pada berbagai media serta belum mampu merepresentasikan citra Villa Bambu sebagai destinasi private staycation yang mengutamakan privasi, kenyamanan, dan suasana alami. Kondisi tersebut menyebabkan Villa Bambu belum memiliki citra visual yang kuat dan pembeda yang jelas dibandingkan penginapan lainnya. Perancangan ini bertujuan untuk menciptakan identitas visual baru yang mampu menggambarkan karakter Villa Bambu serta menghasilkan media komunikasi visual yang efektif untuk wisatawan lokal dan mancanegara. Metode pengumpulan data yang digunakan meliputi wawancara, kuesioner, observasi, dan studi literatur. Data dianalisis menggunakan metode kuantitatif dan kualitatif deskriptif sebagai dasar dalam menentukan strategi rebranding dan arah visual perancangan. Hasil perancangan menghasilkan identitas visual baru Villa Bambu yang meliputi logo, warna, tipografi, dan supergrafis. Logo menggunakan ilustrasi bambu dan elemen lentera yang merepresentasikan kesan asri, sejuk, hangat, dan nyaman, dengan tagline “Private Staycation” sebagai penegas konsep merek. Identitas visual kemudian diterapkan melalui Graphic Standard Manual (GSM), media administrasi, media pelayanan tamu, media amenitas, dan lainnya untuk menciptakan penerapan identitas yang konsisten. Perancangan ini diharapkan dapat memperkuat identitas visual dan citra Villa Bambu sebagai destinasi private staycation yang mudah dikenali serta memiliki karakter visual yang kuat bagi wisatawan lokal maupun mancanegara.",
   "kata_kunci": "Rebranding, Identitas Visual, Private Staycation, Villa Bambu",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223081.pdf"
+  "jurnal": "https://drive.google.com/file/d/1LbpIUqhzfU-cK3YMwRa4nNYl0SUoJHWC/view"
  },
  {
   "id": 51,
@@ -866,7 +866,7 @@ const KARYA = [
   "abstrak": "Perkembangan teknologi digital dalam pendidikan mendorong luasnya penggunaan e-learning sebagai media pendukung pembelajaran. Namun, penggunaan aplikasi pembelajaran digital pada siswa sekolah dasar masih menghadapi kendala, terutama dalam hal keterbatasan pengalaman menggunakan teknologi, kemudahan navigasi, serta tampilan antarmuka yang belum sesuai dengan karakteristik pengguna anak. Kondisi tersebut menjadi dasar perancangan prototype UI/UX aplikasi e-learning Learning Management System (LMS) untuk anak usia 11-12 tahun di Batam. Perancangan ini bertujuan menghasilkan prototype aplikasi yang sederhana, intuitif, menarik, dan ramah bagi pengguna pemula sehingga dapat mendukung kegiatan belajar secara mandiri. Metode yang digunakan adalah mixed methods dengan pendekatan Explanatory Sequential Mixed Methods, yang menggabungkan data kuantitatif melalui kuesioner dan data kualitatif melalui wawancara, observasi, serta studi literatur. Proses perancangan menggunakan metode Design Thinking yang terdiri atas tahap Empathize, Define, Ideate, Prototype, dan Testing. Data penelitian diperoleh dari wawancara dan kuesioner siswa kelas 6 berusia 11-12 tahun di SD Kartini 2 dan SDN 011 Sekupang. Hasil pengumpulan data menampilkan adanya kebutuhan terhadap antarmuka yang lebih menarik, navigasi yang mudah dipahami, serta fitur pendukung pembelajaran seperti gamifikasi, catatan, dan pengelolaan waktu belajar. Berdasarkan temuan tersebut, dirancang aplikasi LMS berbasis mobile dengan pendekatan visual sesuai dengan karakteristik anak, agar membantu pengalaman belajar yang lebih interaktif dan menyenangkan. Evaluasi usability dilakukan menggunakan System Usability Scale (SUS) untuk memperoleh penilaian terhadap kemudahan penggunaan prototype. Hasil akhir adalah perancangan prototype UI/UX aplikasi e-learning lms di Figma, yang dilengkapi media pendukung lainnya.",
   "kata_kunci": "Aplikasi, Desain UI/UX, Design Thinking, E-Learning, Prototype",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223044.pdf"
+  "jurnal": "https://drive.google.com/file/d/1-rCUCIxOL-TeYnEtcI9QL8IUSqOEuhNE/view"
  },
  {
   "id": 52,
@@ -883,7 +883,7 @@ const KARYA = [
   "abstrak": "Toko Jam Tangan Kokotua di Batam beroperasi sejak 2019 tanpa sistem identitas visual konsisten sehingga sulit dikenali dan dibedakan dari pesaing. Perancangan ini bertujuan menghasilkan identitas visual yang sesuai karakter usaha dan mendukung brand awareness. Data diperoleh melalui wawancara dengan pemilik, pelanggan tetap, dan praktisi branding, Observasi empat toko jam di Batam, kuesioner 50 responden, dan studi literatur. Proses perancangan meliputi riset, perumusan strategi, perancangan identitas, implementasi titik kontak, dan pengelolaan aset merek. Hasil kuesioner menunjukkan 76% responden belum mengenal Kokotua, 48% memilih kombinasi simbol-huruf sebagai elemen paling mudah diingat, 70% memilih hitam/abu-abu, dan 44% memilih emas. Hasil perancangan berupa combination mark yang menggabungkan bentuk jam tangan, maskot pemilik, dan unsur geometris Tionghoa, dilengkapi logotype, tagline, palet warna, supergraphic, pedoman logo, serta penerapan pada media toko, administrasi, kemasan, promosi, dan merchandise. Evaluasi pameran terkait pertanggungjawaban warna ditindaklanjuti melalui triangulasi data lapangan, literatur, uji kontras, dan pertimbangan reproduksi, hitam ditetapkan sebagai bidang dominan, emas hangat sebagai aksen, dan putih sebagai netral. Sistem identitas yang dihasilkan terstruktur, konsisten, adaptif, dan siap diterapkan. Selama pameran 7–9 Agustus 2026, terkumpul 92 catatan pengunjung yang dikodekan secara tematik dengan tema dominan kesesuaian identitas, citra premiumprofesional, daya kenal logo/maskot, serta kualitas implementasi booth dan media pameran.",
   "kata_kunci": "identitas visual, toko jam, brand awareness, UMKM, Batam",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223028.pdf"
+  "jurnal": "https://drive.google.com/file/d/1EsftBKUC9tmjZEIm5hQYIRAweZKvpgJh/view"
  },
  {
   "id": 53,
@@ -900,7 +900,7 @@ const KARYA = [
   "abstrak": "Kota Batam memiliki karakter multikultural dan potensi wisata budaya yang dapat dikembangkan melalui festival. Salah satu kegiatan budaya yang berpotensi menjadi daya tarik wisata baru adalah Festival Cap Go Meh Batam yang merepresentasikan tradisi masyarakat Tionghoa serta keberagaman budaya Kota Batam. Namun, Festival Cap Go Meh Batam belum memiliki sistem identitas visual yang konsisten sehingga karakter festival belum mudah dikenali dan belum memiliki citra visual yang kuat. Perancangan ini bertujuan menghasilkan identitas visual Festival Cap Go Meh Batam yang mampu merepresentasikan nilai budaya Cap Go Meh sekaligus memperkuat identitas Kota Batam. Metode yang digunakan adalah metode campuran dengan desain konvergen melalui pengumpulan data berupa wawancara, kuesioner, observasi, studi literatur, dan evaluasi pascapameran. Hasil perancangan berupa sistem identitas visual yang terdiri dari logo, warna, tipografi, supergrafis, Graphic Standard Manual (GSM), media promosi, media lingkungan festival, identitas panitia, dan merchandise. Identitas visual yang dirancang menggabungkan elemen budaya Barongsai dengan ikon lokal Jembatan Barelang sebagai representasi hubungan antara budaya dan karakter Kota Batam. Perancangan ini menghasilkan identitas visual yang khas, komunikatif, dan adaptif untuk mendukung Festival Cap Go Meh Batam sebagai daya tarik wisata budaya baru di Kota Batam.",
   "kata_kunci": "Cap Go Meh, Festival budaya, Identitas visual, Kota Batam, Wisata budaya",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223014.pdf"
+  "jurnal": "https://drive.google.com/file/d/17Gy1Nz6aMADu4P2VNvOxzIlOlgY-YCBJ/view"
  },
  {
   "id": 54,
@@ -917,7 +917,7 @@ const KARYA = [
   "abstrak": "Menjadi ibu merupakan fase transisi yang melibatkan berbagai perubahan dan penyesuaian. Dalam menjalani perannya, perhatian dan waktu perempuan dapat semakin berpusat pada kebutuhan keluarga sehingga minat, kebutuhan, pilihan, dan tujuan pribadinya semakin kurang mendapat ruang. Kondisi ini perlu diperhatikan karena keterbatasan kehidupan personal dapat berkaitan dengan parental burnout dan menurunnya kesejahteraan ibu. Perancangan ini bertujuan untuk menghasilkan kampanye sosial mengenai pentingnya mempertahankan identitas diri setelah menjadi ibu, dengan target ibu rumah tangga berusia 25–44 tahun di Kota Batam. Pengumpulan data dilakukan melalui kuesioner, wawancara, observasi, dan studi literatur. Data digunakan sebagai dasar perancangan dengan metode Design Thinking yang meliputi Empathize, Define, Ideate, Prototype, dan Test, serta didukung Fogg Behavior Model pada tahap Define. Hasil perancangan berupa kampanye “Peran Ibu, Tetap Diriku” dengan big idea “Menjadi ibu bukan berarti harus berhenti menjadi diri sendiri”. Media utama berupa tiga video pendek yang didukung konten media sosial, media cetak, dan media interaktif. Kampanye didistribusikan melalui Instagram, Facebook, TikTok, dan Threads. Pada tahap Test, respons dilihat menggunakan AISAS melalui tayangan, interaksi, penambahan pengikut, respons fitur interaktif, dan partisipasi challenge sebagai bahan evaluasi penerapan media.",
   "kata_kunci": "Design Thinking, Fogg Behavior Model, Identitas Diri Ibu, Kampanye Sosial, Media Sosial",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223056.pdf"
+  "jurnal": "https://drive.google.com/file/d/1DRkI5RPKWBSxB2x8dK1C1n2bKxqyh6z4/view"
  },
  {
   "id": 55,
@@ -934,7 +934,7 @@ const KARYA = [
   "abstrak": "Pencemaran sampah laut merupakan permasalahan lingkungan yang dapat mengancam ekosistem laut dan kehidupan masyarakat yang bergantung pada sumber daya laut. Permasalahan ini memerlukan penyampaian informasi yang mampu menghubungkan isu lingkungan dengan kehidupan audiens, khususnya Generasi Z. Namun, penyampaian informasi mengenai pencemaran sampah laut perlu dikemas melalui pendekatan komunikasi visual yang menarik agar pesan dapat disampaikan secara lebih dekat kepada audiens muda. Perancangan ini bertujuan menghasilkan buku komik Gajminah: Cahaya di Balik Lautan Hitam dengan pendekatan Dark Manga Style sebagai media komunikasi visual mengenai pencemaran sampah laut bagi Generasi Z di Kota Batam. Metode pengumpulan data meliputi kuesioner, studi literatur, dan studi karya sejenis. Data dianalisis secara kuantitatif dan kualitatif untuk menjadi dasar penentuan konsep cerita dan visual. Proses perancangan menggunakan metode Design Thinking yang terdiri atas tahap Empathize, Define, Ideate, Prototype, dan Testing. Hasil perancangan berupa buku komik yang menggabungkan unsur fantasi, inspirasi budaya lokal, dan isu lingkungan melalui karakter Gajminah sebagai makhluk kolosal yang terinspirasi dari Gajah Mina. Pencemaran lingkungan digambarkan secara metaforis melalui Setan Hitam sebagai ancaman terhadap kehidupan di dalam tubuh Gajminah. Pendekatan Dark Manga Style diterapkan melalui dominasi hitam dan putih, kontras tinggi, heavy inking, serta penggunaan warna secara selektif untuk membangun suasana dan mendukung visual storytelling. Perancangan ini diharapkan dapat menjadi alternatif media komunikasi visual untuk menyampaikan pesan mengenai pencemaran sampah laut melalui cerita dan metafora visual, sekaligus menjadi referensi bagi pengembangan karya komik bertema lingkungan. Tanggapan pasca pameran menunjukkan respons positif terhadap konsep cerita, inspirasi budaya lokal, worldbuilding, dan penyampaian pesan melalui metafora. Adapun konsistensi warna, detail ilustrasi, karakteristik Dark Manga Style, dan pengembangan alur cerita masih menjadi aspek yang dapat disempurnakan.Dark Manga Style, dan pengembangan alur masih dapat dikembangkan lebih lanjut.",
   "kata_kunci": "Dark Manga Style, Gajah Mina, Generasi Z, komik, pencemaran sampah laut",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2123012.pdf"
+  "jurnal": "https://drive.google.com/file/d/1qhHoF3B2pG_icNO6abzkhqv5g7WDXRFr/view"
  },
  {
   "id": 56,
@@ -951,7 +951,7 @@ const KARYA = [
   "abstrak": "Penggunaan gawai dan media sosial secara berlebihan pada Generasi Z menimbulkan berbagai fenomena seperti doomscrolling dan penggunaan media digital tanpa batas waktu. Kebiasaan ini berpotensi memicu kelelahan digital (digital fatigue) yang berdampak negatif terhadap kesejahteraan fisik maupun mental. Sayangnya kesadaran mengenai pentingnya mengambil jeda dari aktivitas layar (digital detox) masih rendah dikalangan anak muda. Oleh karena itu diperlukan sarana edukasi yang komunikatif dan relevan guna menyampaikan pesan mengenai digital well-being secara efektif. Media ilustrasi komik memiliki potensi besar sebagai sarana penyampaian informasi karena mampu menyajikan narasi visual yang menarik, mudah dipahami, serta tidak terkesan menggurui. Perancangan ini menghasilkan media komik digital berbasis carousel Instagram untuk Generasi Z usia 15–25 tahun. Melalui pendekatan naratif yang dekat dengan kehidupan sehari-hari, gaya ilustrasi yang ekspresif, serta penggunaan simbolisasi visual, perancangan ini bertujuan untuk meningkatkan kesadaran target audiens akan pentingnya menjaga keseimbangan dalam berinteraksi dengan teknologi digital.",
   "kata_kunci": "Desain Karakter, Digital Fatigue, Istirahat Digital, Media Sosial, Ilustrasi Komik",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223015.pdf"
+  "jurnal": "https://drive.google.com/file/d/1lfETC1rg0hb9SMifUAUUkOIyAw0-tsub/view"
  },
  {
   "id": 57,
@@ -968,7 +968,7 @@ const KARYA = [
   "abstrak": "Penelitian dan perancangan ini dilatarbelakangi oleh proses menjadi orang tua baru yang merupakan fase peralihan dalam kehidupan individu, baik dari segi peran, tanggung jawab, rutinitas, maupun kondisi emosional. Proses adaptasi diri saat mengasuh anak untuk pertama kalinya dapat terasa sangat melelahkan, datangnya rasa cemas, perasaan ragu terhadap kemampuan diri, serta kesulitan dalam mengatur tuntutan rutinitas pada kehidupan sehari-hari. Perancangan ini bertujuan membuat buku ilustrasi yang membahas perasaan menerima diri saat orang tua baru mengasuh anak pertama, menggunakan pendekatan visual storytelling. Metode yang digunakan adalah deskriptif kualitatif, dengan teknik pengumpulan data melalui wawancara, observasi, kuesioner, dan studi literatur. Hasil perancangan berupa sebuah buku ilustrasi yang berjudul \"Ruang Tumbuh\" yang menampilkan perjalanan orang tua baru, dengan ilustrasi dan narasi reflektif. Buku ilustrasi ini diharapkan bisa membantu orang tua mengerti dan menerima perubahan dalam diri mereka selama proses penyesuaian, serta menyadari bahwa setiap keluarga memiliki jalan yang berbeda dan tidak lansung menjadi sempurna.",
   "kata_kunci": "Buku Ilustrasi, Proses Adaptasi, Orang Tua Baru, Pengasuhan Anak Pertama, Visual Storytelling",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223036.pdf"
+  "jurnal": "https://drive.google.com/file/d/1ucV5oz0qZWaZDirQW-tcfdr2h96Raa2M/view"
  },
  {
   "id": 58,
@@ -985,7 +985,7 @@ const KARYA = [
   "abstrak": "Perilaku berkendara melawan arus merupakan salah satu bentuk pelanggaran lalu lintas yang dapat meningkatkan risiko kecelakaan serta membahayakan keselamatan pengendara dan pengguna jalan lainnya. Fenomena tersebut masih ditemukan dalam kehidupan sehari-hari, termasuk di Kota Batam, dengan berbagai alasan seperti keinginan menghemat waktu, jarak tempuh, maupun pengaruh kebiasaan dalam berkendara. Perancangan ini bertujuan menghasilkan film pendek yang mengomunikasikan bahaya dan konsekuensi perilaku berkendara melawan arus kepada pengendara dewasa muda di Kota Batam. Metode yang digunakan adalah pendekatan kualitatif dengan pengumpulan data melalui wawancara, observasi, dan studi literatur sebagai dasar dalam memahami fenomena, karakteristik target audiens, serta penyusunan konsep perancangan. Hasil perancangan berupa film pendek yang mengangkat perubahan perilaku tokoh utama akibat tekanan waktu dan kebiasaan berkendara, kemudian mengarah pada konflik dan konsekuensi dari tindakan melawan arus. Penyampaian pesan dilakukan melalui storytelling serta pengolahan unsur visual dan audiovisual, meliputi sinematografi, komposisi, warna, pencahayaan, audio, dan editing untuk membangun suasana serta keterlibatan emosional audiens. Film pendek yang dirancang diharapkan dapat menjadi media komunikasi visual yang memberikan gambaran mengenai risiko berkendara melawan arus serta mendorong audiens untuk mempertimbangkan kembali perilaku berkendara yang berisiko.",
   "kata_kunci": "Film Pendek, Keselamatan Lalu Lintas, Komunikasi Visual, Melawan Arus, Perilaku Berkendara",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223045.pdf"
+  "jurnal": "https://drive.google.com/file/d/19rl_xof2d60W6iKwyWYUbNL496ir5U8d/view"
  },
  {
   "id": 59,
@@ -1002,7 +1002,7 @@ const KARYA = [
   "abstrak": "Penggunaan Gadget pada anak usia 6–12 tahun yang berlebihan dapat memengaruhi kesehatan, perilaku, emosi, serta interaksi sosial anak. Permasalahan tersebut menjadi dasar perancangan buku ilustrasi “Ayo Simpan HP-mu” sebagai media edukasi yang membantu anak memahami penggunaan Gadget secara bijak. Perancangan ini menggunakan metode kualitatif dengan pengumpulan data melalui observasi, wawancara, kuesioner, dan studi literatur. Data yang diperoleh menjadi dasar dalam menentukan konsep cerita, karakter, ilustrasi, warna, tipografi, dan media pendukung. Buku dirancang dengan pendekatan storytelling yang dekat dengan kehidupan sehari-hari anak, sehingga pesan edukatif dapat disampaikan secara sederhana dan menarik. Hasil perancangan berupa buku ilustrasi berukuran A5 dengan gaya visual Old Disney, serta didukung media seperti photocard, poster, X-banner, stiker, dan pembatas buku. Hasil pasca pameran menunjukkan respons positif dari pengunjung yang menilai buku menarik, edukatif, mudah dipahami, dan dapat menjadi pengingat bagi anak untuk menggunakan Gadget secara bijak.",
   "kata_kunci": "Buku Ilustrasi,Gadget, Anak Usia 6-12 Tahun, Storytelling, Media Edukasi",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "jurnal": "jurnal-2223060.pdf"
+  "jurnal": "https://drive.google.com/file/d/1vCoHJcajtfFndKu5tKZLGD-6bCqyhUQM/view"
  },
  {
   "id": 60,
@@ -1019,7 +1019,7 @@ const KARYA = [
   "abstrak": "Perilaku bedtime procrastination merupakan kebiasaan menunda waktu tidur tanpa adanya alasan yang jelas, yang banyak terjadi pada kalangan mahasiswa. Kebiasaan ini umumnya dipengaruhi oleh penggunaan perangkat digital serta tuntutan aktivitas akademik, sehingga berdampak pada kualitas tidur dan produktivitas sehari-hari. Meskipun sebagian mahasiswa tetap memperoleh durasi tidur yang cukup, penundaan waktu tidur dapat mengganggu ritme sirkadian dan menurunkan kualitas istirahat. Penelitian ini bertujuan untuk merancang media komunikasi visual berupa komik digital sebagai sarana edukasi dan persuasi mengenai dampak bedtime procrastination pada mahasiswa. Metode yang digunakan meliputi pengumpulan data melalui studi literatur, observasi, dan wawancara terhadap mahasiswa sebagai target audiens. Data yang diperoleh kemudian dianalisis untuk menentukan konsep cerita, karakter, serta pendekatan visual yang sesuai. Hasil perancangan berupa komik digital yang mengangkat cerminan kehidupan mahasiswa sehari-hari, dengan pendekatan naratif yang ringan dan relatable. Komik ini dirancang untuk meningkatkan kesadaran mahasiswa terhadap pentingnya pola tidur yang sehat melalui penyampaian pesan secara persuasif dan visual yang menarik. Media ini diharapkan dapat menjadi alternatif edukasi yang efektif dalam mengurangi perilaku bedtime procrastination di kalangan mahasiswa.",
   "kata_kunci": "bedtime procrastination, komik digital, mahasiswa, pola tidur, media edukasi",
   "sk_penguji": "004/SK/Dekan-FTIN/I/2026 (Ganjil 2025/2026)",
-  "jurnal": "jurnal-2123027.pdf"
+  "jurnal": "https://drive.google.com/file/d/1NUa-8oDzHY3_HGYk-hl1MdKMHodc7-Kw/view"
  },
  {
   "id": 61,
@@ -1036,7 +1036,7 @@ const KARYA = [
   "abstrak": "Tugas akhir ini bertujuan untuk merancang desain kemasan visual pada produk buah dan jus jambu biji merah di Agrowisata Kebun Jambu Marina Batam sebagai upaya meningkatkan nilai jual serta memperkuat identitas produk. Proses pengumpulan data dilakukan melalui metode kualitatif deskriptif dengan teknik wawancara, observasi, survei, kuesioner, studi lapangan, dan studi visual terhadap pengelola serta konsumen produk. Hasil penelitian menunjukkan bahwa kemasan yang digunakan saat ini masih memiliki beberapa permasalahan, seperti penggunaan plastik pada buah yang kurang mampu melindungi produk, serta tidak adanya desain visual pada kemasan jus baik dalam bentuk cup maupun botol yang menyebabkan identitas agrowisata tidak terlihat. Berdasarkan hasil analisis, perancangan dilakukan dengan mengembangkan konsep desain kemasan yang menonjolkan aspek kesegaran, kealamian, dan identitas lokal melalui elemen visual seperti warna, tipografi, ilustrasi, serta bentuk kemasan yang lebih fungsional dan menarik. Perancangan ini diharapkan dapat meningkatkan daya tarik produk, memperkuat citra merek agrowisata, serta memberikan pengalaman visual yang lebih baik bagi konsumen.",
   "kata_kunci": "Desain kemasan, jambu biji merah, identitas visual, agrowisata, branding",
   "sk_penguji": "004/SK/Dekan-FTIN/I/2026 (Ganjil 2025/2026)",
-  "jurnal": "jurnal-2123042.pdf"
+  "jurnal": "https://drive.google.com/file/d/1WyhvcRror00wfnpqaV--fPCyZPrIETt2/view"
  },
  {
   "id": 62,
@@ -1053,7 +1053,7 @@ const KARYA = [
   "abstrak": ". . UMKM merupakan tulang punggung perekonomian Indonesia, khususnya di sektor kuliner yang menunjukkan pertumbuhan signifikan, termasuk di Kota Batam. Teras Lian adalah salah satu UMKM kuliner di Batam yang menawarkan masakan rumahan dengan kualitas rasa yang baik dan harga terjangkau. Meski memiliki keunggulan dalam cita rasa dan bahan alami tanpa MSG, Teras Lian masih menghadapi kendala dalam aspek promosi dan branding. Strategi promosi masih terbatas pada pemasaran dari mulut ke mulut dan pemanfaatan media digital yang belum optimal, seperti tampilan visual media sosial dan logo yang kurang menarik. Untuk mengatasi permasalahan tersebut, dilakukan upaya rebranding yang mencakup perancangan ulang identitas visual, khususnya logo, agar mampu meningkatkan daya tarik dan kepercayaan konsumen. Rebranding ini juga menjadi wujud nyata kontribusi mahasiswa Desain Komunikasi Visual dalam membantu pengembangan UMKM lokal serta sebagai media pembelajaran langsung dalam memahami kebutuhan masyarakat melalui pendekatan desain yang tepat guna.",
   "kata_kunci": "UMKM, kuliner, Batam, promosi, branding, rebranding, visual, desain komunikasi visual, Teras Lian",
   "sk_penguji": "004/SK/Dekan-FTIN/I/2026 (Ganjil 2025/2026)",
-  "jurnal": "jurnal-2123024.pdf"
+  "jurnal": "https://drive.google.com/file/d/1GTZnQ-NCX5aqCPPyidoTsl610KIfZboR/view"
  },
  {
   "id": 63,
@@ -1070,7 +1070,7 @@ const KARYA = [
   "abstrak": "Latar belakang penelitian ini didasarkan pada potensi besar industri pariwisata di Kota Batam yang terus mengalami peningkatan jumlah wisatawan nusantara setiap tahunnya. Namun, Batam Adventure Park sebagai salah satu destinasi wisata petualangan menghadapi tantangan rendahnya brand awareness di kalangan wisatawan domestik. Permasalahan utama terletak pada identitas visual lama yang dinilai terlalu kompleks, ramai, dan tidak sejalan dengan tren desain modern, sehingga sulit dikenali dan diingat oleh audiens. Tujuan dari perancangan ini adalah untuk membangun dan meningkatkan brand awareness Batam Adventure Park melalui strategi re-branding yang lebih efektif dan modern. Metode perancangan yang digunakan adalah metode campuran (mixed method) yang menggabungkan pendekatan kualitatif melalui observasi dan wawancara, serta pendekatan kuantitatif melalui kuesioner kepada 83 responden. Hasil akhir dari perancangan ini adalah identitas visual baru yang mengusung konsep desain bersih, fungsional, dan modern dengan pesan utama \"Intense, Skilled, Epic\". Implementasi desain mencakup logo utama, logo sekunder, serta berbagai media pendukung seperti kartu nama, tiket, seragam, konten media sosial, hingga sistem penunjuk arah (sign system) untuk meningkatkan kenyamanan pengunjung di lokasi wisata. Perancangan ini diharapkan dapat memperkuat posisi Batam Adventure Park sebagai destinasi petualangan unggulan bagi wisatawan domestik.",
   "kata_kunci": "Batam Adventure Park, Re-Branding, Brand Awareness",
   "sk_penguji": "004/SK/Dekan-FTIN/I/2026 (Ganjil 2025/2026)",
-  "jurnal": "jurnal-2123053.pdf"
+  "jurnal": "https://drive.google.com/file/d/1cFeQq7DZ6esoaeHBexxwtjYepmx-sxdz/view"
  },
  {
   "id": 64,
@@ -1087,7 +1087,7 @@ const KARYA = [
   "abstrak": "Industri pariwisata Kota Batam yang berkembang pesat mendorong kebutuhan akan kemasan oleh-oleh yang representatif. Produk “Mamma Otak-Otak” yang berdiri sejak 1982 memiliki potensi besar, namun kemasan saat ini belum optimal mencerminkan identitas visual lokal. Penelitian ini bertujuan merancang desain kemasan “Mamma Otak-Otak” sebagai representasi visual khas Kota Batam untuk meningkatkan daya tarik dan daya saing. Menggunakan metode campuran (mixed methods), data dikumpulkan melalui observasi, wawancara, kuesioner kepada 50 responden, dan studi literatur. Hasil perancangan mengintegrasikan ikon Jembatan Barelang dan ilustrasi ikan tenggiri dalam gaya vektor modern dengan palet warna hijau dan kuning yang segar. Implementasi desain mencakup empat varian ukuran fungsional, yaitu 10 pcs, 30 pcs, 50 pcs, dan 100 pcs. Melalui penggabungan aspek estetika dan fungsionalitas, desain ini diharapkan mampu memperkuat citra merek dan memposisikan produk sebagai oleh-oleh ikonik khas Batam bagi wisatawan domestik maupun mancanegara.",
   "kata_kunci": "Desain Kemasan, Mamma Otak-Otak, Oleh-oleh, Identitas Visual, Kota Batam",
   "sk_penguji": "004/SK/Dekan-FTIN/I/2026 (Ganjil 2025/2026)",
-  "jurnal": "jurnal-2123025.pdf"
+  "jurnal": "https://drive.google.com/file/d/1TXOp2BfTJFB0H9dudWb1HJnUd8iINUxz/view"
  },
  {
   "id": 65,
@@ -1104,7 +1104,7 @@ const KARYA = [
   "abstrak": "Kurangnya pengenalan alat musik tradisional, khususnya dari Pulau Sumatra, menjadi permasalahan dalam pelestarian budaya di kalangan remaja. Minimnya eksposur melalui pendidikan formal dan media, serta dominasi budaya populer, menyebabkan remaja lebih mengenal alat musik modern dibandingkan alat musik tradisional. Berdasarkan hasil observasi dan kuesioner, diketahui bahwa tingkat pengetahuan dan minat remaja terhadap alat musik tradisional masih rendah.Perancangan ini bertujuan untuk merancang media pengenalan alat musik tradisional Sumatra melalui desain maskot yang komunikatif dan menarik bagi remaja usia 13–18 tahun. Metode yang digunakan meliputi observasi, studi pustaka, dan kuesioner sebagai dasar dalam menentukan konsep perancangan. Hasil perancangan berupa enam karakter maskot yang mewakili alat musik tradisional Sumatra dengan pendekatan visual modern, ekspresif, dan mudah dikenali.Maskot didukung oleh media digital untuk memperluas jangkauan informasi kepada remaja. Diharapkan perancangan ini dapat meningkatkan minat dan pemahaman remaja terhadap alat musik tradisional serta mendukung pelestarian budaya lokal.",
   "kata_kunci": "alat musik tradisional, maskot, remaja, Sumatra, media digital",
   "sk_penguji": "004/SK/Dekan-FTIN/I/2026 (Ganjil 2025/2026)",
-  "jurnal": "jurnal-2123043.pdf"
+  "jurnal": "https://drive.google.com/file/d/1EUiYr3_f2730i8cl3H4pcn373zYCBjc6/view"
  },
  {
   "id": 66,
@@ -1121,7 +1121,7 @@ const KARYA = [
   "abstrak": "Tanjung Balai Karimun, merupakan salah satu kabupaten yang terletak di provinsi Kepulauan Riau, Indonesia. Memiliki potensi pariwisata dan kekayaan akan keindahan alam serta warisan budaya dengan letak geografis yang strategis. Namun di sisi lain, Banyak wisatawan yang kurang mengeksplorasi wilayah Tanjung Balai Karimun dikarenakan minimnya informasi mengenai destinasi wisata dan seni budaya yang terdapat disana, Selain itu media informasi yang ada saat ini belum menyajikan informasi secara lengkap dan kurang komunikatif dari segi visual. Penelitian ini bertujuan untuk merancang ilustrasi untuk E-Guidebook yang dilengkapi dengan Visual Diary untuk membantu wisatawan remaja dewasa dalam rentang usia 18-30 tahun dalam memahami informasi mengenai destinasi wisata dan seni budaya apa saja yang ada di Kabupaten Karimun.",
   "kata_kunci": "Tanjung Balai Karimun, Pariwisata, Ilustrasi, Visual Diary, EGuidebook",
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)",
-  "jurnal": "jurnal-2123069.pdf"
+  "jurnal": "https://drive.google.com/file/d/1XD0JvuVHBcT0QehXk2apbgv2F6ivPYrF/view"
  },
  {
   "id": 67,
@@ -1138,7 +1138,7 @@ const KARYA = [
   "abstrak": "Perkembangan kuliner Tionghoa Peranakan di Batam menunjukkan potensi besar dalam industri kreatif, terutama pada sektor kuliner. Namun, banyak usaha kuliner yang menghadapi permasalahan branding, termasuk Bakmie Soekadjadi yang belum memiliki visual brand identity yang konsisten serta menghadapi tantangan dalam memperkuat citra halal pada produk mereka. Penelitian ini bertujuan untuk merancang visual brand identity Bakmie Soekadjadi yang mampu menegaskan keaslian kuliner Tionghoa Peranakan sekaligus membangun citra halal yang kredibel, sehingga meningkatkan daya saing di pasar kuliner Batam. Metode yang digunakan adalah pendekatan branding strategis berbasis teori Desain Komunikasi Visual (DKV), dengan analisis data primer berupa observasi, wawancara, dan kuesioner, serta data sekunder dari literatur terkait branding, kuliner Tionghoa Peranakan, dan halal branding. Hasil perancangan meliputi elemen utama identitas visual seperti logotype, logomark, palet warna, tipografi, dan supergrafis, serta media implementasi berupa kemasan, tableware, merchandise, seragam, stationery, hingga branding digital. Setiap elemen dirancang konsisten untuk menciptakan citra brand yang autentik, komunikatif, dan modern. Hasil penelitian menunjukkan bahwa penerapan visual brand identity yang konsisten tidak hanya memperkuat posisi Bakmie Soekadjadi sebagai kuliner Tionghoa Peranakan halal, tetapi juga meningkatkan potensi penerimaan konsumen, khususnya generasi muda. Selain itu, perancangan ini memberikan kontribusi nyata bagi pengembangan strategi branding restoran kuliner di Batam, menjawab tantangan branding halal sekaligus mempertegas identitas visual Bakmie Soekadjadi di pasar lokal.",
   "kata_kunci": "Batam, Branding Halal, Desain Komunikasi Visual, Kuliner Tionghoa Peranakan, Restoran, Visual Brand Identity",
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)",
-  "jurnal": "jurnal-2123063.pdf"
+  "jurnal": "https://drive.google.com/file/d/1AwKICPz3y6r-3_gnk4aC38D-K1wN5hCi/view"
  },
  {
   "id": 68,
@@ -1155,7 +1155,7 @@ const KARYA = [
   "abstrak": "UMKM memiliki peranan penting dalam mendukung perekonomian Indonesia, namun sering menghadapi tantangan dalam membangun identitas merek yang kuat. Dapoer Anugrah, sebuah UMKM kuliner di Kota Tanjungpinang, mengalami permasalahan serupa, yaitu kurangnya visual branding yang konsisten sehingga berdampak pada rendahnya brand awareness, khususnya di media sosial. Penelitian dan perancangan ini bertujuan untuk memperkuat identitas visual sekaligus meningkatkan kesadaran konsumen terhadap brand Dapoer Anugrah. Metode yang digunakan adalah pendekatan campuran kualitatif dan kuantitatif, melalui wawancara dengan pemilik, penyebaran kuesioner kepada target audiens, studi literatur, serta observasi lokasi. Hasil analisis menunjukkan bahwa penerapan elemen visual yang konsisten dan strategi promosi digital yang tepat dapat meningkatkan daya tarik brand di kalangan audiens muda. Implementasi perancangan meliputi pembuatan logo, desain kemasan, konten media sosial, serta materi promosi digital yang selaras dengan identitas brand. Dengan perancangan ini, diharapkan Dapoer Anugrah mampu membangun brand awareness yang lebih kuat di media sosial, memperluas jangkauan pasar, serta menjadi pembeda dari kompetitor kuliner lain di Kota Tanjungpinang.",
   "kata_kunci": "Kesadaran branding, Dapoer Anugrah, visual branding",
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)",
-  "jurnal": "jurnal-2023027.pdf"
+  "jurnal": "https://drive.google.com/file/d/167UFNa5soYpuj4-M69JaC6X4A8V_R2io/view"
  },
  {
   "id": 69,
@@ -1172,7 +1172,7 @@ const KARYA = [
   "abstrak": "Vihara Ksitigarbha Bodhisattva merupakan salah satu destinasi wisata budaya dan spiritual yang penting di Kota Tanjungpinang, Kepulauan Riau. Keberadaan ratusan patung Arahat dengan arsitektur bercorak Tionghoa menjadikannya daya tarik wisata sekaligus sarana ibadah bagi umat Buddha. Namun, keterbatasan informasi, khususnya karena dominasi bahasa Mandarin pada penjelasan di lokasi, menimbulkan kendala bagi pengunjung yang ingin memahami nilai historis, filosofis, dan spiritual dari setiap elemen vihara. Permasalahan ini mengurangi potensi Vihara Ksitigarbha sebagai sarana edukasi budaya dan wisata spiritual yang inklusif. Metode penelitian yang digunakan adalah studi literatur, observasi lapangan, dokumentasi visual, serta analisis perbandingan terhadap media serupa. Data yang diperoleh kemudian diolah untuk merancang prototipe website interaktif dengan pendekatan user experience (UX) dan user interface (UI) design. Rancangan website ini dirancang agar informatif, menarik secara visual, serta mudah diakses oleh masyarakat umum maupun wisatawan lintas latar belakang budaya dan agama. Hasil akhir dari perancangan menunjukkan bahwa website interaktif dapat menjadi media penghubung antara nilai agama Buddha, identitas budaya Tionghoa, dan daya tarik wisata Vihara Ksitigarbha. Website ini menghadirkan informasi multibahasa, peta interaktif, serta penjelasan simbol dan patung yang dikemas secara modern dan inklusif. Dengan demikian, perancangan ini diharapkan mampu menjawab permasalahan keterbatasan informasi, memperkuat positioning Vihara Ksitigarbha sebagai destinasi wisata budaya dan spiritual, serta memberikan manfaat edukatif bagi pengunjung.",
   "kata_kunci": "Vihara Ksitigarbha, Budaya Tionghoa, Agama Buddha, Website Interaktif, Wisata Budaya",
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)",
-  "jurnal": "jurnal-2123017.pdf"
+  "jurnal": "https://drive.google.com/file/d/1P8ceU4jmHOFSK4o8apn8HZWcLXWuFO7g/view"
  },
  {
   "id": 70,
@@ -1189,7 +1189,7 @@ const KARYA = [
   "abstrak": "Perkembangan industri hiburan di Kota Batam, khususnya konser musik, menunjukkan tren peningkatan yang signifikan seiring dengan pertumbuhan jumlah penduduk, pariwisata, serta minat masyarakat terhadap hiburan live. Namun, sistem pembelian tiket konser di Batam masih menghadapi berbagai permasalahan, seperti praktik calo, ketidakpastian ketersediaan tiket, serta risiko penipuan tiket palsu. Kondisi ini menimbulkan kebutuhan akan platform pemesanan tiket yang lebih aman, praktis, dan terpercaya. Oleh karena itu, penelitian ini berfokus pada perancangan UI/UX aplikasi ticketing Tixboom sebagai solusi yang dapat meningkatkan aksesibilitas dan kenyamanan masyarakat Batam dalam membeli tiket konser secara digital. Metode yang digunakan adalah pendekatan Design Thinking dengan tahapan empathize, define, ideate, prototype, dan test. Data dikumpulkan melalui wawancara, observasi terhadap aplikasi serupa, survei usability testing, serta studi literatur. Analisis kualitatif digunakan untuk memahami kebutuhan pengguna dan merumuskan konsep perancangan yang tepat. Hasil perancangan menghasilkan prototipe aplikasi Tixboom dengan fokus pada tampilan antarmuka yang sederhana, navigasi yang intuitif, serta fitur keamanan transaksi. Pengujian menggunakan metode System Usability Scale (SUS) menunjukkan bahwa aplikasi ini memiliki tingkat kegunaan yang baik dan dapat diterima oleh pengguna. Dengan demikian, Tixboom diharapkan mampu menjadi platform yang tidak hanya mempermudah proses pemesanan tiket konser, tetapi juga memberikan pengalaman pengguna yang lebih aman, nyaman, dan inklusif bagi masyarakat Batam.",
   "kata_kunci": "UI/UX, Aplikasi Tiketing, Konser, Tixboom, Batam",
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)",
-  "jurnal": "jurnal-2123052.pdf"
+  "jurnal": "https://drive.google.com/file/d/1tw-Vo2dsxcZa_7yBylR2pb-rvv-Dp8vr/view"
  },
  {
   "id": 71,
@@ -1206,7 +1206,7 @@ const KARYA = [
   "abstrak": "Visalux merupakan salah satu merek di bidang kelistrikan yang dikenal melalui kualitas dan inovasinya. Namun, penerapan identitas visual yang dilakukan masih belum konsisten baik pada media digital maupun media fisik. Sejak proses rebranding, tampilan visual Visalux mengalami beberapa kali perubahan yang mengakibatkan kebingungan bagi audiens serta kesulitan bagi desainer internal karena tidak adanya pedoman yang jelas. Permasalahan ini menjadi dasar dilakukannya perancangan untuk menghadirkan identitas visual yang konsisten dan dapat dijadikan acuan dalam menjaga citra merek. Metode yang digunakan dalam penelitian ini adalah metode campuran yang menggabungkan wawancara, kuesioner, dan studi literatur. Wawancara dilakukan dengan pemilik, desainer internal, serta pengguna, sedangkan kuesioner disebarkan untuk memahami persepsi audiens terhadap identitas visual Visalux. Studi literatur digunakan untuk memperkuat analisis dengan teori terkait branding dan konsistensi visual. Hasil pengumpulan data menunjukkan bahwa inkonsistensi menjadi hambatan utama dalam membangun citra yang kuat, menurunkan familiaritas merek di masyarakat, serta memperlambat proses kerja tim desain. Hasil dari perancangan ini berupa visual identity yang disusun dalam sebuah brand guidelines dan diimplementasikan pada berbagai media digital maupun cetak. Kehadiran brand guidelines ini menjadi acuan bagi desainer dan pihak terkait dalam menjaga keseragaman identitas visual. Dengan demikian, perancangan ini berhasil menjawab pertanyaan penelitian dan mencapai tujuan yang telah ditetapkan.",
   "kata_kunci": "Visalux, Merek Kelistrikan, Visual Branding, Konsistensi Identitas, Brand Guidelines",
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)",
-  "jurnal": "jurnal-2123037.pdf"
+  "jurnal": "https://drive.google.com/file/d/1Zfb0wsd1tY4c0ChiDDTCwOxGY9h4x9JD/view"
  },
  {
   "id": 72,
@@ -1223,7 +1223,7 @@ const KARYA = [
   "abstrak": "Pada era perkembangan digital yang pesat, industri kreatif merupakan industri yang sangat dibutuhkan pada era modern, dengan adanya industri kreatif dapat membantu meningkatkan kreativitas dan inovasi dari berbagai aspek. jurusan Desain Komunikasi Visual merupakan salah satu jurusan yang berkonstribusi dalam industri kreatif dan sangat diperlukan pada era digital. Namun, masih terdapat kurangnya pemahaman mengenai bidang studi Desain Komunikasi Visual yang berpotensi menimbulkan mikonsepsi terhadap jurusan. Untuk mengatasi kesalahpahaman sekaligus memberikan pemahaman terhadap jurusan Desain Komunikasi Visual, perancangan ini akan dirancang dalam bentuk Video Game berjenis Visual Novel yang memberikan pengalaman interaktif kepada pemain untuk menjalankan dan mengetahui kehidupan dinamika beserta apa saja yang diperlukan untuk mengetahui jurusan Desain Komunikasi Visual dan ditemani karakter-karakter yang membantu pemain dalam mengeksplor. Pada perancangan ini penulis menggunakan metode penelitian kualitatif dengan menggunakan observasi, survei, wawancara, dan studi literatur untuk dijadikan data. Hasil dan tujuan dari perancangan ini adalah untuk memberikan pemahaman dan pengalaman bagaimana ruang lingkup jurusan Desain Komunikasi Visual berjalan beserta peluang karier yang dapat didapatkan dengan menggunakan media Visual Novel.",
   "kata_kunci": "Desain Komunikasi Visual, Video Game, Visual Novel, Perancangan",
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)",
-  "jurnal": "jurnal-2123018.pdf"
+  "jurnal": "https://drive.google.com/file/d/1FhZatXqf0QHjKI21ywRa6_4IWbzV7fOe/view"
  },
  {
   "id": 73,
@@ -1240,7 +1240,7 @@ const KARYA = [
   "abstrak": "Proses berduka merupakan pengalaman emosional yang kompleks dan sering kali sulit dipahami oleh anak-anak, terutama pada usia 9–12 tahun. Perancangan buku cerita Kenang hadir sebagai media literasi visual dan emosional yang bertujuan untuk membantu anak mengenali, memahami, dan mengelola rasa kehilangan melalui pendekatan naratif dan ilustratif. Metode perancangan dilakukan melalui studi literatur mengenai psikologi anak, teori visual komunikasi, serta referensi buku cerita anak bertema emosional. Karya ini diharapkan dapat menjadi media pendamping yang membantu anak memahami konsep kehilangan, memberikan validasi terhadap emosi mereka, serta menumbuhkan harapan melalui pesan bahwa duka adalah proses yang wajar dan dapat dilalui bersama.",
   "kata_kunci": "Duka, Buku, Visual",
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)",
-  "jurnal": "jurnal-2123005.pdf"
+  "jurnal": "https://drive.google.com/file/d/1ZlS_rfI8-oPO64KiWUSHkvjatfDD9xcq/view"
  },
  {
   "id": 74,
@@ -1257,7 +1257,7 @@ const KARYA = [
   "abstrak": "Kesetaraan Gender merupakan isu fundamental dalam hak asasi manusia yang masih menghadapi tantangan signifikan, khususnya di Indonesia yang masih dipengaruhi budaya patriarki. Ketimpangan peran Gender tercermin dari stereotip sosial, kekerasan berbasis Gender, serta bias representasi di ruang publik maupun digital. Melalui pendekatan desain komunikasi visual, penelitian ini merancang kampanye sosial edukatif tentang kesetaraan Gender dengan memanfaatkan media sosial sebagai kanal utama, karena tingginya partisipasi remaja dan dewasa muda di platform seperti Instagram, TikTok, dan X. Metodologi yang digunakan bersifat campuran, yaitu kualitatif dan kuantitatif, meliputi observasi media sosial, wawancara dengan pihak HRD dan karyawan, serta penyebaran kuesioner kepada 50 responden usia 13–30 tahun. Data dianalisis menggunakan teori Gender Performativity, Bias Gender, serta model perilaku BJ Fogg untuk menyusun strategi komunikasi visual yang efektif. Hasil dari analisis melahirkan kampanye berbasis video pendek dan ilustrasi edukatif yang dirancang untuk membongkar stereotip dan mendorong partisipasi aktif audiens. Kampanye ini bertujuan membangun ruang digital yang inklusif, membentuk pemahaman kritis, dan mendorong perubahan sikap terhadap kesetaraan Gender di kalangan generasi muda.",
   "kata_kunci": "Kesetaraan Gender, Kampanye Sosial, Media Sosial, Desain Komunikasi Visual, Diskriminasi Gender",
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)",
-  "jurnal": "jurnal-2123028.pdf"
+  "jurnal": "https://drive.google.com/file/d/1Zj-suE6pykCbsjq_jmTiTF7Bz4ba_ex2/view"
  },
  {
   "id": 75,
@@ -1274,7 +1274,7 @@ const KARYA = [
   "abstrak": "Aksara Arab Melayu merupakan bagian dari warisan budaya masyarakat Melayu yang memiliki nilai sejarah dan identitas budaya. Namun, keberadaan aksara ini mulai kurang dikenal, khususnya di kalangan anak-anak sekolah dasar, karena terbatasnya media pembelajaran yang menarik dan sesuai dengan karakteristik mereka. Penelitian ini bertujuan untuk merancang buku ilustrasi sebagai media edukasi dalam mengenalkan aksara Arab Melayu kepada anak-anak usia 7–12 tahun di Kota Batam. Metode yang digunakan adalah metode kualitatif dengan teknik pengumpulan data berupa wawancara, observasi, dan studi literatur. Hasil penelitian menunjukkan bahwa anak-anak lebih tertarik pada media pembelajaran yang disajikan dengan ilustrasi berwarna cerah, gaya kartun, dan penyampaian yang sederhana. Buku ilustrasi yang dirancang tidak hanya sebagai media pengenalan huruf Arab Melayu, tetapi juga mengandung nilai budaya lokal yang dapat mendukung proses pembelajaran. Perancangan ini diharapkan dapat menjadi alternatif media pembelajaran yang menarik, menyenangkan, serta berkontribusi dalam upaya pelestarian aksara Arab Melayu.",
   "kata_kunci": "Aksara Arab Melayu, Buku Ilustrasi, Media Edukasi, Anak-anak, Pelestarian Budaya",
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)",
-  "jurnal": "jurnal-2123047.pdf"
+  "jurnal": "https://drive.google.com/file/d/1B-a-kTxqI3JP_lpTvigTbtSzKrgZV7Ez/view"
  },
  {
   "id": 76,
@@ -1291,7 +1291,7 @@ const KARYA = [
   "abstrak": "Indonesia dikenal sebagai negara dengan keragaman budaya, termasuk kuliner tradisional yang mencerminkan identitas dan autentisitas suatu daerah. Kepulauan Riau, sebagai wilayah yang berada di jalur rempah dan berbatasan dengan berbagai negara, memiliki kuliner khas yang unik dengan dominasi olahan laut. Hidangan seperti Mie Tarempa, Luti Gendang, Gonggong, Mie Lendir, dan otak-otak tidak hanya menyuguhkan cita rasa lezat, tetapi juga menyimpan nilai sejarah dan filosofi. Namun, perkembangan globalisasi dan modernisasi membuat kuliner khas semakin terpinggirkan oleh makanan instan, ditambah minimnya dokumentasi yang menyebabkan generasi muda kurang mengenal nilai budaya di baliknya. Upaya pelestarian diperlukan agar kuliner khas tidak punah dan tetap menjadi identitas budaya. Salah satu solusi adalah mendokumentasikan kuliner khas Kepulauan Riau dalam bentuk ensiklopedia ilustratif. Ensiklopedia dipilih karena mampu menyajikan informasi secara mendalam, menarik, dan mudah dipahami melalui teks dan visual. Perancangan ensiklopedia kuliner khas Kepulauan Riau dengan ilustrasi digital diharapkan dapat menjadi media edukatif sekaligus dokumentasi pelestarian budaya yang efisien, serta meningkatkan apresiasi khusuya untuk generasi muda lokal terhadap warisan kuliner daerah yang harus dijaga dan dilestarikan.",
   "kata_kunci": "Kuliner tradisional, Kepulauan Riau, ensiklopedia, ilustrasi digital, pelestarian budaya",
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)",
-  "jurnal": "jurnal-2123003.pdf"
+  "jurnal": "https://drive.google.com/file/d/19qiYGAx90DODZdMxZGb7WA5m9nk9tkpb/view"
  },
  {
   "id": 77,
@@ -1308,7 +1308,7 @@ const KARYA = [
   "abstrak": "Indonesia memiliki kekayaan budaya yang melimpah, termasuk mitologi Nusantara yang memuat kisah-kisah mistis seperti legenda mitologi, makhluk gaib dan cerita rakyat. Namun, generasi muda semakin kurang tertarik pada budaya lokal karena paparan terhadap budaya asing dari media digital. Untuk memperkenalkan budaya lokal kepada remaja, perancangan game 2D fighting yang mengangkat mitologi Nusantara menjadi langkah yang tepat. Game ini tidak hanya berfungsi sebagai media hiburan, tetapi juga sebagai alat edukasi yang memperkenalkan karakter mitologis dan kisah legendaris dari cerita rakyat di Indonesia. Dengan mekanisme gameplay interaktif yang memungkinkan pemain mengendalikan karakterkarakter mitologi, diharapkan game ini mampu meningkatkan keterlibatan remaja dan menumbuhkan apresiasi terhadap budaya lokal.",
   "kata_kunci": "2D Fighting Game, karakter mitologi, cerita rakyat, budaya, interaktif",
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)",
-  "jurnal": "jurnal-2123045.pdf"
+  "jurnal": "https://drive.google.com/file/d/1pWXN_QDfDAs3G90_sopTlr7j5sW4CsKh/view"
  },
  {
   "id": 78,
@@ -1325,7 +1325,7 @@ const KARYA = [
   "abstrak": "dan strategi promosi pariwisata. Data yang diperoleh dianalisis untuk merumuskan konsep visual yang tepat, meliputi identitas visual, poster, dan materi promosi digital. Hasil perancangan menunjukkan bahwa media visual dengan konsep dinamis, modern, dan konsisten mampu meningkatkan citra event lari, menarik minat peserta, serta memberikan kontribusi positif terhadap pengenalan Batam sebagai destinasi sport tourism. Dengan demikian, perancangan ini diharapkan dapat menjadi solusi efektif dalam memperkuat promosi event olahraga di Batam secara kreatif dan berkelanjutan.",
   "kata_kunci": "Sport tourism, Event lari, Media visual, Desain komunikasi visual, Promosi pariwisata, Batam",
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)",
-  "jurnal": "jurnal-2123060.pdf"
+  "jurnal": "https://drive.google.com/file/d/1vHASfZcPIrpC6mNjeyR7u1SWHCRVxprT/view"
  },
  {
   "id": 79,
@@ -1342,7 +1342,7 @@ const KARYA = [
   "abstrak": "Banyaknya kebutuhan manusia ada zaman ini membuat keberadaan supermarket menjadi krusial. Supermarket adalah sebuah toko swalayan yang menjual beragam macam produk makanan, minuman hingga perlengkapan rumah tangga. Di Kota Batam, terdapat supermarket yang sangat berkembang pesat dan memiliki jaringan terbesar yaitu TOP 100 Supermarket. Namun perkembangan pesat ini tidak didampingi dengan pembaharuan identitas visual sehingga identitas visual yang digunakan TOP 100 Supermarket saat ini sudah terlihat ketinggalan zaman. Berangkat dari masalah ini, maka perancangan ini bertujuan untuk melakukan pembaharuan identitas visual bagi TOP 100 Supermarket agar identitas visual yang baru dapat mencerminkan evolusi yang sudah dialami oleh supermarket ini. Metode penelitian yang digunakan dalam pengumpulan data adalah metode kuantitatif dengan menebarkan kuesioner serta metode kualitatif deskriptif yang melibatkan wawancara dengan pengunjung supermarket, observasi lokasi beberapa cabang TOP 100 Supermarket dan studi literatur. Perancangannya sendiri melalui tahapan penelitian, penetapan strategi, perancangan, implementasi dan terakhir pengelolaan aset. Hasil penelitian mengungkapkan bahwa sebagian besar dari pengunjung TOP 100 Supermarket ingin melihat supermarket ini memiliki logo, identitas visual dan pengalaman belanja yang baru.",
   "kata_kunci": "TOP 100, supermarket, rebranding, identitas merek visual, evolusi",
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)",
-  "jurnal": "jurnal-2123029.pdf"
+  "jurnal": "https://drive.google.com/file/d/1LtsXb3sUf96RFNLXjg67moHMsHKwgz1y/view"
  },
  {
   "id": 80,
@@ -1359,7 +1359,7 @@ const KARYA = [
   "abstrak": "Perancangan buku ilustrasi pop-up sebagai media edukasi mengenai pentingnya kesehatan gigi untuk anak usia 6-8 tahun bertujuan untuk meningkatkan pemahaman dan kesadaran anak tentang kebersihan gigi. Pada usia ini, anak-anak mulai belajar tentang kebiasaan sehari-hari, termasuk perawatan gigi. Buku pop-up dirancang dengan elemen interaktif yang menarik, sehingga mampu menarik perhatian dan minat anak. Metode yang digunakan dalam penelitian ini meliputi pengumpulan data melalui observasi dan wawancara dengan guru serta orang tua untuk memahami cara terbaik dalam menyampaikan informasi. Isi buku ini mencakup informasi mengenai cara menyikat gigi yang benar, pentingnya menghindari makanan manis, dan kunjungan rutin ke dokter gigi. Selain itu, ilustrasi warna-warni dan karakter yang lucu diharapkan dapat membuat anak lebih mudah mengingat pesan yang disampaikan. Dengan menggunakan pendekatan visual yang menarik, buku ini tidak hanya berfungsi sebagai alat edukasi, tetapi juga sebagai sarana untuk membangun kebiasaan sehat sejak dini. Diharapkan, buku ini dapat digunakan di rumah maupun di sekolah sebagai panduan untuk mengajarkan anak tentang kesehatan gigi secara menyenangkan dan interaktif.",
   "kata_kunci": "Kesehatan Gigi, Anak, Pop-Up, Edukasi, Kebiasaan Sehat",
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)",
-  "jurnal": "jurnal-2123049.pdf"
+  "jurnal": "https://drive.google.com/file/d/198HUdT9shOUYZk4uiC-QzNDnPkPI2TxN/view"
  },
  {
   "id": 81,
@@ -1376,7 +1376,7 @@ const KARYA = [
   "abstrak": "Batam merupakan kota di Provinsi Kepulauan Riau yang memiliki beragam potensi wisata, salah satunya adalah wisata kuliner. Kekayaan kuliner khas Batam, seperti gong-gong, mie lendir, mie tarempa, luti gendang, hingga sup ikan, mencerminkan perpaduan Melayu, Tionghoa, dan pengaruh india. Namun, kuliner khas Batam belum sepenuhnya dikenal oleh masyarakat maupun wisatawan karena kurangnya media promosi yang informatif dan menarik. Penelitian ini bertujuan untuk merancang sebuah buku ilustrasi berjudul “3 Days Experience of Batam Culinary” sebagai media promosi dan dokumentasi kuliner khas Batam. Metode yang digunakan adalah pendekatan kualitatif deskriptif melalui wawancara, observasi lapangan, serta studi literatur. Hasil data dianalisis untuk menentukan konsep visual, gaya ilustrasi, tipografi, warna, dan layout buku. Buku ini dirancang dengan gaya ilustrasi semi-realis menggunakan teknik watercolor yang dipadukan dengan narasi ringan agar mudah dipahami oleh target audiens, yaitu remaja hingga dewasa berusia 16–35 tahun, baik wisatawan maupun masyarakat lokal. Hasil perancangan berupa buku ilustrasi yang tidak hanya menyajikan informasi kuliner khas Batam, tetapi juga menekankan keunikan visual dari tiap hidangan. Dengan adanya perancangan ini, diharapkan buku ilustrasi “Experience of Batam Culinary” dapat menjadi media promosi yang efektif, meningkatkan daya tarik wisata kuliner Batam.",
   "kata_kunci": "Buku Ilustrasi, Kuliner Batam, Desain Visual, Wisata Kuliner",
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)",
-  "jurnal": "jurnal-2023031.pdf"
+  "jurnal": "https://drive.google.com/file/d/13QYKyy2g9aJc7M_mdcth8DkGTF9bD8Wi/view"
  },
  {
   "id": 82,
@@ -1393,7 +1393,7 @@ const KARYA = [
   "abstrak": "Indonesia memiliki kekayaan budaya yang berperan penting dalam pengembangan pariwisata. Upaya pengenalan budaya dilakukan melalui culture knowledge, yakni media informasi budaya yang dapat hadir dalam berbagai bentuk seperti museum, situs digital, hingga konten kreatif. Culture knowledge menjadi fondasi penting karena pelestarian budaya tidak mungkin berjalan tanpa adanya pengenalan dan pemahaman terlebih dahulu. Salah satu warisan budaya di Kepulauan Riau adalah Gurindam 12 karya Raja Ali Haji. Karya sastra ini mengandung nilai moral, sosial, dan keagamaan, sekaligus menjadi kebanggaan masyarakat Melayu. Namun, pengenalannya masih terbatas pada media tradisional seperti ukiran atau pameran. Kondisi ini membuat generasi Z kurang terhubung dengan Gurindam 12, terlebih di tengah dominasi budaya populer Barat. Berdasarkan kondisi tersebut, penelitian ini merancang pocketbook interaktif berbasis audiovisual sebagai media pengenalan Gurindam 12. Pocketbook dipilih karena praktis dan ringkas, sementara integrasi audiovisual memungkinkan pembaca untuk tidak hanya membaca, tetapi juga mendengar lantunan Gurindam 12. Penelitian ini menggunakan metode mixed method yang memadukan pendekatan kualitatif dan kuantitatif. Data diambil melalui teknik wawancara, kuesioner, observasi, dan studi literatur. Data dikumpulkan dari narasumber ahli, warga lokal, generasi Z, serta referensi pustaka untuk menjadi dasar dalam perancangan ini. Tujuan dari perancangan ini adalah terciptanya pocketbook interaktif berbasis audiovisual sebagai media praktis dan inovatif dalam mengenalkan Gurindam 12, sehingga karya sastra Melayu ini dapat dipahami dengan cara yang lebih menarik, interaktif, dan relevan bagi pembaca.",
   "kata_kunci": "Gurindam 12, Pocketbook Interaktif, Wisatawan, Generasi Z",
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)",
-  "jurnal": "jurnal-2123004.pdf"
+  "jurnal": "https://drive.google.com/file/d/1ggKbI0NnUb0bZQJeLhpaCNUXVZlQd6ZB/view"
  },
  {
   "id": 83,
@@ -1410,7 +1410,7 @@ const KARYA = [
   "abstrak": "Kepulauan Riau memiliki kekayaan budaya yang berakar dari sejarah Kesultanan Riau-Lingga. Namun, minat generasi muda terhadap budaya lokal semakin menurun akibat dominasi budaya asing. Salah satu kisah lokal yang memiliki potensi besar untuk diangkat adalah kisah Panglima Raman, tokoh legendaris yang pernah dipentaskan dalam bentuk drama. Sayangnya, media penyampaian kisah tersebut belum menjangkau anak-anak dan remaja secara efektif. Oleh karena itu, tugas akhir ini merancang sebuah animasi pendek sebagai media awareness budaya Kepulauan Riau yang adaptif terhadap karakteristik generasi muda. Metode yang digunakan meliputi wawancara, observasi, dan studi literatur, serta pendekatan desain berbasis ATUMICS dan struktur naratif Hero’s Journey. Hasil akhir dari perancangan ini adalah animasi berdurasi 5 menit 56 detik yang mengangkat nilainilai budaya lokal melalui visualisasi karakter, latar, dan alur cerita yang menarik dan edukatif. Media pendukung seperti poster, merchandise, dan thumbnail YouTube juga dirancang untuk memperluas jangkauan promosi. Dengan pendekatan ini, animasi Panglima Raman diharapkan mampu menjadi langkah awal pelestarian budaya lokal melalui media yang relevan dan menarik bagi generasi muda.",
   "kata_kunci": "Animasi budaya, Panglima Raman, Kepulauan Riau, Hero’s Journey, ATUMICS",
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)",
-  "jurnal": "jurnal-2223105.pdf"
+  "jurnal": "https://drive.google.com/file/d/1N_nAbOMy0-3EdfDoUMTjtNnTUM4-gWTQ/view"
  },
  {
   "id": 84,
@@ -1427,7 +1427,7 @@ const KARYA = [
   "abstrak": "Batam merupakan salah satu kota dengan letak yang sangat strategis. Selain berada di jalur pelayaran internasional, kota ini memiliki jarak yang sangat dekat dan berbatasan langsung dengan Singapura dan Malaysia. Sebagai kota terencana, Batam merupakan salah satu kota dengan pertumbuhan terpesat di Indonesia. Ketika dibangun pada tahun 1970-an oleh Otorita Batam (saat ini bernama BP Batam), kota ini hanya dihuni sekitar 6.000 penduduk dan dalam tempo 40 tahun penduduk Batam bertumbuh hingga 158 kali lipat. Jembatan Barelang telah menjadi ikon Kota Batam, bahkan telah populer sebagai landmark-nya Pulau Batam. Apabila Kota Jakarta identik dengan Monas maka orang akan mengidentikan Kota Batam dengan Jembatan Barelang (Barelang Bridge).",
   "kata_kunci": "Batam, Fotografi Essay, Pembangunan, kritik",
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)",
-  "jurnal": "jurnal-1923013.pdf"
+  "jurnal": "https://drive.google.com/file/d/1bgTluD8VlJlWVfhGApz_UlH1FEh_Fs2u/view"
  },
  {
   "id": 85,
@@ -1444,7 +1444,7 @@ const KARYA = [
   "abstrak": "Banyaknya brand pencahayaan di Indonesia yang semakin berkembang serta dengan seiring perkembangan pasar yang semakin kompetitif di dunia pencahayaan, EcoKing memerlukan pembaruan identitas visual baru yang kuat dan konsisten guna meningkatkan brand awereness di kalangan konsumen yang mampu mencerminkan nilai-nilai inti brand sekaligus menarik perhatian segmen target dan dapat bersaing dengan kompetitor lainnya yang sudah memiliki identitas visual yang kuat dan konsisten. Metode yang digunakan dalam penilitian ini adalah pendeketan kualitatif-kuantitaif. Sebagai hasilnya, tugas akhir ini akan diaplikasikan menggunakan Graphic Standard Manual (GSM) yang akan diaplikasikan pada media pendukung, sesuai dengan visi dan misi EcoKing, sehingga dapat menjadi identitas visual baru.",
   "kata_kunci": "Brand Awareness, Ecoking, Identitas Visual, Rebranding",
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)",
-  "jurnal": "jurnal-2123051.pdf"
+  "jurnal": "https://drive.google.com/file/d/17I2v4L43tt9EZBlKfgL9uZ3Bux3-gYzg/view"
  },
  {
   "id": 86,
@@ -1461,7 +1461,7 @@ const KARYA = [
   "abstrak": "Penelitian ini membahas tentang perancangan video game Hantu Sei Ladi yang ditujukan untuk remaja. Game ini dirancang sebagai media hiburan sekaligus untuk melestarikan cerita rakyat lokal. Metode perancangan yang digunakan meliputi tahap analisis, desain, implementasi, dan evaluasi dengan mengacu pada teori desain game. Hasil penelitian berupa prototipe video game bergenre horor yang menampilkan elemen budaya lokal dalam bentuk karakter, alur cerita, dan latar permainan. Uji coba awal menunjukkan bahwa game ini mampu menarik minat remaja sekaligus memperkenalkan nilai budaya lokal melalui pengalaman bermain interaktif.",
   "kata_kunci": "Video game, horor, visual novel, legenda urban, budaya lokal, remaja, Sei Ladi",
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)",
-  "jurnal": "jurnal-2023064.pdf"
+  "jurnal": "https://drive.google.com/file/d/1nxW6qYDc5uqmct6jroDUBQCY1KUweV6b/view"
  },
  {
   "id": 87,
@@ -1478,7 +1478,7 @@ const KARYA = [
   "abstrak": "Perkembangan dunia olahraga, khususnya bulutangkis, tidak hanya ditopang oleh prestasi atlet, tetapi juga oleh keberadaan brand yang mampu menghadirkan produk berkualitas dan membangun citra di mata konsumen. Fafa Sport sebagai penyedia perlengkapan bulutangkis di Batam yang berdiri sejak 2022, menghadapi tantangan dalam hal brand awareness. Berdasarkan hasil observasi, wawancara, dan kuisioner, ditemukan bahwa sebagian besar masyarakat masih belum mengenal Fafa Sport. Permasalahan ini menunjukkan perlunya strategi rebranding untuk memperkuat identitas visual sebelum pembukaan toko (retail). Metode penelitian yang digunakan adalah kualitatif dengan observasi lapangan, serta pengumpulan data melalui wawancara dan kuisioner. Hasil perancangan meliputi pembaruan identitas visual berupa logo, tipografi, warna, supergraphic, yang konsisten pada media promosi digital dan cetak.",
   "kata_kunci": "Rebranding, brand awareness, identitas visual, bulutangkis",
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)",
-  "jurnal": "jurnal-2123001.pdf"
+  "jurnal": "https://drive.google.com/file/d/1woUe00bUbHvD1yQzg-fnxfKBXOM-dJ-i/view"
  },
  {
   "id": 88,
@@ -1495,7 +1495,7 @@ const KARYA = [
   "abstrak": ". . Hasil perancangan ini berupa sebuah kampanye yang menggunakan pendekatan persuasif dan kreatif dengan media utama berbentuk video pendek (short movie) dan didukung oleh media luar ruang dan digital, seperti poster, billboard, mural, Xbanner, dan stiker. Kampanye ini bertujuan untuk menyampaikan pesan yang kuat agar khalayak sasaran menyadari bahwa kemenangan judi online hanyalah ilusi manipulatif dari bandar. Kesimpulannya, perancangan kampanye ini merupakan respons terhadap krisis sosial ekonomi di Batam akibat judi online, dengan fokus untuk mengurangi perilaku judi melalui peningkatan kesadaran diri, perubahan perilaku, dan penolakan terhadap iming-iming iklan yang menipu.",
   "kata_kunci": "Judi Online, Kampanye Sosial, Usia Produktif, Batam, Desain Komunikasi Visual",
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)",
-  "jurnal": "jurnal-2023043.pdf"
+  "jurnal": "https://drive.google.com/file/d/1diwv0A9KFe2MxtAwHBvVCfrNRng3xqZv/view"
  },
  {
   "id": 89,
@@ -1512,7 +1512,7 @@ const KARYA = [
   "abstrak": "Penelitian ini bertujuan untuk merancang kampanye visual guna meningkatkan kesadaran terhadap dampak toxic online disinhibition di kalangan remaja. Fenomena ini telah menjadi masalah serius dalam era digital, memengaruhi interaksi sosial dan kesejahteraan mental. Penelitian ini akan mengembangkan serangkaian media visual yang informatif dan melibatkan, dengan tujuan mendorong introspeksi dan perubahan perilaku positif. Metode penelitian mencakup analisis literatur, wawancara mendalam dengan kelompok target, serta pengembangan dan pengujian konsep visual. Hasil yang diharapkan adalah kampanye visual yang sesuai dalam meningkatkan kesadaran akan toxic online disinhibition, empati online, dan keterampilan komunikasi interpersonal. Penelitian ini diharapkan memberikan kontribusi signifikan dalam upaya mengatasi tantangan komunikasi digital dan mempromosikan penggunaan teknologi yang lebih bertanggung jawab di kalangan generasi muda.",
   "kata_kunci": "Toxic online disinhibition, kampanye visual, desain komunikasi visual, literasi digital, kesejahteraan mental",
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)",
-  "jurnal": "jurnal-2123054.pdf"
+  "jurnal": "https://drive.google.com/file/d/1jBQbQrHqWpNB53NfSuu4DVv_ke7jGMrt/view"
  },
  {
   "id": 90,
@@ -1529,7 +1529,7 @@ const KARYA = [
   "abstrak": "Kepulauan Riau memiliki potensi pariwisata yang besar dengan kekayaan alam, budaya, dan sejarahnya. Salah satu destinasi unggulan adalah Gurun Pasir Telaga Biru di Desa Busung, Kabupaten Bintan. Kawasan ini terbentuk dari bekas tambang pasir yang secara alami menciptakan lanskap unik berupa gundukan pasir putih dan telaga biru. Destinasi ini terus mengalami peningkatan jumlah kunjungan wisatawan, baik domestik maupun mancanegara. Namun, upaya dalam penguatan citra destinasi masih kurang diperhatikan, khususnya belum menerapkan identitas visual seperti logo, warna khas, elemen visual yang belum konsisten, dan belum merpresentasikan wisata. Untuk mengatasi hal tersebut, diperlukan perancangan identitas visual sebagai upaya strategis dalam memperkuat identitas visual Gurun Pasir Telaga Biru. Perancangan identitas visual difokuskan pada pengembangan elemen visual yang mengusung budaya Melayu Kepulauan Riau. Upaya ini diharapkan mampu meningkatkan daya saing destinasi, memperkuat citra positif, serta menambah daya tarik wisatawan. Dengan demikian, perancangan identitas visual tidak hanya mendukung pengembangan pariwisata secara berkelanjutan, tetapi juga menjadi sarana pelestarian budaya lokal melalui media desain. Penelitian ini menggunakan metode mixed method yang mengkombinasikan pendekatan kuantitatif dan kualitatif. Teknik dalam pengumpulan data meliputi wawancara, observasi, kuisioner, dan studi literatur. Data yang dikumpulkan melalui narasumber terkait pengelola wisata, wisatawan lokal usia 18-34 tahun, serta referensi pustaka yang menjadi landasan dalam perancangan ini. Tujuan dari perancangan ini adalah terbentuknya identitas visual untuk wisata Gurun Telaga Biru Bintan sebagai wisata bernuansa Budaya Melayu Kepulauan Riau.",
   "kata_kunci": "Identitas Visual, Kepulauan Riau, Gurun Telaga Biru, Wisata, Budaya Melayu",
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)",
-  "jurnal": "jurnal-2123046.pdf"
+  "jurnal": "https://drive.google.com/file/d/1yqJMcdgKL6YkdS1y5yJyOMxnsOBEYkEO/view"
  },
  {
   "id": 91,
@@ -1546,7 +1546,7 @@ const KARYA = [
   "abstrak": "Perkembangan media edukasi untuk anak usia dini semakin penting seiring dengan meningkatnya tantangan sosial yang dihadapi anak-anak di lingkungan sekolah maupun pergaulan sehari-hari. Salah satu isu utama adalah rendahnya kesadaran anak dalam memahami empati serta dampak perilaku bullying baik verbal maupun non-verbal. Oleh karena itu, perancangan media edukasi ini bertujuan untuk menciptakan sebuah board game yang dapat menjadi sarana bermain sekaligus belajar, dengan fokus menumbuhkan nilai empati, keberanian moral, serta kebaikan pada anak usia 6–10 tahun. Metode penelitian yang digunakan dalam perancangan ini meliputi studi literatur, wawancara dengan anak-anak serta orang tua, observasi langsung terhadap interaksi sosial anak, serta uji coba permainan (game testing). Proses perancangan dilakukan melalui beberapa tahapan, mulai dari pra-produksi, penentuan konsep visual, pembuatan prototipe, hingga pengujian permainan untuk memperoleh hasil yang optimal. Hasil perancangan ini berupa board game dengan nama Heart Heroes, yang menampilkan empat karakter utama yaitu Keiko, Bimo, Jerry, dan Mimi, masing-masing merepresentasikan kepribadian anak yang berbeda. Melalui elemen permainan seperti Heart Test Card, Spark of Kindness Card, Kindness Token, dan Kindness Pin, anak-anak diajak untuk membuat keputusan yang mencerminkan empati dan kebaikan. Berdasarkan hasil uji coba, permainan ini mampu meningkatkan interaksi sosial anak, memberikan pengalaman belajar yang menyenangkan, serta menumbuhkan kesadaran bahwa tindakan sederhana dapat memberikan dampak besar bagi orang lain. Dengan demikian, Heart Heroes dapat menjadi salah satu alternatif media edukasi yang efektif dan interaktif dalam menanamkan nilai empati pada anak usia 5–10 tahun melalui aktivitas bermain yang kreatif dan bermakna.",
   "kata_kunci": "Board Game, Media Edukasi, Empati, Anak",
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)",
-  "jurnal": "jurnal-2123032.pdf"
+  "jurnal": "https://drive.google.com/file/d/1bn-mgSPI2xPMezyC1WBeeKdbNdQSVoC3/view"
  },
  {
   "id": 92,
@@ -1563,7 +1563,7 @@ const KARYA = [
   "abstrak": "Kasus pelecehan seksual di Indonesia, khususnya di Provinsi Kepulauan Riau, terus mengalami peningkatan dari tahun ke tahun sehingga telah menjadi permasalahan sosial yang serius. Fenomena ini menimbulkan dampak signifikan, baik terhadap korban maupun masyarakat secara umum. Oleh karena itu, diperlukan kampanye sosial yang mampu mempersuasi serta mendorong korban dan masyarakat untuk berani melawan dan berbicara mengenai isu tersebut. Berdasarkan data yang diperoleh, diketahui bahwa banyak korban merasa takut untuk berbicara dan melawan karena adanya stigma serta kekhawatiran terhadap victim-blaming dari masyarakat. Namun, temuan di lapangan justru menunjukkan hal yang berbeda: mayoritas masyarakat menyatakan mendukung korban. Kampanye ini dirancang dengan menggunakan metode pengumpulan data kualitatif, yaitu melalui wawancara, kuesioner, dan studi literatur, untuk menggali pemahaman serta persepsi korban dan masyarakat mengenai pelecehan seksual. Target audiens difokuskan pada kelompok usia 19–25 tahun, dengan pertimbangan bahwa kalangan muda memiliki tingkat kepedulian dan rasa keadilan sosial yang lebih tinggi. Strategi komunikasi kampanye disusun berdasarkan hasil kuesioner dan wawancara, dengan memanfaatkan media visual dan digital agar pesan dapat tersampaikan secara efektif dan persuasif. Dengan pondasi data yang kuat, kampanye sosial ini diharapkan mampu mempersuasi korban agar berani bersuara serta mendorong masyarakat untuk bersama-sama melawan pelecehan seksual. Pada akhirnya, hasil dari perancangan ini diharapkan dapat memberikan kontribusi positif dalam upaya menurunkan angka pelecehan seksual di masyarakat.",
   "kata_kunci": "Kampanye Sosial, Pelecehan Seksual, Stigma Sosial, Victim-Blaming, Bersuara",
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)",
-  "jurnal": "jurnal-2123015.pdf"
+  "jurnal": "https://drive.google.com/file/d/1QsVccwhoGXLk3iRddmK-Jnfx4YHvMx0U/view"
  },
  {
   "id": 93,
@@ -1580,7 +1580,7 @@ const KARYA = [
   "abstrak": "Di tengah perkembangan zaman, isu kesehatan mental menjadi perhatian penting, terutama bagi anak-anak dan remaja. Salah satu kelompok yang sering kurang mendapatkan perhatian adalah anak pertama dalam keluarga, yang kerap memikul tanggung jawab besar serta menghadapi ekspektasi tinggi dari orang tua. Kondisi tersebut berpotensi menimbulkan tekanan emosional, kecemasan, hingga penurunan kepercayaan diri apabila tidak didukung secara memadai. Untuk merespons fenomena tersebut, penelitian ini merancang sebuah buku visual berbentuk diary yang memadukan teks dan ilustrasi sebagai media komunikasi afirmasi. Hasil perancangan berupa buku visual diary yang menghadirkan ruang aman untuk refleksi diri, memberikan dukungan emosional, serta mengenalkan konsep writing therapy sebagai sarana menyalurkan emosi dan melakukan refleksi melalui tulisan. Media ini diharapkan dapat menjadi alternatif komunikasi yang empatik dalam keluarga sekaligus berkontribusi pada campaign kesadaran publik mengenai pentingnya kesehatan mental anak pertama.",
   "kata_kunci": "Anak Pertama, Kesehatan Mental, Buku Visual, Diary, Afirmasi, Writing Therapy, Komunikasi Keluarga",
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)",
-  "jurnal": "jurnal-2123030.pdf"
+  "jurnal": "https://drive.google.com/file/d/1hmkj1kWhTyeGmf9tKYGGfp9NBy0Y_yUA/view"
  },
  {
   "id": 94,
@@ -1597,7 +1597,7 @@ const KARYA = [
   "abstrak": "Perilaku merokok saat berkendara merupakan pelanggaran yang dapat membahayakan keselamatan diri sendiri dan pengguna jalan lainnya, karena mengganggu konsentrasi serta menimbulkan risiko paparan asap dan abu rokok. Di Kota Batam, prevalensi perokok aktif cukup tinggi, yakni mencapai 27,80% penduduk berusia 15 tahun ke atas. Meskipun larangan merokok saat berkendara telah diatur dalam Undang-Undang Lalu Lintas dan Angkutan Jalan (UU LLAJ) Pasal 106 Ayat 1 dan Pasal 283, namun perilaku ini masih sering dijumpai di jalan raya. Minimnya kesadaran pengendara menjadi alasan penting dilakukannya kampanye sosial untuk memberikan edukasi dan mendorong perubahan perilaku. Perancangan ini menggunakan metode kualitatif melalui wawancara, observasi, dan kuesioner untuk menggali informasi dari pelaku dan pihak yang terdampak. Data dianalisis secara deskriptif kualitatif guna merumuskan strategi komunikasi visual yang efektif. Media utama yang dipilih adalah videografi, didukung media pendukung seperti poster, baliho, X-banner, dan media sosial, dengan target audiens remaja hingga dewasa. Hasil perancangan berupa kampanye sosial visual yang menekankan pesan bahaya merokok saat berkendara, dikemas dengan pendekatan emosional dan informatif agar mudah diterima audiens. Diharapkan, kampanye ini dapat meningkatkan perubahan perilaku masyarakat, mengurangi perilaku merokok di jalan, serta menciptakan lingkungan berkendara yang lebih aman, sehat, dan beretika di Kota Batam.",
   "kata_kunci": "kampanye sosial, merokok saat berkendara, keselamatan lalu lintas, desain komunikasi visual, videografi",
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)",
-  "jurnal": "jurnal-2123007.pdf"
+  "jurnal": "https://drive.google.com/file/d/1DW140rtbYJOnugQryHHs08HIh-x8RC_L/view"
  },
  {
   "id": 95,
@@ -1614,7 +1614,7 @@ const KARYA = [
   "abstrak": "Usaha Mikro, Kecil, dan Menengah (UMKM) memiliki peran penting dalam perekonomian Indonesia, khususnya di sektor kuliner, dengan mendorong lapangan kerja, kreativitas, dan inovasi. Tren kuliner masa kini tidak hanya ditentukan oleh cita rasa, tetapi juga oleh konsep unik yang mampu membedakan sebuah brand di tengah persaingan pasar. Salah satunya adalah tren makanan fusion, yaitu perpaduan unsur dari berbagai budaya yang menghasilkan pengalaman kuliner berbeda. Dalam hal ini, identitas visual memiliki peran krusial untuk memperkuat citra merek, meningkatkan pengenalan, serta menjaga konsistensi komunikasi pada berbagai media. JoKapook merupakan salah satu UMKM kuliner yang menghadirkan konsep fusion Chinese–Nusantara melalui sajian nasi bakar khasnya. Namun, identitas visual sebelumnya terlihat generik dan kurang mampu menonjolkan keunikan konsep tersebut, sehingga brand awareness rendah dan daya pembeda terbatas. Untuk menjawab permasalahan ini, dilakukan perancangan ulang identitas visual yang bertujuan meningkatkan brand awareness sekaligus mempertegas posisi JoKapook sebagai brand kuliner fusion Chinese–Nusantara. Penelitian menggunakan metode kualitatif dan kuantitatif melalui observasi, wawancara, Focus Group Discussion (FGD), serta penyebaran kuesioner. Proses perancangan mencakup penelitian, penetapan strategi, perancangan logo dan maskot, pemilihan warna serta tipografi, hingga penyusunan Graphic Standard Manual yang dilengkapi media pendukung. Tujuan utama dari perancangan ini adalah untuk meningkatkan daya tarik visual JoKapook dan meningkatkan kesadaran audiens terhadap brand JoKapook, serta memperkuat citra JoKapook sebagai kuliner fusion Chinese–Nusantara.",
   "kata_kunci": "JoKapook, Identitas visual, Brand Awareness, UMKM, Fusion",
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)",
-  "jurnal": "jurnal-2123066.pdf"
+  "jurnal": "https://drive.google.com/file/d/1FhGcCNz5kxbjIbI5aAWkDBOwWZDrMbBB/view"
  },
  {
   "id": 96,
@@ -1631,6 +1631,6 @@ const KARYA = [
   "abstrak": "Moslem Binus International School (M-BIS) Batam merupakan hasil rebranding dari Sekolah Bina Nusantara Batam yang terdampak penurunan pendaftar selama pandemi COVID-19. Meskipun perubahan kurikulum dan program Cambridge dan metode Ummi telah dilakukan, identitas visual sekolah belum konsisten mencerminkan positioning sebagai sekolah Islam berstandar internasional. Penelitian ini merancang ulang visual identity M-BIS menggunakan metodologi branding menurut Alina Wheeler, yang mencakup lima tahap (research, clarify strategy, design identity, create touchpoints, dan manage assets). Metode penelitian bersifat kualitatif dan deskriptif: wawancara, observasi lapangan, studi dokumentasi, serta survei perbandingan persepsi (pre/post) yang dioperasionalisasikan berdasarkan kerangka AIDA (Attention, Interest, Desire, Action). Hasil perancangan mencakup logo, palet warna, tipografi, dan panduan Graphic Standard Manual (GSM) yang diimplementasikan pada media cetak, digital, dan lingkungan sekolah. Evaluasi awal pasca-penerapan menunjukkan peningkatan persepsi konsistensi visual dan ketertarikan target segmen, indikator pengukuran meliputi hasil survei persepsi, interaksi pameran, dan indikator media sosial. Diharapkan identitas visual baru memperkuat posisi M-BIS sebagai pilihan utama keluarga Muslim kelas atas yang mencari perpaduan nilai religius dan kualitas internasional.",
   "kata_kunci": "Visual Identity, Rebranding, Sekolah Islam, Internasional, Konsumen Kelas Atas",
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)",
-  "jurnal": "jurnal-2123059.pdf"
+  "jurnal": "https://drive.google.com/file/d/1fyupEoalgvKcQDMofEVeL7HYDJ-uVIXK/view"
  }
 ];
