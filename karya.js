@@ -141,12 +141,44 @@ const KARYA = [
   "pembimbing": "Tommy Andrea Gunawan, S.Ds., M.A. & Muhammad Adi Sukma Nalendra, S.Ds., M.Ds.",
   "sk_pembimbing": "023/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
   "penguji": "Meuthia Ramadhani Archam, S.Ds., M.Ds. & Zhilla Zhalila Qurrata A'yun, S.Ds., M.Ds.",
-  "abstrak": "",
-  "kata_kunci": "",
+  "abstrak": "Sampah plastik telah menjadi permasalahan lingkungan yang serius di Kota Batam dengan tingkat produksi yang tinggi setiap harinya. Permasalahan ini diperparah oleh tingkat ketidakpedulian masyarakat terhadap pengelolaan sampah plastik yang tergolong tinggi, rendahnya pemahaman tentang potensi nilai guna limbah plastik, serta belum optimalnya pemanfaatan desain sebagai media edukasi dan solusi kreatif. Kelompok usia 17-25 tahun tercatat sebagai segmen dengan tingkat konsumsi plastik tertinggi di Indonesia, namun mereka juga merupakan pasar dominan dalam industri merchandising karakter global yang menunjukkan potensi besar untuk menerima pendekatan edukasi melalui media visual yang relevan. Perancangan ini bertujuan menciptakan karakter 3D berbahan limbah botol plastik PET melalui teknologi 3D printing sebagai media komunikasi visual yang edukatif dan inspiratif. Dengan menerapkan prinsip Sustainable design, perancangan ini menunjukkan bahwa limbah plastik bukanlah akhir dari siklus material, melainkan dapat dikembangkan menjadi produk baru yang bernilai. Karakter 3D ini diharapkan dapat mengubah persepsi masyarakat terhadap sampah plastik dari material tidak bernilai menjadi produk bermakna, sekaligus mengomunikasikan pentingnya pengelolaan sampah plastik yang berkelanjutan. Karakter ini dapat dikembangkan menjadi Intellectual Property (IP) untuk berbagai aplikasi seperti merchandise, konten digital, dan kampanye edukasi lingkungan yang sejalan dengan Tujuan Pembangunan Berkelanjutan (SDGs), khususnya tujuan ke-12 tentang konsumsi dan produksi yang bertanggung jawab.",
+  "kata_kunci": "3D Printing, Karakter 3D, Desain Berkelanjutan, Sampah Plastik, SDGs",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
   "id": 10,
+  "nama": "Delia Asya Pratiwi",
+  "nim": "2223053",
+  "judul": "PERANCANGAN VISUAL BRAND IDENTITY STRATEGI PENGUATAN CITRA BRAND UMKM KULINER “RM BUDE LONGBUD” UNTUK KALANGAN PARA PEKERJA DI KOTA BATAM",
+  "semester": "Genap 2025-2026",
+  "kategori": "Branding & Identitas",
+  "karya": "https://drive.google.com/drive/folders/1LUavU-xBZGW9Qu-OfGPjthnqqNT8VP0x?usp=sharing",
+  "thumbnail": "2223053.jpg",
+  "pembimbing": "Ria Sapitri, S.Sn., M.Sn. & Zhilla Zhalila Qurrata A'yun, S.Ds., M.Ds.",
+  "sk_pembimbing": "023/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
+  "penguji": "Muhammad Adi Sukma Nalendra, S.Ds., M.Ds. & Meuthia Ramadhani Archam, S.Ds., M.Ds.",
+  "abstrak": "Perancangan Visual Brand Identity ini bertujuan untuk membangun identitas visual yang konsisten serta memperkuat citra merek UMKM kuliner “RM Bude Longbud” di kalangan pekerja Kota Batam. RM Bude Longbud telah berdiri sejak tahun 1997 dan dikenal memiliki cita rasa khas, tetapi hingga saat ini belum memiliki logo serta penerapan identitas visual yang konsisten dan profesional. Perancangan ini menggunakan pendekatan mixed methods dengan pengumpulan data melalui wawancara, kuesioner, observasi, dan studi literatur. Data kuesioner dianalisis secara kuantitatif, sedangkan hasil wawancara dan observasi dianalisis secara kualitatif untuk mengetahui kebutuhan dan pandangan konsumen terhadap identitas visual RM Bude Longbud. Hasil penelitian menunjukkan bahwa elemen identitas visual, seperti logo, warna, kemasan, dan media promosi, berperan penting dalam membangun kepercayaan serta meningkatkan minat konsumen untuk melakukan kunjungan ulang. Berdasarkan temuan tersebut, perancangan difokuskan pada pengembangan elemen visual yang saling menyatu dan sesuai dengan karakter RM Bude Longbud. Hasil perancangan meliputi logo, warna, tipografi, maskot, dan supergrafis yang diterapkan pada berbagai media, seperti kemasan, peralatan makan, seragam, stationery, merchandise, dan booth pameran. Perancangan ini diharapkan dapat meningkatkan daya kenal, kepercayaan, dan citra profesional RM Bude Longbud di kalangan konsumen Kota Batam.",
+  "kata_kunci": "Citra Merek, RM Bude Longbud, UMKM Kuliner, Visual Brand Identity",
+  "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
+ },
+ {
+  "id": 11,
+  "nama": "Desti Fitria Arifa",
+  "nim": "2223007",
+  "judul": "Perancangan Buku Cerita Ilustrasi sebagai media edukasi bagi calon pemilik kicing jalanan",
+  "semester": "Genap 2025-2026",
+  "kategori": "Lainnya",
+  "karya": "https://drive.google.com/drive/folders/1zCycN1h9ZJFbYAUguWbM3yeFLGrrTCEu",
+  "thumbnail": "2223007.jpg",
+  "pembimbing": "Ria Sapitri, S.Sn., M.Sn. & Zhilla Zhalila Qurrata A'yun, S.Ds., M.Ds.",
+  "sk_pembimbing": "023/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
+  "penguji": "Widiya Lestari Harahap, S.Ds., M.Ds. & Tommy Andrea Gunawan, S.Ds., M.A.",
+  "abstrak": "Perancangan buku cerita ilustrasi sebagai media edukasi bagi calon pemilik kucing jalanan dilatarbelakangi oleh masih kurangnya pengetahuan mengenai cara memperlakukan, merawat, dan memenuhi kebutuhan dasar kucing jalanan sebelum dipelihara. Calon pemilik membutuhkan informasi yang mudah dipahami mengenai langkah awal dalam mendekati kucing, persiapan memelihara, kebutuhan dasar, serta perawatan kesehatan. Permasalahan tersebut menjadi dasar perancangan media edukasi yang mampu menyampaikan informasi secara ringan, menarik, dan dekat dengan kehidupan sehari-hari. Metode yang digunakan dalam perancangan ini adalah metode campuran (mixed method) melalui observasi, wawancara, dan kuesioner untuk memperoleh data mengenai pengetahuan dan kebutuhan informasi calon pemilik kucing. Data yang diperoleh kemudian dianalisis sebagai dasar dalam menentukan konsep cerita, materi edukasi, karakter, ilustrasi, warna, dan tata letak buku. Hasil akhir perancangan berupa buku cerita ilustrasi berukuran 21 × 21 cm yang menggabungkan alur cerita dengan materi edukasi mengenai pendekatan terhadap kucing jalanan, persiapan sebelum memelihara, pemberian makanan dan air, kebersihan, pemeriksaan kesehatan, serta tanggung jawab dalam memelihara kucing. Buku ini diharapkan dapat menjadi media edukasi yang informatif dan menarik bagi calon pemilik sehingga dapat membantu memahami langkah awal dan tanggung jawab dalam memelihara kucing jalanan.",
+  "kata_kunci": "Kucing Jalanan, Buku Ilustrasi, Edukasi, Perawatan Kucing, Calon Pemilik",
+  "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
+ },
+ {
+  "id": 12,
   "nama": "Desy Ova Widyartika",
   "nim": "2223078",
   "judul": "PERANCANGAN GAME EDUKATIF SEBAGAI MEDIA BONDING ANAK DAN ORANG TUA BEKERJA DI KOTA BATAM",
@@ -162,7 +194,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 11,
+  "id": 13,
   "nama": "Detha Millenia",
   "nim": "2223032",
   "judul": "PERANCANGAN ANIMASI TENTANG MEMBANGUN SIKAP PEDULI TERHADAP PENDERITA ADHD UNTUK ORANG TUA",
@@ -173,12 +205,12 @@ const KARYA = [
   "pembimbing": "Muhammad Adi Sukma Nalendra, S.Ds., M.Ds. & Meuthia Ramadhani Archam, S.Ds., M.Ds.",
   "sk_pembimbing": "023/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
   "penguji": "Zhilla Zhalila Qurrata A'yun, S.Ds., M.Ds. & Widiya Lestari Harahap, S.Ds., M.Ds.",
-  "abstrak": "",
-  "kata_kunci": "",
+  "abstrak": "Penyakit mental seperti depresi, kecemasan, bipolar, dan skizofrenia mengalami peningkatan kasus secara global, terutama akibat pandemi COVID-19 yang menyebabkan isolasi sosial dan tekanan psikologis. Di Indonesia, sekitar 20% populasi berpotensi mengalami gangguan jiwa, namun akses pengobatan profesional masih sangat terbatas, dengan hanya 8-10% penderita yang mendapatkan penanganan. Batam sebagai salah satu wilayah juga mencatat jumlah penderita gangguan jiwa yang signifikan, disertai stigma sosial yang menghambat kesadaran dan penanganan dini. ADHD sebagai salah satu jenis gangguan mental kian meningkat, dengan prevalensi pada anak sekolah dasar yang bertambah sekitar 2,4% per tahun. Untuk mengatasi masalah stigma dan meningkatkan kesadaran, media animasi dipilih sebagai pendekatan edukasi yang efektif, karena pasar animasi global dan nasional sedang berkembang pesat dengan peminat yang luas. Studi menunjukkan animasi 2D memiliki efektivitas tinggi dalam promosi dan edukasi, dengan persentase mencapai 83-97%, sehingga diharapkan dapat membantu orang tua mengenali gejala ADHD lebih awal dan mendorong tindakan tepat. Penelitian ini menggunakan metode perancangan media animasi edukatif untuk meningkatkan pemahaman dan kesadaran masyarakat, khususnya orang tua, tentang pentingnya deteksi dini gangguan ADHD pada anak. Hasil dari perancangan ini diharapkan dapat memberikan kontribusi nyata dalam upaya pencegahan dan penanganan gangguan mental secara lebih baik.",
+  "kata_kunci": "ADHD, animasi edukasi, deteksi dini, penyakit mental, stigma sosial",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 12,
+  "id": 14,
   "nama": "Deya Hertafa",
   "nim": "2023055",
   "judul": "Perancangan Kampanye Visual Edukatif Tentang Pencegahan Pinjaman Online Ilegal Untuk Mahasiswa",
@@ -194,7 +226,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 13,
+  "id": 15,
   "nama": "Edward Tan",
   "nim": "2223048",
   "judul": "PERANCANGAN KAMPANYE SOSIAL MENGENAI MEMBANGUN KEBIASAAN DALAM ETIKA BERKOMENTAR DI MEDIA SOSIAL SEBAGAI UPAYA MENGURANGI POTENSI TINDAKAN CYBERBULLYING",
@@ -210,7 +242,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 14,
+  "id": 16,
   "nama": "Efri Efendi",
   "nim": "2223003",
   "judul": "PERANCANGAN VISUAL GAME EDUKATIF DI PLATFORM ROBLOX UNTUK KESADARAN PUBLIK TERHADAP GANGGUAN KECEMASAN",
@@ -226,7 +258,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 15,
+  "id": 17,
   "nama": "Elvano Rio Ferdinand",
   "nim": "2223009",
   "judul": "Perancangan Re-Branding Identitas Visual Tentang Perayaan Tri Suci Waisak Sebagai Media Promosi Acara Sannipata Waisak Kota Batam",
@@ -242,7 +274,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 16,
+  "id": 18,
   "nama": "Faith Nur Rohman",
   "nim": "2223026",
   "judul": "PERANCANGAN VIDEO IKLAN NARATIF MUSEUM BATAM RAJA ALI HAJI SEBAGAI MEDIA PENGENALAN WISATA EDUKATIF KOTA BATAM.",
@@ -258,7 +290,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 17,
+  "id": 19,
   "nama": "Farrel Muhammad Raihan",
   "nim": "2223055",
   "judul": "PERANCANGAN REBRANDING IDENTITAS VISUAL INDRA BATIK BATAM UNTUK DISASARKAN KEPADA SEGMEN PASAR INSTANSI DI KOTA BATAM",
@@ -274,7 +306,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 18,
+  "id": 20,
   "nama": "Federico Ignatius Simanjuntak",
   "nim": "2223052",
   "judul": "PERANCANGAN MOTION TENTANG DAMPAK OVERSTIMULASI VISUAL KONTEN DIGITAL TERHADAP ANAK UNTUK ORANG TUA",
@@ -290,7 +322,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 19,
+  "id": 21,
   "nama": "Fransiska",
   "nim": "2223061",
   "judul": "Perancangan Kampanye Sosial tentang Sterilisasi Kucing Liar melalui Adaptasi Visual Dunia Roblox untuk Remaja Usia 18-24 Tahun",
@@ -306,7 +338,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 20,
+  "id": 22,
   "nama": "Ghathfan Arif Luthfi Harianto",
   "nim": "2123033",
   "judul": "PERANCANGAN VISUAL BRANDING PRODUK S EBLAK ENDUL SEBAGAI STRATEGI PENINGKATAN BRAND AWARENESS UMKM DI KABUPATEN BINTAN",
@@ -322,7 +354,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 21,
+  "id": 23,
   "nama": "Hafizatul Husnah Ramadhani",
   "nim": "2223043",
   "judul": "PERANCANGAN BUKU ILUSTRASI TENTANG PENCEGAHAN ASAM LAMBUNG UNTUK REMAJA SEBAGAI UPAYA MEMBANTU KESADARAN HIDUP SEHAT",
@@ -338,7 +370,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 22,
+  "id": 24,
   "nama": "Helienia Sisilia",
   "nim": "2223018",
   "judul": "Perancangan Brand Guidelines Z Studio Agency untuk Membangun Konsistensi Identitas Visual",
@@ -354,7 +386,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 23,
+  "id": 25,
   "nama": "Jendral Rajul Zien",
   "nim": "2123034",
   "judul": "PERANCANGAN VIDEO DOKUMENTER TENTANG DAMPAK ILUSI SOSIAL MEDIA UNTUK GENERASI Z",
@@ -370,7 +402,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 24,
+  "id": 26,
   "nama": "Jesica Marshella",
   "nim": "2223050",
   "judul": "PERANCANGAN MOTION GRAPHIC TENTANG DOWN SYNDROME UNTUK MENDORONG INKLUSI DI LINGKUNGAN MASYARAKAT KOTA BATAM",
@@ -386,7 +418,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 25,
+  "id": 27,
   "nama": "Khalfi Nadhifa",
   "nim": "2223080",
   "judul": "PERANCANGAN VIDEO PROMOSI STORYTELLING “SONG GI NATUNA : THE BEAUTY OF NORTHERN PARADISE” UNTUK MENINGKATKAN DAYA TARIK DAN CITRA PARIWISATA KABUPATEN NATUNA",
@@ -402,7 +434,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 26,
+  "id": 28,
   "nama": "Khosyi Daffa Augusta",
   "nim": "2223072",
   "judul": "PERANCANGAN IDENTITAS VISUAL BRAND FASHION LOKAL HITSURAKU UNTUK MENINGKATKAN BRAND AWARENESS DI KOTA BATAM",
@@ -418,7 +450,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 27,
+  "id": 29,
   "nama": "Layla Rachma Harnefi",
   "nim": "2123020",
   "judul": "PERANCANGAN BUKU ILUSTRASI TENTANG KONSUMSI MAKANAN SEIMBANG PADA ANAK USIA 6-12 TAHUN SEBAGAI MEDIA EDUKATIF BAGI ORANG TUA MENENGAH KEATAS DI BATAM",
@@ -434,7 +466,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 28,
+  "id": 30,
   "nama": "Leo Antonius Khosashi",
   "nim": "2223005",
   "judul": "PERANCANGAN ANIMASI TENTANG BAHAYA KECANDUAN VIDEO GAME ONLINE PADA MAHASISWA BATAM",
@@ -450,7 +482,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 29,
+  "id": 31,
   "nama": "Lia Cahyani",
   "nim": "2223089",
   "judul": "PERANCANGAN BUKU CERITA INTERAKTIF SEBAGAI MEDIA EDUKASI PENCEGAHAN CACINGAN PADA ANAK USIA 3-6 TAHUN DI BATAM",
@@ -466,7 +498,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 30,
+  "id": 32,
   "nama": "Liyana Nisa Anggreini",
   "nim": "2023054",
   "judul": "PERANCANGAN IDENTITAS VISUAL UNTUK MEMPERKENALKAN KAMPUNG SENI BATAM DI PERUMAHAN BIDA KHARISMA BAGI WISATAWAN LOKAL",
@@ -482,7 +514,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 31,
+  "id": 33,
   "nama": "Lutfi Rizky Maheersyah",
   "nim": "2223001",
   "judul": "PERANCANGAN IDENTITAS VISUAL BUDI SIANG MALAM SEBAGAI REPRESENTASI POPULARITAS MEREK",
@@ -498,7 +530,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 32,
+  "id": 34,
   "nama": "M. Leoli Saputra",
   "nim": "2223030",
   "judul": "PERANCANGAN KOMIK SEBAGAI MEDIA REPRESENTASI KELUARGA (STUDI KASUS: GANGGUAN SPEKTRUM AUTISME DENGAN SEGMENTASI REMAJA)",
@@ -514,7 +546,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 33,
+  "id": 35,
   "nama": "Maurenisya Divani Hermawati",
   "nim": "2223020",
   "judul": "PERANCANGAN KAMPANYE SOSIAL TENTANG PENCEGAHAN KECELAKAAN KERJA BAGI BURUH PELABUHAN XYZ BATAM",
@@ -530,7 +562,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 34,
+  "id": 36,
   "nama": "Meydista Wijanna Ansar",
   "nim": "2223016",
   "judul": "PERANCANGAN VISUAL BRAND IDENTITY PAWS N CHILL : STRATEGI KOMUNIKASI VISUAL UNTUK MEMBANGUN CITRA KAFE PET FRIENDLY DI BATAM",
@@ -546,7 +578,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 35,
+  "id": 37,
   "nama": "Muhammad Daffa Dilantra",
   "nim": "2223049",
   "judul": "PERANCANGAN REBRANDING PRIMART BATAM SEBAGAI STRATEGI PENGUATAN CITRA SUPERMARKET LOKAL",
@@ -562,7 +594,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 36,
+  "id": 38,
   "nama": "Muhammad Hafiz Wiranata",
   "nim": "2223019",
   "judul": "PERANCANGAN EKOSISTEM DESAIN TERPADU AGENSI HALUAN DIGITAL NETWORK UNTUK MENINGKATKAN KONSISTENSI MEREK",
@@ -578,7 +610,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 37,
+  "id": 39,
   "nama": "Muhammad Ichsan Nurhakim",
   "nim": "2223090",
   "judul": "PERANCANGAN VIDEO LEARNING TENTANG KEARIFAN LOKAL MASYARAKAT DI PULAU PENYENGAT UNTUK PARIWISATA DAERAH",
@@ -594,7 +626,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 38,
+  "id": 40,
   "nama": "Muhammad Ilham Elsyahbana",
   "nim": "2223076",
   "judul": "PERANCANGAN VIDEO IKLAN CENDOL SEBAGAI KULINER NASIONAL DALAM UPAYA MENDUKUNG EKONOMI MASYARAKAT KOTA BATAM",
@@ -610,7 +642,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 39,
+  "id": 41,
   "nama": "Muhammad Rafli",
   "nim": "2223066",
   "judul": "PERANCANGAN KAMPANYE SOSIAL TENTANG PENCEGAHAN BURNOUT UNTUK MAHASISWA BEKERJA KOTA BATAM",
@@ -626,7 +658,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 40,
+  "id": 42,
   "nama": "Nabil Abrar Rabbani",
   "nim": "2223040",
   "judul": "PERANCANGAN ARTBOOK LEGENDA HANG TUAH SEBAGAI MEDIA PENGEMBANGAN INTELLECTUAL PROPERTY UNTUK INDUSTRI KREATIF LOKAL",
@@ -642,7 +674,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 41,
+  "id": 43,
   "nama": "Nelson Varely",
   "nim": "2223102",
   "judul": "PERANCANGAN ANIMASI TENTANG BAHAYA KEKERASAN TERHADAP ANAK DALAM RUMAH TANGGA SEBAGAI MEDIA EDUKASI MASYARAKAT UPAYA MENGURANGI DAMPAK KEKERASAN DALAM RUMAH TANGGA",
@@ -658,7 +690,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 42,
+  "id": 44,
   "nama": "Nico Junianco",
   "nim": "2223006",
   "judul": "PERANCANGAN REBRANDING IDENTITAS VISUAL PEACELOVEQUIET PRELOVED UNTUK MEREPRESENTASIKAN KARAKTER BRAND",
@@ -674,7 +706,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 43,
+  "id": 45,
   "nama": "Oswin Raphael",
   "nim": "2223046",
   "judul": "PERANCANGAN PANDUAN VISUAL DESAIN KARAKTER HUMANOID DENGAN PENDEKATAN BUDAYA INDONESIA BAGI MAHASISWA DKV KOTA BATAM",
@@ -685,12 +717,12 @@ const KARYA = [
   "pembimbing": "Widiya Lestari Harahap, S.Ds., M.Ds. & Zhilla Zhalila Qurrata A'yun, S.Ds., M.Ds.",
   "sk_pembimbing": "023/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
   "penguji": "Tommy Andrea Gunawan, S.Ds., M.A. & Muhammad Adi Sukma Nalendra, S.Ds., M.Ds.",
-  "abstrak": "",
-  "kata_kunci": "",
+  "abstrak": "Pertumbuhan industri kreatif digital di Indonesia, khususnya sektor animasi dan gim, mendorong kebutuhan terhadap sumber pembelajaran yang membantu mahasiswa memahami prinsip dasar character design humanoid. Hasil pengumpulan data melalui wawancara dan kuesioner terhadap 57 responden yang didominasi mahasiswa Desain Komunikasi Visual (DKV) menunjukkan bahwa referensi character design masih didominasi sumber berbahasa asing dan belum tersusun secara sistematis. Perancangan ini bertujuan menghasilkan buku panduan visual digital mengenai fundamental character design humanoid dengan pendekatan visual yang terinspirasi budaya Indonesia bagi mahasiswa DKV di Kota Batam. Metode yang digunakan adalah pendekatan deskriptif melalui wawancara, kuesioner, observasi, dan studi literatur sebagai dasar penyusunan materi dan konsep visual. Hasil perancangan berupa buku digital Fundamental Desain Karakter Humanoid yang membahas prinsip dasar seperti shape language, siluet, gesture, warna, dan komunikasi visual karakter secara terstruktur. Evaluasi pascapameran yang melibatkan 148 responden menunjukkan bahwa mayoritas responden memberikan penilaian positif terhadap materi, visual, dan penggunaan bahasa Indonesia, serta menilai buku yang dirancang membantu mereka memahami konsep dasar character design humanoid. Temuan tersebut menunjukkan bahwa media yang dirancang memiliki potensi sebagai alternatif sumber pembelajaran visual berbahasa Indonesia bagi mahasiswa DKV dalam mempelajari fundamental character design humanoid.",
+  "kata_kunci": "desain karakter humanoid, panduan visual, literatur pembelajaran, budaya Indonesia, mahasiswa DKV",
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 44,
+  "id": 46,
   "nama": "Ponia Nabila Safitri",
   "nim": "2223010",
   "judul": "PERANCANGAN UI/UX APLIKASI PERAWATAN KUCING AGAR TIDAK STRES UNTUK PEMILIK KUCING DI KOTA BATAM",
@@ -706,7 +738,23 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 45,
+  "id": 47,
+  "nama": "Rachmanila Vanesya",
+  "nim": "2223083",
+  "judul": "PERANCANGAN KAMPANYE SOSIAL UNTUK MENINGKATKAN KEBIASAAN PENGGUNAAN SUNSCREEN SEBAGAI BENTUK PERAWATAN DIRI BAGI PRIA REMAJA",
+  "semester": "Genap 2025-2026",
+  "kategori": "Branding & Identitas",
+  "karya": "https://batamtourism-my.sharepoint.com/:f:/g/personal/2223083_student_iteba_ac_id/IgAfW_MOs7TZRL47MmspccmsAbpn4hMJ-MuLYRZanMpZPis?e=BRcVFO",
+  "thumbnail": "2223083.jpg",
+  "pembimbing": "Widiya Lestari Harahap, S.Ds., M.Ds. & Muhammad Adi Sukma Nalendra, S.Ds., M.Ds.",
+  "sk_pembimbing": "023/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
+  "penguji": "Zhilla Zhalila Qurrata A'yun, S.Ds., M.Ds. & Ria Sapitri, S.Sn., M.Sn.",
+  "abstrak": "Penggunaan sunscreen merupakan salah satu upaya untuk melindungi kulit dari paparan sinar ultraviolet (UV). Sebagai negara tropis, Indonesia memiliki paparan sinar matahari yang tinggi, sementara pria usia 15–25 tahun cenderung aktif melakukan berbagai kegiatan di luar ruangan. Namun, berdasarkan hasil penelitian, masih ditemukan rendahnya kebiasaan penggunaan sunscreen pada pria meskipun sebagian besar telah mengetahui manfaatnya. Permasalahan tersebut disebabkan oleh anggapan bahwa penggunaan sunscreen terasa merepotkan, belum menjadi bagian dari rutinitas, serta kurangnya pengingat untuk menggunakannya sebelum beraktivitas. Oleh karena itu, diperlukan perancangan kampanye sosial yang mampu menyampaikan informasi sekaligus mendorong terbentuknya kebiasaan penggunaan sunscreen pada pria. Perancangan ini menggunakan metode deskriptif kualitatif dengan pengumpulan data melalui studi pustaka, wawancara, kuesioner, observasi, serta evaluasi melalui pameran. Strategi perancangan mengacu pada Theory of Planned Behavior (TPB), Fogg Behavior Model (FBM), dan AISAS sebagai dasar dalam menentukan pesan, strategi komunikasi, dan media. Konsep kampanye yang dihasilkan adalah “Biar Jadi Hal Biasa” dengan tagline “bro, sunscreen dulu”. Media utama berupa video kampanye digital yang didukung oleh media cetak, media luar ruang, media sosial, ambient media, dan merchandise. Hasil evaluasi melalui pameran Olympus 5.0 menunjukkan respons positif terhadap visual, maskot, warna, konsep, serta penyampaian pesan kampanye. Kampanye dinilai edukatif, menarik, dan mampu menjadi pengingat bagi audiens untuk mulai membiasakan penggunaan sunscreen sebelum beraktivitas.",
+  "kata_kunci": "Batam, Kampanye sosial, Kulit Sehat, Pria, Sunscreen",
+  "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
+ },
+ {
+  "id": 48,
   "nama": "Renaldi Junaidi",
   "nim": "2223079",
   "judul": "PERANCANGAN BRANDING MELALUI IDENTITAS VISUAL SEBAGAI UPAYA PEMBENTUKAN KARAKTER MEREK “BUBUR AYAM PAK SHOLEH” DI KOTA BATAM",
@@ -722,7 +770,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 46,
+  "id": 49,
   "nama": "Riki Zulkarnaini",
   "nim": "2223023",
   "judul": "PERANCANGAN BRAND IDENTITY BARBERSHOP PRIMA UNTUK MENINGKATKAN BRAND AWARENESS DI KOTA BATAM",
@@ -738,7 +786,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 47,
+  "id": 50,
   "nama": "Siska Anela",
   "nim": "2223081",
   "judul": "PERANCANGAN REBRANDING VILLA BAMBU BATAM SEBAGAI UPAYA PENGUATAN CITRA DESTINASI PRIVATE STAYCATION UNTUK WISATAWAN LOKAL DAN MANCANEGARA",
@@ -754,7 +802,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 48,
+  "id": 51,
   "nama": "Siti Fadhila Syahrani",
   "nim": "2223044",
   "judul": "PERANCANGAN PROTOTYPE UI/UX APLIKASI E-LEARNING LMS UNTUK ANAK UMUR 11-12 TAHUN DI BATAM",
@@ -770,7 +818,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 49,
+  "id": 52,
   "nama": "Suwandi",
   "nim": "2223028",
   "judul": "PERANCANGAN VISUAL IDENTITY TOKO JAM TANGAN KOKOTUA UNTUK MENINGKATKAN BRAND AWARENESS DI BATAM",
@@ -786,7 +834,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 50,
+  "id": 53,
   "nama": "Thong Ket Hua",
   "nim": "2223014",
   "judul": "PERANCANGAN IDENTITAS VISUAL FESTIVAL CAP GO MEH BATAM SEBAGAI DAYA TARIK WISATA BUDAYA BARU DI KOTA BATAM",
@@ -802,7 +850,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 51,
+  "id": 54,
   "nama": "Vevilyna Chuang",
   "nim": "2223056",
   "judul": "Perancangan Kampanye Sosial tentang Pentingnya Mempertahankan Identitas Diri setelah Menjadi Ibu",
@@ -818,7 +866,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 52,
+  "id": 55,
   "nama": "Victor",
   "nim": "2123012",
   "judul": "Perancangan Buku Komik dengan Pendekatan Dark Manga Style sebagai Media Komunikasi Visual mengenai Pencemaran Sampah Laut",
@@ -834,7 +882,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 53,
+  "id": 56,
   "nama": "Viona Wu",
   "nim": "2223015",
   "judul": "PERANCANGAN MEDIA ILUSTRASI KOMIK EDUKATIF TENTANG KESADARAN ISTIRAHAT DARI AKTIVITAS DIGITAL",
@@ -850,7 +898,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 54,
+  "id": 57,
   "nama": "Wardah Alifatul Afifah",
   "nim": "2223036",
   "judul": "Perancangan buku ilustrasi tentang penerimaan diri dalam proses adaptasi orang tua baru saat mengasuh anak pertama",
@@ -866,7 +914,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 55,
+  "id": 58,
   "nama": "Wilson Alexxander",
   "nim": "2223045",
   "judul": "Perancangan Film Pendek Tentang Melawan Arus Lalu Lintas di Kota Batam Untuk Pengendara Dewasa Muda",
@@ -882,7 +930,7 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 56,
+  "id": 59,
   "nama": "Zainal Bingtoro",
   "nim": "2223060",
   "judul": "PERANCANGAN BUKU ILUSTRASI ANAK TENTANG DAMPAK NEGATIF PENGGUNAAN GADGET BERLEBIHAN UNTUK ANAK USIA 6–12 TAHUN DI KOTA BATAM",
@@ -898,54 +946,6 @@ const KARYA = [
   "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
  },
  {
-  "id": 57,
-  "nama": "Delia Asya Pratiwi",
-  "nim": "2223053",
-  "judul": "PERANCANGAN VISUAL BRAND IDENTITY STRATEGI PENGUATAN CITRA BRAND UMKM KULINER “RM BUDE LONGBUD” UNTUK KALANGAN PARA PEKERJA DI KOTA BATAM",
-  "semester": "Genap 2025-2026",
-  "kategori": "Branding & Identitas",
-  "karya": "https://drive.google.com/drive/folders/1LUavU-xBZGW9Qu-OfGPjthnqqNT8VP0x?usp=sharing",
-  "thumbnail": "",
-  "pembimbing": "Ria Sapitri, S.Sn., M.Sn. & Zhilla Zhalila Qurrata A'yun, S.Ds., M.Ds.",
-  "sk_pembimbing": "023/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "penguji": "Muhammad Adi Sukma Nalendra, S.Ds., M.Ds. & Meuthia Ramadhani Archam, S.Ds., M.Ds.",
-  "abstrak": "Perancangan Visual Brand Identity ini bertujuan untuk membangun identitas visual yang konsisten serta memperkuat citra merek UMKM kuliner “RM Bude Longbud” di kalangan pekerja Kota Batam. RM Bude Longbud telah berdiri sejak tahun 1997 dan dikenal memiliki cita rasa khas, tetapi hingga saat ini belum memiliki logo serta penerapan identitas visual yang konsisten dan profesional. Perancangan ini menggunakan pendekatan mixed methods dengan pengumpulan data melalui wawancara, kuesioner, observasi, dan studi literatur. Data kuesioner dianalisis secara kuantitatif, sedangkan hasil wawancara dan observasi dianalisis secara kualitatif untuk mengetahui kebutuhan dan pandangan konsumen terhadap identitas visual RM Bude Longbud. Hasil penelitian menunjukkan bahwa elemen identitas visual, seperti logo, warna, kemasan, dan media promosi, berperan penting dalam membangun kepercayaan serta meningkatkan minat konsumen untuk melakukan kunjungan ulang. Berdasarkan temuan tersebut, perancangan difokuskan pada pengembangan elemen visual yang saling menyatu dan sesuai dengan karakter RM Bude Longbud. Hasil perancangan meliputi logo, warna, tipografi, maskot, dan supergrafis yang diterapkan pada berbagai media, seperti kemasan, peralatan makan, seragam, stationery, merchandise, dan booth pameran. Perancangan ini diharapkan dapat meningkatkan daya kenal, kepercayaan, dan citra profesional RM Bude Longbud di kalangan konsumen Kota Batam.",
-  "kata_kunci": "Citra Merek, RM Bude Longbud, UMKM Kuliner, Visual Brand Identity",
-  "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
- },
- {
-  "id": 58,
-  "nama": "Desti Fitria Arifa",
-  "nim": "223007",
-  "judul": "Perancangan Buku Cerita Ilustrasi sebagai media edukasi bagi calon pemilik kicing jalanan",
-  "semester": "Genap 2025-2026",
-  "kategori": "Lainnya",
-  "karya": "https://drive.google.com/drive/folders/1zCycN1h9ZJFbYAUguWbM3yeFLGrrTCEu",
-  "thumbnail": "",
-  "pembimbing": "",
-  "sk_pembimbing": "",
-  "penguji": "",
-  "abstrak": "Perancangan buku cerita ilustrasi sebagai media edukasi bagi calon pemilik kucing jalanan dilatarbelakangi oleh masih kurangnya pengetahuan mengenai cara memperlakukan, merawat, dan memenuhi kebutuhan dasar kucing jalanan sebelum dipelihara. Calon pemilik membutuhkan informasi yang mudah dipahami mengenai langkah awal dalam mendekati kucing, persiapan memelihara, kebutuhan dasar, serta perawatan kesehatan. Permasalahan tersebut menjadi dasar perancangan media edukasi yang mampu menyampaikan informasi secara ringan, menarik, dan dekat dengan kehidupan sehari-hari. Metode yang digunakan dalam perancangan ini adalah metode campuran (mixed method) melalui observasi, wawancara, dan kuesioner untuk memperoleh data mengenai pengetahuan dan kebutuhan informasi calon pemilik kucing. Data yang diperoleh kemudian dianalisis sebagai dasar dalam menentukan konsep cerita, materi edukasi, karakter, ilustrasi, warna, dan tata letak buku. Hasil akhir perancangan berupa buku cerita ilustrasi berukuran 21 × 21 cm yang menggabungkan alur cerita dengan materi edukasi mengenai pendekatan terhadap kucing jalanan, persiapan sebelum memelihara, pemberian makanan dan air, kebersihan, pemeriksaan kesehatan, serta tanggung jawab dalam memelihara kucing. Buku ini diharapkan dapat menjadi media edukasi yang informatif dan menarik bagi calon pemilik sehingga dapat membantu memahami langkah awal dan tanggung jawab dalam memelihara kucing jalanan.",
-  "kata_kunci": "Kucing Jalanan, Buku Ilustrasi, Edukasi, Perawatan Kucing, Calon Pemilik",
-  "sk_penguji": ""
- },
- {
-  "id": 59,
-  "nama": "Rachmanila Vanesya",
-  "nim": "2223083",
-  "judul": "PERANCANGAN KAMPANYE SOSIAL UNTUK MENINGKATKAN KEBIASAAN PENGGUNAAN SUNSCREEN SEBAGAI BENTUK PERAWATAN DIRI BAGI PRIA REMAJA",
-  "semester": "Genap 2025-2026",
-  "kategori": "Branding & Identitas",
-  "karya": "https://batamtourism-my.sharepoint.com/:f:/g/personal/2223083_student_iteba_ac_id/IgAfW_MOs7TZRL47MmspccmsAbpn4hMJ-MuLYRZanMpZPis?e=BRcVFO",
-  "thumbnail": "",
-  "pembimbing": "Widiya Lestari Harahap, S.Ds., M.Ds. & Muhammad Adi Sukma Nalendra, S.Ds., M.Ds.",
-  "sk_pembimbing": "023/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)",
-  "penguji": "Zhilla Zhalila Qurrata A'yun, S.Ds., M.Ds. & Ria Sapitri, S.Sn., M.Sn.",
-  "abstrak": "Penggunaan sunscreen merupakan salah satu upaya untuk melindungi kulit dari paparan sinar ultraviolet (UV). Sebagai negara tropis, Indonesia memiliki paparan sinar matahari yang tinggi, sementara pria usia 15–25 tahun cenderung aktif melakukan berbagai kegiatan di luar ruangan. Namun, berdasarkan hasil penelitian, masih ditemukan rendahnya kebiasaan penggunaan sunscreen pada pria meskipun sebagian besar telah mengetahui manfaatnya. Permasalahan tersebut disebabkan oleh anggapan bahwa penggunaan sunscreen terasa merepotkan, belum menjadi bagian dari rutinitas, serta kurangnya pengingat untuk menggunakannya sebelum beraktivitas. Oleh karena itu, diperlukan perancangan kampanye sosial yang mampu menyampaikan informasi sekaligus mendorong terbentuknya kebiasaan penggunaan sunscreen pada pria. Perancangan ini menggunakan metode deskriptif kualitatif dengan pengumpulan data melalui studi pustaka, wawancara, kuesioner, observasi, serta evaluasi melalui pameran. Strategi perancangan mengacu pada Theory of Planned Behavior (TPB), Fogg Behavior Model (FBM), dan AISAS sebagai dasar dalam menentukan pesan, strategi komunikasi, dan media. Konsep kampanye yang dihasilkan adalah “Biar Jadi Hal Biasa” dengan tagline “bro, sunscreen dulu”. Media utama berupa video kampanye digital yang didukung oleh media cetak, media luar ruang, media sosial, ambient media, dan merchandise. Hasil evaluasi melalui pameran Olympus 5.0 menunjukkan respons positif terhadap visual, maskot, warna, konsep, serta penyampaian pesan kampanye. Kampanye dinilai edukatif, menarik, dan mampu menjadi pengingat bagi audiens untuk mulai membiasakan penggunaan sunscreen sebelum beraktivitas.",
-  "kata_kunci": "Batam, Kampanye sosial, Kulit Sehat, Pria, Sunscreen",
-  "sk_penguji": "024/SK/Dekan-FTIN/IX/2026 (Perubahan, Genap 2025/2026)"
- },
- {
   "id": 60,
   "nama": "Abdi Ronggo Suroso",
   "nim": "2123027",
@@ -956,10 +956,10 @@ const KARYA = [
   "thumbnail": "2123027.jpg",
   "pembimbing": "Muhammad Adi Sukma Nalendra, S.Ds., M.Ds",
   "sk_pembimbing": "003/SK/Dekan-FTIN/I/2026 (Ganjil 2025/2026)",
-  "penguji": "",
+  "penguji": "Tommy Andrea Gunawan, S.Ds., M.A & Dinda Okta Dwiyanti, S.T., M.T",
   "abstrak": "Perilaku bedtime procrastination merupakan kebiasaan menunda waktu tidur tanpa adanya alasan yang jelas, yang banyak terjadi pada kalangan mahasiswa. Kebiasaan ini umumnya dipengaruhi oleh penggunaan perangkat digital serta tuntutan aktivitas akademik, sehingga berdampak pada kualitas tidur dan produktivitas sehari-hari. Meskipun sebagian mahasiswa tetap memperoleh durasi tidur yang cukup, penundaan waktu tidur dapat mengganggu ritme sirkadian dan menurunkan kualitas istirahat. Penelitian ini bertujuan untuk merancang media komunikasi visual berupa komik digital sebagai sarana edukasi dan persuasi mengenai dampak bedtime procrastination pada mahasiswa. Metode yang digunakan meliputi pengumpulan data melalui studi literatur, observasi, dan wawancara terhadap mahasiswa sebagai target audiens. Data yang diperoleh kemudian dianalisis untuk menentukan konsep cerita, karakter, serta pendekatan visual yang sesuai. Hasil perancangan berupa komik digital yang mengangkat cerminan kehidupan mahasiswa sehari-hari, dengan pendekatan naratif yang ringan dan relatable. Komik ini dirancang untuk meningkatkan kesadaran mahasiswa terhadap pentingnya pola tidur yang sehat melalui penyampaian pesan secara persuasif dan visual yang menarik. Media ini diharapkan dapat menjadi alternatif edukasi yang efektif dalam mengurangi perilaku bedtime procrastination di kalangan mahasiswa.",
   "kata_kunci": "bedtime procrastination, komik digital, mahasiswa, pola tidur, media edukasi",
-  "sk_penguji": ""
+  "sk_penguji": "004/SK/Dekan-FTIN/I/2026 (Ganjil 2025/2026)"
  },
  {
   "id": 61,
@@ -972,10 +972,10 @@ const KARYA = [
   "thumbnail": "2123042.jpg",
   "pembimbing": "Widiya Lestari Harahap, S.Ds., M.Ds",
   "sk_pembimbing": "003/SK/Dekan-FTIN/I/2026 (Ganjil 2025/2026)",
-  "penguji": "",
+  "penguji": "Ria Sapitri, S.Sn., M.Sn & Muhammad Adi Sukma Nalendra, S.Ds., M.Ds",
   "abstrak": "Tugas akhir ini bertujuan untuk merancang desain kemasan visual pada produk buah dan jus jambu biji merah di Agrowisata Kebun Jambu Marina Batam sebagai upaya meningkatkan nilai jual serta memperkuat identitas produk. Proses pengumpulan data dilakukan melalui metode kualitatif deskriptif dengan teknik wawancara, observasi, survei, kuesioner, studi lapangan, dan studi visual terhadap pengelola serta konsumen produk. Hasil penelitian menunjukkan bahwa kemasan yang digunakan saat ini masih memiliki beberapa permasalahan, seperti penggunaan plastik pada buah yang kurang mampu melindungi produk, serta tidak adanya desain visual pada kemasan jus baik dalam bentuk cup maupun botol yang menyebabkan identitas agrowisata tidak terlihat. Berdasarkan hasil analisis, perancangan dilakukan dengan mengembangkan konsep desain kemasan yang menonjolkan aspek kesegaran, kealamian, dan identitas lokal melalui elemen visual seperti warna, tipografi, ilustrasi, serta bentuk kemasan yang lebih fungsional dan menarik. Perancangan ini diharapkan dapat meningkatkan daya tarik produk, memperkuat citra merek agrowisata, serta memberikan pengalaman visual yang lebih baik bagi konsumen.",
   "kata_kunci": "Desain kemasan, jambu biji merah, identitas visual, agrowisata, branding",
-  "sk_penguji": ""
+  "sk_penguji": "004/SK/Dekan-FTIN/I/2026 (Ganjil 2025/2026)"
  },
  {
   "id": 62,
@@ -988,10 +988,10 @@ const KARYA = [
   "thumbnail": "2123024.jpg",
   "pembimbing": "Ria Sapitri, S.Sn., M.Sn",
   "sk_pembimbing": "003/SK/Dekan-FTIN/I/2026 (Ganjil 2025/2026)",
-  "penguji": "",
+  "penguji": "Widiya Lestari Harahap, S.Ds., M.Ds & Assoc. Prof. Vitri Aprilla Handayani, S.Si., M.Si.",
   "abstrak": ". . UMKM merupakan tulang punggung perekonomian Indonesia, khususnya di sektor kuliner yang menunjukkan pertumbuhan signifikan, termasuk di Kota Batam. Teras Lian adalah salah satu UMKM kuliner di Batam yang menawarkan masakan rumahan dengan kualitas rasa yang baik dan harga terjangkau. Meski memiliki keunggulan dalam cita rasa dan bahan alami tanpa MSG, Teras Lian masih menghadapi kendala dalam aspek promosi dan branding. Strategi promosi masih terbatas pada pemasaran dari mulut ke mulut dan pemanfaatan media digital yang belum optimal, seperti tampilan visual media sosial dan logo yang kurang menarik. Untuk mengatasi permasalahan tersebut, dilakukan upaya rebranding yang mencakup perancangan ulang identitas visual, khususnya logo, agar mampu meningkatkan daya tarik dan kepercayaan konsumen. Rebranding ini juga menjadi wujud nyata kontribusi mahasiswa Desain Komunikasi Visual dalam membantu pengembangan UMKM lokal serta sebagai media pembelajaran langsung dalam memahami kebutuhan masyarakat melalui pendekatan desain yang tepat guna.",
   "kata_kunci": "UMKM, kuliner, Batam, promosi, branding, rebranding, visual, desain komunikasi visual, Teras Lian",
-  "sk_penguji": ""
+  "sk_penguji": "004/SK/Dekan-FTIN/I/2026 (Ganjil 2025/2026)"
  },
  {
   "id": 63,
@@ -1004,10 +1004,10 @@ const KARYA = [
   "thumbnail": "2123053.jpg",
   "pembimbing": "Ria Sapitri, S.Sn., M.Sn",
   "sk_pembimbing": "003/SK/Dekan-FTIN/I/2026 (Ganjil 2025/2026)",
-  "penguji": "",
+  "penguji": "Widiya Lestari Harahap, S.Ds., M.Ds & Assoc. Prof. Dr. Ir. Ririt Dwiputri Permatasari, S.T., M.SI",
   "abstrak": "Latar belakang penelitian ini didasarkan pada potensi besar industri pariwisata di Kota Batam yang terus mengalami peningkatan jumlah wisatawan nusantara setiap tahunnya. Namun, Batam Adventure Park sebagai salah satu destinasi wisata petualangan menghadapi tantangan rendahnya brand awareness di kalangan wisatawan domestik. Permasalahan utama terletak pada identitas visual lama yang dinilai terlalu kompleks, ramai, dan tidak sejalan dengan tren desain modern, sehingga sulit dikenali dan diingat oleh audiens. Tujuan dari perancangan ini adalah untuk membangun dan meningkatkan brand awareness Batam Adventure Park melalui strategi re-branding yang lebih efektif dan modern. Metode perancangan yang digunakan adalah metode campuran (mixed method) yang menggabungkan pendekatan kualitatif melalui observasi dan wawancara, serta pendekatan kuantitatif melalui kuesioner kepada 83 responden. Hasil akhir dari perancangan ini adalah identitas visual baru yang mengusung konsep desain bersih, fungsional, dan modern dengan pesan utama \"Intense, Skilled, Epic\". Implementasi desain mencakup logo utama, logo sekunder, serta berbagai media pendukung seperti kartu nama, tiket, seragam, konten media sosial, hingga sistem penunjuk arah (sign system) untuk meningkatkan kenyamanan pengunjung di lokasi wisata. Perancangan ini diharapkan dapat memperkuat posisi Batam Adventure Park sebagai destinasi petualangan unggulan bagi wisatawan domestik.",
   "kata_kunci": "Batam Adventure Park, Re-Branding, Brand Awareness",
-  "sk_penguji": ""
+  "sk_penguji": "004/SK/Dekan-FTIN/I/2026 (Ganjil 2025/2026)"
  },
  {
   "id": 64,
@@ -1020,10 +1020,10 @@ const KARYA = [
   "thumbnail": "2123025.jpg",
   "pembimbing": "Muhammad Adi Sukma Nalendra, S.Ds., M.Ds",
   "sk_pembimbing": "003/SK/Dekan-FTIN/I/2026 (Ganjil 2025/2026)",
-  "penguji": "",
+  "penguji": "Dany Kurnia Gunawan, S.Sn., M.Sn. & Dely Indah Sari, S.T., M.B.A",
   "abstrak": "Industri pariwisata Kota Batam yang berkembang pesat mendorong kebutuhan akan kemasan oleh-oleh yang representatif. Produk “Mamma Otak-Otak” yang berdiri sejak 1982 memiliki potensi besar, namun kemasan saat ini belum optimal mencerminkan identitas visual lokal. Penelitian ini bertujuan merancang desain kemasan “Mamma Otak-Otak” sebagai representasi visual khas Kota Batam untuk meningkatkan daya tarik dan daya saing. Menggunakan metode campuran (mixed methods), data dikumpulkan melalui observasi, wawancara, kuesioner kepada 50 responden, dan studi literatur. Hasil perancangan mengintegrasikan ikon Jembatan Barelang dan ilustrasi ikan tenggiri dalam gaya vektor modern dengan palet warna hijau dan kuning yang segar. Implementasi desain mencakup empat varian ukuran fungsional, yaitu 10 pcs, 30 pcs, 50 pcs, dan 100 pcs. Melalui penggabungan aspek estetika dan fungsionalitas, desain ini diharapkan mampu memperkuat citra merek dan memposisikan produk sebagai oleh-oleh ikonik khas Batam bagi wisatawan domestik maupun mancanegara.",
   "kata_kunci": "Desain Kemasan, Mamma Otak-Otak, Oleh-oleh, Identitas Visual, Kota Batam",
-  "sk_penguji": ""
+  "sk_penguji": "004/SK/Dekan-FTIN/I/2026 (Ganjil 2025/2026)"
  },
  {
   "id": 65,
@@ -1036,10 +1036,10 @@ const KARYA = [
   "thumbnail": "2123043.jpg",
   "pembimbing": "Muhammad Adi Sukma Nalendra, S.Ds., M.Ds",
   "sk_pembimbing": "003/SK/Dekan-FTIN/I/2026 (Ganjil 2025/2026)",
-  "penguji": "",
+  "penguji": "Tommy Andrea Gunawan, S.Ds., M.A & Zhilla Zhalila Qurrata A’yun, S.Ds., M.Ds",
   "abstrak": "Kurangnya pengenalan alat musik tradisional, khususnya dari Pulau Sumatra, menjadi permasalahan dalam pelestarian budaya di kalangan remaja. Minimnya eksposur melalui pendidikan formal dan media, serta dominasi budaya populer, menyebabkan remaja lebih mengenal alat musik modern dibandingkan alat musik tradisional. Berdasarkan hasil observasi dan kuesioner, diketahui bahwa tingkat pengetahuan dan minat remaja terhadap alat musik tradisional masih rendah.Perancangan ini bertujuan untuk merancang media pengenalan alat musik tradisional Sumatra melalui desain maskot yang komunikatif dan menarik bagi remaja usia 13–18 tahun. Metode yang digunakan meliputi observasi, studi pustaka, dan kuesioner sebagai dasar dalam menentukan konsep perancangan. Hasil perancangan berupa enam karakter maskot yang mewakili alat musik tradisional Sumatra dengan pendekatan visual modern, ekspresif, dan mudah dikenali.Maskot didukung oleh media digital untuk memperluas jangkauan informasi kepada remaja. Diharapkan perancangan ini dapat meningkatkan minat dan pemahaman remaja terhadap alat musik tradisional serta mendukung pelestarian budaya lokal.",
   "kata_kunci": "alat musik tradisional, maskot, remaja, Sumatra, media digital",
-  "sk_penguji": ""
+  "sk_penguji": "004/SK/Dekan-FTIN/I/2026 (Ganjil 2025/2026)"
  },
  {
   "id": 66,
@@ -1059,6 +1059,22 @@ const KARYA = [
  },
  {
   "id": 67,
+  "nama": "Alfajar Madani",
+  "nim": "2123063",
+  "judul": "PERANCANGAN VISUAL BRAND IDENTITY BAKMIE SOEKADJADI: STRATEGI PEMBENTUKAN CITRA BRAND RESTORAN KULINER TIONGHOA PERANAKAN",
+  "semester": "Genap 2024-2025",
+  "kategori": "Branding & Identitas",
+  "karya": "https://drive.google.com/drive/folders/1DwBOijgbNvKs44Yo6ts3ijXCNNYuGrHG?usp=sharing",
+  "thumbnail": "2123063.jpg",
+  "pembimbing": "Tommy Andrea Gunawan, S.Ds., M.A.",
+  "sk_pembimbing": "007/SK/Dekan-FTIN/III/2025 (Genap 2024/2025)",
+  "penguji": "Muhammad Adi Sukma Nalendra, S.Ds., M.Ds & Ir. Dimas Akmarul Putera, M.T.",
+  "abstrak": "Perkembangan kuliner Tionghoa Peranakan di Batam menunjukkan potensi besar dalam industri kreatif, terutama pada sektor kuliner. Namun, banyak usaha kuliner yang menghadapi permasalahan branding, termasuk Bakmie Soekadjadi yang belum memiliki visual brand identity yang konsisten serta menghadapi tantangan dalam memperkuat citra halal pada produk mereka. Penelitian ini bertujuan untuk merancang visual brand identity Bakmie Soekadjadi yang mampu menegaskan keaslian kuliner Tionghoa Peranakan sekaligus membangun citra halal yang kredibel, sehingga meningkatkan daya saing di pasar kuliner Batam. Metode yang digunakan adalah pendekatan branding strategis berbasis teori Desain Komunikasi Visual (DKV), dengan analisis data primer berupa observasi, wawancara, dan kuesioner, serta data sekunder dari literatur terkait branding, kuliner Tionghoa Peranakan, dan halal branding. Hasil perancangan meliputi elemen utama identitas visual seperti logotype, logomark, palet warna, tipografi, dan supergrafis, serta media implementasi berupa kemasan, tableware, merchandise, seragam, stationery, hingga branding digital. Setiap elemen dirancang konsisten untuk menciptakan citra brand yang autentik, komunikatif, dan modern. Hasil penelitian menunjukkan bahwa penerapan visual brand identity yang konsisten tidak hanya memperkuat posisi Bakmie Soekadjadi sebagai kuliner Tionghoa Peranakan halal, tetapi juga meningkatkan potensi penerimaan konsumen, khususnya generasi muda. Selain itu, perancangan ini memberikan kontribusi nyata bagi pengembangan strategi branding restoran kuliner di Batam, menjawab tantangan branding halal sekaligus mempertegas identitas visual Bakmie Soekadjadi di pasar lokal.",
+  "kata_kunci": "Batam, Branding Halal, Desain Komunikasi Visual, Kuliner Tionghoa Peranakan, Restoran, Visual Brand Identity",
+  "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)"
+ },
+ {
+  "id": 68,
   "nama": "Anugrah Lambang Perdana",
   "nim": "2023027",
   "judul": "PERANCANGAN VISUAL BRANDING UMKM DAPOER ANUGRAH: MENINGKATKAN AWARENESS DI MEDIA SOSIAL MELALUI IDENTITAS VISUAL YANG KUAT",
@@ -1074,7 +1090,7 @@ const KARYA = [
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)"
  },
  {
-  "id": 68,
+  "id": 69,
   "nama": "Aron Lie",
   "nim": "2123017",
   "judul": "PERANCANGAN UI/UX TENTANG “PATUNG 1000 TANJUNG PINANG” SEBAGAI PENUNJANG WISATA BUDAYA VIHARA KSITIGARBHA",
@@ -1090,7 +1106,7 @@ const KARYA = [
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)"
  },
  {
-  "id": 69,
+  "id": 70,
   "nama": "Auditya Maha Rendy",
   "nim": "2123052",
   "judul": "PERANCANGAN UI/UX APLIKASI TICKETING TIXBOOM TENTANG PEMESANAN TICKET KONSER UNTUK MASYARAKAT BATAM",
@@ -1106,7 +1122,7 @@ const KARYA = [
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)"
  },
  {
-  "id": 70,
+  "id": 71,
   "nama": "Celine Kang",
   "nim": "2123037",
   "judul": "PERANCANGAN VISUAL BRANDING TENTANG VISALUX DALAM MEMBANGUN KONSISTENSI VISUAL",
@@ -1122,7 +1138,7 @@ const KARYA = [
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)"
  },
  {
-  "id": 71,
+  "id": 72,
   "nama": "Citra Agustina",
   "nim": "2123018",
   "judul": "Perancangan Game Visual Novel Sebagai Media Pengenalan Jurusan Desain Komunikasi Visual Untuk Calon Mahasiswa",
@@ -1138,7 +1154,7 @@ const KARYA = [
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)"
  },
  {
-  "id": 72,
+  "id": 73,
   "nama": "Dena Aprilia Wardana",
   "nim": "2123005",
   "judul": "PERANCANGAN BUKU ILUSTRASI VISUAL DENGAN PENDEKATAN BIBLIOTERAPI UNTUK ANAK-ANAK USIA 9-12 TAHUN PASCA MENGALAMI DUKA",
@@ -1154,7 +1170,7 @@ const KARYA = [
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)"
  },
  {
-  "id": 73,
+  "id": 74,
   "nama": "Eldisya Prislani Putri",
   "nim": "2123028",
   "judul": "Perancangan Kampanye sosial tentang Edukasi Kesetaraan Gender di sosial media",
@@ -1170,7 +1186,7 @@ const KARYA = [
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)"
  },
  {
-  "id": 74,
+  "id": 75,
   "nama": "Ervadiella Indah Mawaddah",
   "nim": "2123047",
   "judul": "PERANCANGAN BUKU ILUSTRASI INTERAKTIF SEBAGAI MEDIA EDUKASI UNTUK MENGENALKAN AKSARA ARAB MELAYU KEPADA ANAK-ANAK USIA 7-12 TAHUN DI KOTA BATAM",
@@ -1186,7 +1202,7 @@ const KARYA = [
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)"
  },
  {
-  "id": 75,
+  "id": 76,
   "nama": "Fina Handalita Tri Damayanti",
   "nim": "2123003",
   "judul": "Perancangan Buku Ensiklopedia Kuliner Khas Kepulauan Riau Sebagai Media Pelestarian Budaya",
@@ -1202,7 +1218,7 @@ const KARYA = [
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)"
  },
  {
-  "id": 76,
+  "id": 77,
   "nama": "Frederico Masyar Palma Wara",
   "nim": "2123045",
   "judul": "PERANCANGAN GAME 2D FIGHTING TENTANG TOKOH MITOLOGI NUSANTARA UNTUK PENGENALAN BUDAYA DI KALANGAN REMAJA",
@@ -1218,7 +1234,7 @@ const KARYA = [
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)"
  },
  {
-  "id": 77,
+  "id": 78,
   "nama": "Fuad Raviqy",
   "nim": "2123060",
   "judul": "PERANCANGAN BRANDING VISUAL IDENTITY EVENT HALLOWEEN NIGHT RUN SEBAGAI STRATEGI PROMOSI SPORT TOURISM DI KOTA BATAM",
@@ -1234,7 +1250,7 @@ const KARYA = [
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)"
  },
  {
-  "id": 78,
+  "id": 79,
   "nama": "Hengky Dwi Putra",
   "nim": "2123029",
   "judul": "Perancangan Rebranding Identitas Visual TOP 100 Supermarket Untuk Mencerminkan Evolusi Merek",
@@ -1250,7 +1266,7 @@ const KARYA = [
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)"
  },
  {
-  "id": 79,
+  "id": 80,
   "nama": "Meylia Putri",
   "nim": "2123049",
   "judul": "PERANCANGAN BUKU ILUSTRASI POP-UP SEBAGAI MEDIA EDUKASI MENGENAI PENTINGNYA KESEHATAN GIGI UNTUK ANAK USIA 6 - 8 TAHUN",
@@ -1266,7 +1282,7 @@ const KARYA = [
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)"
  },
  {
-  "id": 80,
+  "id": 81,
   "nama": "Michelle Fellicia Ang",
   "nim": "2023031",
   "judul": "Perancangan Buku Ilustrasi “ 3 Days Experience of Batam Culinary” Sebagai Pendukung Potensi Kuliner di Batam",
@@ -1282,7 +1298,7 @@ const KARYA = [
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)"
  },
  {
-  "id": 81,
+  "id": 82,
   "nama": "Muhammad Farhan",
   "nim": "2123004",
   "judul": "PERANCANGAN POCKETBOOK INTERAKTIF BERBASIS AUDIOVISUAL TENTANG PENGENALAN GURINDAM 12 KEPADA WISATAWAN GENERASI Z",
@@ -1298,7 +1314,7 @@ const KARYA = [
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)"
  },
  {
-  "id": 82,
+  "id": 83,
   "nama": "Muhammad Farhan Mubarak",
   "nim": "2223105",
   "judul": "PERANCANGAN ANIMASI ADAPTASI KISAH PANGLIMA RAMAN SEBAGAI MEDIA AWARENESS BUDAYA KEPULAUAN RIAU",
@@ -1314,7 +1330,7 @@ const KARYA = [
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)"
  },
  {
-  "id": 83,
+  "id": 84,
   "nama": "Naufal Fadhilah Hakim",
   "nim": "1923013",
   "judul": "PERANCANGAN FOTOGRAFI ESSAY LANDSCAPE KOTA BATAM SEBAGAI MEDIA KRITIK DOKUMENTASI SOSIAL",
@@ -1330,7 +1346,7 @@ const KARYA = [
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)"
  },
  {
-  "id": 84,
+  "id": 85,
   "nama": "Neysa Ignes Virhea Meofa Lebang",
   "nim": "2123051",
   "judul": "REBRANDING IDENTITAS VISUAL ECOKING SEBAGAI UPAYA PENINGKATAN BRAND AWARENESS",
@@ -1346,7 +1362,7 @@ const KARYA = [
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)"
  },
  {
-  "id": 85,
+  "id": 86,
   "nama": "Pramudya Putra Anugrah",
   "nim": "2023064",
   "judul": "PERANCANGAN GAME HORROR VISUAL NOVEL SEI LADI SEBAGAI MEDIA PENGENALAN LEGENDA URBAN KOTA BATAM KEPADA REMAJA 12-18 TAHUN",
@@ -1357,12 +1373,12 @@ const KARYA = [
   "pembimbing": "Tommy Andrea Gunawan, S.Ds., M.A.",
   "sk_pembimbing": "007/SK/Dekan-FTIN/III/2025 (Genap 2024/2025)",
   "penguji": "Muhammad Adi Sukma Nalendra, S.Ds., M.Ds & Alhamidi, M.Kom",
-  "abstrak": "",
-  "kata_kunci": "",
+  "abstrak": "Penelitian ini membahas tentang perancangan video game Hantu Sei Ladi yang ditujukan untuk remaja. Game ini dirancang sebagai media hiburan sekaligus untuk melestarikan cerita rakyat lokal. Metode perancangan yang digunakan meliputi tahap analisis, desain, implementasi, dan evaluasi dengan mengacu pada teori desain game. Hasil penelitian berupa prototipe video game bergenre horor yang menampilkan elemen budaya lokal dalam bentuk karakter, alur cerita, dan latar permainan. Uji coba awal menunjukkan bahwa game ini mampu menarik minat remaja sekaligus memperkenalkan nilai budaya lokal melalui pengalaman bermain interaktif.",
+  "kata_kunci": "Video game, horor, visual novel, legenda urban, budaya lokal, remaja, Sei Ladi",
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)"
  },
  {
-  "id": 86,
+  "id": 87,
   "nama": "Rico",
   "nim": "2123001",
   "judul": "Perancangan Rebranding Fafa Sport Untuk Meningkatkan Brand Awareness",
@@ -1378,7 +1394,7 @@ const KARYA = [
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)"
  },
  {
-  "id": 87,
+  "id": 88,
   "nama": "Ridoy Pardomuan Sibarani",
   "nim": "2023043",
   "judul": "PERANCANGAN KAMPANYE SOSIAL TENTANG PENCEGAHAN JUDI ONLINE DI KALANGAN USIA PRODUKTIF KOTA BATAM",
@@ -1394,7 +1410,23 @@ const KARYA = [
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)"
  },
  {
-  "id": 88,
+  "id": 89,
+  "nama": "Rini Nurcholiq",
+  "nim": "2123054",
+  "judul": "PERANCANGAN KAMPANYE VISUAL: MENINGKATKAN KESADARAN TENTANG DAMPAK TOXIC ONLINE DISINHIBITION DI KALANGAN REMAJA",
+  "semester": "Genap 2024-2025",
+  "kategori": "Branding & Identitas",
+  "karya": "https://drive.google.com/drive/folders/1R9ltSAdxif2eZK4f7P7X-zUqSIhGJCeX?usp=sharing",
+  "thumbnail": "2123054.jpg",
+  "pembimbing": "Widiya Lestari Harahap, S.Ds., M.Ds",
+  "sk_pembimbing": "007/SK/Dekan-FTIN/III/2025 (Genap 2024/2025)",
+  "penguji": "Ria Sapitri, S.Sn., M.Sn & Rifa'atul Mahmudah Burhan, S.Kom., M.Tr.Kom",
+  "abstrak": "Penelitian ini bertujuan untuk merancang kampanye visual guna meningkatkan kesadaran terhadap dampak toxic online disinhibition di kalangan remaja. Fenomena ini telah menjadi masalah serius dalam era digital, memengaruhi interaksi sosial dan kesejahteraan mental. Penelitian ini akan mengembangkan serangkaian media visual yang informatif dan melibatkan, dengan tujuan mendorong introspeksi dan perubahan perilaku positif. Metode penelitian mencakup analisis literatur, wawancara mendalam dengan kelompok target, serta pengembangan dan pengujian konsep visual. Hasil yang diharapkan adalah kampanye visual yang sesuai dalam meningkatkan kesadaran akan toxic online disinhibition, empati online, dan keterampilan komunikasi interpersonal. Penelitian ini diharapkan memberikan kontribusi signifikan dalam upaya mengatasi tantangan komunikasi digital dan mempromosikan penggunaan teknologi yang lebih bertanggung jawab di kalangan generasi muda.",
+  "kata_kunci": "Toxic online disinhibition, kampanye visual, desain komunikasi visual, literasi digital, kesejahteraan mental",
+  "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)"
+ },
+ {
+  "id": 90,
   "nama": "Rio Tristanto",
   "nim": "2123046",
   "judul": "PERANCANGAN IDENTITAS VISUAL WISATA GURUN TELAGA BIRU BINTAN DENGAN BERNUANSA BUDAYA MELAYU KEPULAUAN RIAU",
@@ -1410,7 +1442,7 @@ const KARYA = [
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)"
  },
  {
-  "id": 89,
+  "id": 91,
   "nama": "Sharon Agustine Supriyadi",
   "nim": "2123032",
   "judul": "PERANCANGAN MEDIA EDUKASI TENTANG RASA EMPATI UNTUK ANAK USIA 6-10 TAHUN MELALUI BOARD GAME",
@@ -1426,7 +1458,7 @@ const KARYA = [
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)"
  },
  {
-  "id": 90,
+  "id": 92,
   "nama": "Shelline",
   "nim": "2123015",
   "judul": "Perancangan Kampanye Sosial Tentang Pelecehan Seksual Untuk Meningkatkan Kesadaran Korban dan Masyarakat",
@@ -1442,7 +1474,7 @@ const KARYA = [
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)"
  },
  {
-  "id": 91,
+  "id": 93,
   "nama": "Shilvia Putri Ardani",
   "nim": "2123030",
   "judul": "PERANCANGAN BUKU VISUAL BERBENTUK DIARY SEBAGAI MEDIA KOMUNIKASI AFIRMASI UNTUK ANAK PERTAMA",
@@ -1458,7 +1490,7 @@ const KARYA = [
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)"
  },
  {
-  "id": 92,
+  "id": 94,
   "nama": "Stella",
   "nim": "2123007",
   "judul": "PERANCANGAN KAMPANYE SOSIAL TENTANG BAHAYA MEROKOK SAAT BERKENDARA UNTUK MENINGKATKAN PERUBAHAN PERILAKU PENGENDARA DI KOTA BATAM",
@@ -1469,12 +1501,12 @@ const KARYA = [
   "pembimbing": "Arwin Ramli, S.Tr.I.Kom., M.A",
   "sk_pembimbing": "007/SK/Dekan-FTIN/III/2025 (Genap 2024/2025)",
   "penguji": "Widiya Lestari Harahap, S.Ds., M.Ds & Hendri Kremer, S.E., M.Si",
-  "abstrak": "",
-  "kata_kunci": "",
+  "abstrak": "Perilaku merokok saat berkendara merupakan pelanggaran yang dapat membahayakan keselamatan diri sendiri dan pengguna jalan lainnya, karena mengganggu konsentrasi serta menimbulkan risiko paparan asap dan abu rokok. Di Kota Batam, prevalensi perokok aktif cukup tinggi, yakni mencapai 27,80% penduduk berusia 15 tahun ke atas. Meskipun larangan merokok saat berkendara telah diatur dalam Undang-Undang Lalu Lintas dan Angkutan Jalan (UU LLAJ) Pasal 106 Ayat 1 dan Pasal 283, namun perilaku ini masih sering dijumpai di jalan raya. Minimnya kesadaran pengendara menjadi alasan penting dilakukannya kampanye sosial untuk memberikan edukasi dan mendorong perubahan perilaku. Perancangan ini menggunakan metode kualitatif melalui wawancara, observasi, dan kuesioner untuk menggali informasi dari pelaku dan pihak yang terdampak. Data dianalisis secara deskriptif kualitatif guna merumuskan strategi komunikasi visual yang efektif. Media utama yang dipilih adalah videografi, didukung media pendukung seperti poster, baliho, X-banner, dan media sosial, dengan target audiens remaja hingga dewasa. Hasil perancangan berupa kampanye sosial visual yang menekankan pesan bahaya merokok saat berkendara, dikemas dengan pendekatan emosional dan informatif agar mudah diterima audiens. Diharapkan, kampanye ini dapat meningkatkan perubahan perilaku masyarakat, mengurangi perilaku merokok di jalan, serta menciptakan lingkungan berkendara yang lebih aman, sehat, dan beretika di Kota Batam.",
+  "kata_kunci": "kampanye sosial, merokok saat berkendara, keselamatan lalu lintas, desain komunikasi visual, videografi",
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)"
  },
  {
-  "id": 93,
+  "id": 95,
   "nama": "Stella Ophelia Yolanda",
   "nim": "2123066",
   "judul": "Perancangan Ulang Identitas Visual Bagi JoKapook untuk Meningkatkan Brand Awareness",
@@ -1490,7 +1522,7 @@ const KARYA = [
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)"
  },
  {
-  "id": 94,
+  "id": 96,
   "nama": "Vito Fernando Lumempouw",
   "nim": "2123059",
   "judul": "Perancangan Visual Identity Moslem Binus International School Batam Untuk Meningkatkan Daya Tarik Konsumen Kelas Atas",
@@ -1503,38 +1535,6 @@ const KARYA = [
   "penguji": "Tommy Andrea Gunawan, S.Ds., M.A. & Sasa Ani Arnomo, S.Kom., M.SI. Ph.D",
   "abstrak": "Moslem Binus International School (M-BIS) Batam merupakan hasil rebranding dari Sekolah Bina Nusantara Batam yang terdampak penurunan pendaftar selama pandemi COVID-19. Meskipun perubahan kurikulum dan program Cambridge dan metode Ummi telah dilakukan, identitas visual sekolah belum konsisten mencerminkan positioning sebagai sekolah Islam berstandar internasional. Penelitian ini merancang ulang visual identity M-BIS menggunakan metodologi branding menurut Alina Wheeler, yang mencakup lima tahap (research, clarify strategy, design identity, create touchpoints, dan manage assets). Metode penelitian bersifat kualitatif dan deskriptif: wawancara, observasi lapangan, studi dokumentasi, serta survei perbandingan persepsi (pre/post) yang dioperasionalisasikan berdasarkan kerangka AIDA (Attention, Interest, Desire, Action). Hasil perancangan mencakup logo, palet warna, tipografi, dan panduan Graphic Standard Manual (GSM) yang diimplementasikan pada media cetak, digital, dan lingkungan sekolah. Evaluasi awal pasca-penerapan menunjukkan peningkatan persepsi konsistensi visual dan ketertarikan target segmen, indikator pengukuran meliputi hasil survei persepsi, interaksi pameran, dan indikator media sosial. Diharapkan identitas visual baru memperkuat posisi M-BIS sebagai pilihan utama keluarga Muslim kelas atas yang mencari perpaduan nilai religius dan kualitas internasional.",
   "kata_kunci": "Visual Identity, Rebranding, Sekolah Islam, Internasional, Konsumen Kelas Atas",
-  "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)"
- },
- {
-  "id": 95,
-  "nama": "Alfajar Madani",
-  "nim": "2123063",
-  "judul": "PERANCANGAN VISUAL BRAND IDENTITY BAKMIE SOEKADJADI: STRATEGI PEMBENTUKAN CITRA BRAND RESTORAN KULINER TIONGHOA PERANAKAN",
-  "semester": "Genap 2024-2025",
-  "kategori": "Branding & Identitas",
-  "karya": "https://drive.google.com/drive/folders/1DwBOijgbNvKs44Yo6ts3ijXCNNYuGrHG?usp=sharing",
-  "thumbnail": "",
-  "pembimbing": "Tommy Andrea Gunawan, S.Ds., M.A.",
-  "sk_pembimbing": "007/SK/Dekan-FTIN/III/2025 (Genap 2024/2025)",
-  "penguji": "Muhammad Adi Sukma Nalendra, S.Ds., M.Ds & Ir. Dimas Akmarul Putera, M.T.",
-  "abstrak": "Perkembangan kuliner Tionghoa Peranakan di Batam menunjukkan potensi besar dalam industri kreatif, terutama pada sektor kuliner. Namun, banyak usaha kuliner yang menghadapi permasalahan branding, termasuk Bakmie Soekadjadi yang belum memiliki visual brand identity yang konsisten serta menghadapi tantangan dalam memperkuat citra halal pada produk mereka. Penelitian ini bertujuan untuk merancang visual brand identity Bakmie Soekadjadi yang mampu menegaskan keaslian kuliner Tionghoa Peranakan sekaligus membangun citra halal yang kredibel, sehingga meningkatkan daya saing di pasar kuliner Batam. Metode yang digunakan adalah pendekatan branding strategis berbasis teori Desain Komunikasi Visual (DKV), dengan analisis data primer berupa observasi, wawancara, dan kuesioner, serta data sekunder dari literatur terkait branding, kuliner Tionghoa Peranakan, dan halal branding. Hasil perancangan meliputi elemen utama identitas visual seperti logotype, logomark, palet warna, tipografi, dan supergrafis, serta media implementasi berupa kemasan, tableware, merchandise, seragam, stationery, hingga branding digital. Setiap elemen dirancang konsisten untuk menciptakan citra brand yang autentik, komunikatif, dan modern. Hasil penelitian menunjukkan bahwa penerapan visual brand identity yang konsisten tidak hanya memperkuat posisi Bakmie Soekadjadi sebagai kuliner Tionghoa Peranakan halal, tetapi juga meningkatkan potensi penerimaan konsumen, khususnya generasi muda. Selain itu, perancangan ini memberikan kontribusi nyata bagi pengembangan strategi branding restoran kuliner di Batam, menjawab tantangan branding halal sekaligus mempertegas identitas visual Bakmie Soekadjadi di pasar lokal.",
-  "kata_kunci": "Batam, Branding Halal, Desain Komunikasi Visual, Kuliner Tionghoa Peranakan, Restoran, Visual Brand Identity",
-  "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)"
- },
- {
-  "id": 96,
-  "nama": "Rini Nurcholiq",
-  "nim": "2123054",
-  "judul": "PERANCANGAN KAMPANYE VISUAL: MENINGKATKAN KESADARAN TENTANG DAMPAK TOXIC ONLINE DISINHIBITION DI KALANGAN REMAJA",
-  "semester": "Genap 2024-2025",
-  "kategori": "Branding & Identitas",
-  "karya": "https://drive.google.com/drive/folders/1R9ltSAdxif2eZK4f7P7X-zUqSIhGJCeX?usp=sharing",
-  "thumbnail": "",
-  "pembimbing": "Widiya Lestari Harahap, S.Ds., M.Ds",
-  "sk_pembimbing": "007/SK/Dekan-FTIN/III/2025 (Genap 2024/2025)",
-  "penguji": "Ria Sapitri, S.Sn., M.Sn & Rifa'atul Mahmudah Burhan, S.Kom., M.Tr.Kom",
-  "abstrak": "",
-  "kata_kunci": "",
   "sk_penguji": "018/SK/Dekan-FTIN/VII/2025 (Genap 2024/2025)"
  }
 ];
